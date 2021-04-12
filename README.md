@@ -10,4 +10,5 @@
 | 5 | [Ugly Number - 丑数](https://leetcode-cn.com/problems/ugly-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Ugly-Number.cpp) | Easy | 2021.4.10 |
 | 6 | [Ugly Number II - 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Ugly-Number-II.cpp) | Middle | 2021.4.11 |
 | 7 | [Add Two Numbers - 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Two-Numbers.cpp) | Middle | 2021.4.11 |
+| 8 | [Largest Number - 最大数](https://leetcode-cn.com/problems/largest-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Number.cpp) | Middle | 2021.4.12 |
 
