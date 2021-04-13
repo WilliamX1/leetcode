@@ -11,4 +11,5 @@
 | 6 | [Ugly Number II - 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Ugly-Number-II.cpp) | Middle | 2021.4.11 |
 | 7 | [Add Two Numbers - 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Two-Numbers.cpp) | Middle | 2021.4.11 |
 | 8 | [Largest Number - 最大数](https://leetcode-cn.com/problems/largest-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Number.cpp) | Middle | 2021.4.12 |
+| 9 | [Minimum Distance Between BST Nodes -  二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Distance-Between-BST-Nodes.cpp) | Easy | 2021.4.13 |
 
