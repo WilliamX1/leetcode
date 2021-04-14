@@ -4,6 +4,8 @@
         "list": "cpp",
         "stack": "cpp",
         "algorithm": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "hash_map": "cpp",
+        "string": "cpp"
     }
 }
