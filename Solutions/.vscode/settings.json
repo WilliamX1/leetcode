@@ -6,6 +6,7 @@
         "algorithm": "cpp",
         "xstring": "cpp",
         "hash_map": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "deque": "cpp"
     }
 }
