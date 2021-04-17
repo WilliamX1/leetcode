@@ -19,5 +19,6 @@
 | 14 | [House Robber II - 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/House-Robber-II.cpp) | Middle | 2021.4.15 |
 | 15 | [Scramble String - 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Scramble-String.cpp) | Hard | 2021.4.16 |
 | 16 | [Contains Duplicate III - 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Contains-Duplicate-III.cpp) | Middle | 2021.4.17 |
+| 17 | [Longest Palindromic Substring - 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Palindromic-Substring.cpp) | Middle | 2021.4.17 |
 
 
