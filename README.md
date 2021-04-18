@@ -20,5 +20,6 @@
 | 15 | [Scramble String - 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Scramble-String.cpp) | Hard | 2021.4.16 |
 | 16 | [Contains Duplicate III - 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Contains-Duplicate-III.cpp) | Middle | 2021.4.17 |
 | 17 | [Longest Palindromic Substring - 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Palindromic-Substring.cpp) | Middle | 2021.4.17 |
+| 18 | [Remove Duplicates from Sorted Array - 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Duplicates-from-Sorted-Array.cpp) | Easy | 2021.4.18 |
 
 
