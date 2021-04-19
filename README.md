@@ -17,10 +17,11 @@
 | 12 | [Median of Two Sorted Arrays - 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Median-of-Two-Sorted-Arrays.cpp) | Hard | 2021.4.13 |
 | 13 | [Implement Trie (Prefix Tree) - 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Implement-Trie-(Prefix-Tree).cpp) | Middle | 2021.4.14 |
 | 14 | [House Robber II - 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/House-Robber-II.cpp) | Middle | 2021.4.15 |
-| 15 | [Scramble String - 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Scramble-String.cpp) | Hard | 2021.4.16 |
-| 16 | [Contains Duplicate III - 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Contains-Duplicate-III.cpp) | Middle | 2021.4.17 |
-| 17 | [Longest Palindromic Substring - 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Palindromic-Substring.cpp) | Middle | 2021.4.17 |
-| 18 | [Remove Duplicates from Sorted Array - 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Duplicates-from-Sorted-Array.cpp) | Easy | 2021.4.18 |
-| 19 | [Remove Element - 移除元素](https://leetcode-cn.com/problems/remove-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Element.cpp) | Easy | 2021.4.19 |
+| 15 | [Sum of Subarray Minimums - 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Subarray-Minimums.cpp) | Middle | 2021.4.15 |
+| 16 | [Scramble String - 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Scramble-String.cpp) | Hard | 2021.4.16 |
+| 17 | [Contains Duplicate III - 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Contains-Duplicate-III.cpp) | Middle | 2021.4.17 |
+| 18 | [Longest Palindromic Substring - 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Palindromic-Substring.cpp) | Middle | 2021.4.17 |
+| 19 | [Remove Duplicates from Sorted Array - 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Duplicates-from-Sorted-Array.cpp) | Easy | 2021.4.18 |
+| 20 | [Remove Element - 移除元素](https://leetcode-cn.com/problems/remove-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Element.cpp) | Easy | 2021.4.19 |
 
 
