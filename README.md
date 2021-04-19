@@ -23,5 +23,10 @@
 | 18 | [Longest Palindromic Substring - 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Palindromic-Substring.cpp) | Middle | 2021.4.17 |
 | 19 | [Remove Duplicates from Sorted Array - 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Duplicates-from-Sorted-Array.cpp) | Easy | 2021.4.18 |
 | 20 | [Remove Element - 移除元素](https://leetcode-cn.com/problems/remove-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Element.cpp) | Easy | 2021.4.19 |
-
-
+| <i>21</i> | [Single-Threaded CPU - 单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Single-Threaded-CPU.cpp) | Middle | 2021.4.18 |
+| <i>22</i> | [Check if the Sentence Is Pangram - 判断句子是否为全字母句](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-the-Sentence-Is-Pangram.cpp) | Easy | 2021.4.18 |
+| <i>23</i> | [Maximum Ice Cream Bars - 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Ice-Cream-Bars.cpp) | Middle | 2021.4.18 |
+| <i>24</i> | [Find XOR Sum of All Pairs Bitwise AND - 所有数对按位与结果的异或和](https://leetcode-cn.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-XOR-Sum-of-All-Pairs-Bitwise-AND.cpp) | Hard | 2021.4.18 |
+| <i>25</i> | [Minimum Operations to Make the Array Increasing - 最少操作使数组递增](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Make-the-Array-Increasing.cpp) | Easy | 2021.4.19 |
+| <i>26</i> | [Queries on Number of Points Inside a Circle - 统计一个圆中点的数目](https://leetcode-cn.com/problems/queries-on-number-of-points-inside-a-circle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queries-on-Number-of-Points-Inside-a-Circle.cpp) | Middle | 2021.4.19 |
+| <i>27</i> | [Maximum XOR for Each Query - 每个查询的最大异或值](https://leetcode-cn.com/problems/maximum-xor-for-each-query/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queries-on-Number-of-Points-Inside-a-Circle.cpp) | Middle | 2021.4.19 |
