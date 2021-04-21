@@ -32,3 +32,7 @@
 | <i>27</i> | [Maximum XOR for Each Query - 每个查询的最大异或值](https://leetcode-cn.com/problems/maximum-xor-for-each-query/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queries-on-Number-of-Points-Inside-a-Circle.cpp) | Middle | 2021.4.19 |
 | 28 | [Implement strStr() - 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Implement-strStr.py) | Easy | 2021.4.20 |
 | 29 | [Decode Ways - 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [Python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decode-Ways.py) | Middle | 2021.4.21 |
+| <i>30</i> | [Sign of the Product of an Array - 数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sign-of-the-Product-of-an-Array.cpp) | Easy | 2021.4.21 |
+| <i>31</i> | [Find the Winner of the Circular Game - 找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Winner-of-the-Circular-Game.cpp) | Middle | 2021.4.21 |
+| <i>32</i> | [Minimum Sideway Jumps - 最少侧跳次数](https://leetcode-cn.com/problems/minimum-sideway-jumps/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Sideway-Jumps.cpp) | Middle | 2021.4.21 |
+
