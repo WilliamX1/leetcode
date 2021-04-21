@@ -31,3 +31,4 @@
 | <i>26</i> | [Queries on Number of Points Inside a Circle - 统计一个圆中点的数目](https://leetcode-cn.com/problems/queries-on-number-of-points-inside-a-circle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queries-on-Number-of-Points-Inside-a-Circle.cpp) | Middle | 2021.4.19 |
 | <i>27</i> | [Maximum XOR for Each Query - 每个查询的最大异或值](https://leetcode-cn.com/problems/maximum-xor-for-each-query/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queries-on-Number-of-Points-Inside-a-Circle.cpp) | Middle | 2021.4.19 |
 | 28 | [Implement strStr() - 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Implement-strStr.py) | Easy | 2021.4.20 |
+| 29 | [Decode Ways - 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [Python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decode-Ways.py) | Middle | 2021.4.21 |
