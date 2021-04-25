@@ -44,4 +44,6 @@
 | <i>39</i> | [Count Nice Pairs in an Array - 统计一个数组中好对子的数目](https://leetcode-cn.com/problems/count-nice-pairs-in-an-array/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Nice-Pairs-in-an-Array.py) | Middle | 2021.4.24 |
 | <font color=red>40</font> | [Maximum Number of Groups Getting Fresh Donuts - 得到新鲜甜甜圈的最多组数](https://leetcode-cn.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Groups-Getting-Fresh-Donuts.cpp) | Hard | 2021.4.24 |
 | <font color=red>41</font> | [Finding MK Average - 求出 MK 平均值](https://leetcode-cn.com/problems/finding-mk-average/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Finding-MK-Average.cpp) | Hard | 2021.4.24 |
+| 42 | [Increasing Order Search Tree - 递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Increasing-Order-Search-Tree.py) | Easy | 2021.4.25 |
+| 43 | [Remove All Adjacent Duplicates in String II - 删除字符串中的所有相邻重复项 II](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-All-Adjacent-Duplicates-in-String-II.py) | Middle | 2021.4.25 |
 
