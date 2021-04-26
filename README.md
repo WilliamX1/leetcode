@@ -50,5 +50,5 @@
 | 45 | [Sum of Digits in Base K - 在K 进制表示下的各位数字总和](https://leetcode-cn.com/problems/sum-of-digits-in-base-k/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Digits-in-Base-K.py) | Easy | 2021.4.26 |
 | 46 | [Frequency of the Most Frequent Element - 最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frequency-of-the-Most-Frequent-Element.py) | Middle | 2021.4.26 |
 | 47 | [Longest Substring Of All Vowels in Order - 所有元音按顺序排布的最长子字符串](https://leetcode-cn.com/problems/longest-substring-of-all-vowels-in-order/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frequency-of-the-Most-Frequent-Element.py) | Middle | 2021.4.26 |
-| <font color=red>48</font> | [Maximum Building Height - 最高建筑高度](https://leetcode-cn.com/problems/maximum-building-height/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Building-Height.cpp) | Hard | 2021.4.26 |
-
+| <font color=red>48</font> | [Maximum Building Height - 最高建筑高度](https://leetcode-cn.com/problems/maximum-building-height/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Building-Height.cpp) | Hard | 2021.4.26 |
+| 48 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Offer-03.py) | Easy | 2021.4.26 |
