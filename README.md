@@ -53,3 +53,6 @@
 | <font color=red>48</font> | [Maximum Building Height - 最高建筑高度](https://leetcode-cn.com/problems/maximum-building-height/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Building-Height.cpp) | Hard | 2021.4.26 |
 | 49 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Offer-03.py) | Easy | 2021.4.26 |
 | 50 | [二叉搜索树的范围和 - Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Range-Sum-of-BST.py) | Easy | 2021.4.27 |
+| 51 | [平方数之和 - Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Square-Numbers.py) | Middle | 2021.4.28 |
+| 52 | [三维形体的表面积 - Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Surface-Area-of-3D-Shapes.py) | Easy | 2021.4.28 |
+| 53 | [青蛙过河 - Frog Jump](https://leetcode-cn.com/problems/frog-jump/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frog-Jump.py) | Hard | 2021.4.29 |
