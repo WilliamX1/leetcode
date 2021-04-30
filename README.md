@@ -55,4 +55,8 @@
 | 50 | [二叉搜索树的范围和 - Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Range-Sum-of-BST.py) | Easy | 2021.4.27 |
 | 51 | [平方数之和 - Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Square-Numbers.py) | Middle | 2021.4.28 |
 | 52 | [三维形体的表面积 - Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [python3](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Surface-Area-of-3D-Shapes.py) | Easy | 2021.4.28 |
-| 53 | [青蛙过河 - Frog Jump](https://leetcode-cn.com/problems/frog-jump/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frog-Jump.py) | Hard | 2021.4.29 |
+| 53 | [青蛙过河 - Frog Jump](https://leetcode-cn.com/problems/frog-jump/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frog-Jump.cpp) | Hard | 2021.4.29 |
+| 54 | [只出现一次的数字 - Single Number](https://leetcode-cn.com/problems/single-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Single-Number.cpp) | Easy | 2021.4.30 |
+| 55 | [只出现一次的数字 II - Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Single-Number-II.cpp) | Middle | 2021.4.30 |
+| 56 | [只出现一次的数字 III - Single Number III](https://leetcode-cn.com/problems/single-number-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Single-Number-III.cpp) | Middle | 2021.4.30 |
+
