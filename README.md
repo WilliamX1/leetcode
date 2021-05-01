@@ -59,4 +59,4 @@
 | 54 | [只出现一次的数字 - Single Number](https://leetcode-cn.com/problems/single-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Single-Number.cpp) | Easy | 2021.4.30 |
 | 55 | [只出现一次的数字 II - Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Single-Number-II.cpp) | Middle | 2021.4.30 |
 | 56 | [只出现一次的数字 III - Single Number III](https://leetcode-cn.com/problems/single-number-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Single-Number-III.cpp) | Middle | 2021.4.30 |
-
+| 57 | [员工的重要性 - Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Employee-Importance.cpp) | Easy | 2021.5.1 |
