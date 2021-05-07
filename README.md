@@ -62,3 +62,8 @@
 | 57 | [员工的重要性 - Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Employee-Importance.cpp) | Easy | 2021.5.1 |
 | 58 | [删除并获得点数 - Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Delete-and-Earn.cpp) | Middle | 2021.5.5 |
 | 59 | [解码异或后的数组 - Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decode-XORed-Array.cpp) | Easy | 2021.5.6 |
+| 60 | [Implement strStr() - 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Implement-strStr.cpp) | Easy | 2021.5.6 |
+| 61 | [Longest Common Prefix - 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Common-Prefix.cpp) | Easy | 2021.5.6 |
+| 62 | [Longest Substring Without Repeating Characters - 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Substring-Without-Repeating-Characters.cpp) | Middle | 2021.5.6 |
+| 63 | [ZigZag Conversion - Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/ZigZag-Conversion.cpp) | Middle | 2021.5.6 |
+| 64 | [XOR Operation in an Array - 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/XOR-Operation-in-an-Array.cpp) | Easy | 2021.5.7 |
