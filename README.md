@@ -67,3 +67,4 @@
 | 62 | [Longest Substring Without Repeating Characters - 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Substring-Without-Repeating-Characters.cpp) | Middle | 2021.5.6 |
 | 63 | [ZigZag Conversion - Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/ZigZag-Conversion.cpp) | Middle | 2021.5.6 |
 | 64 | [XOR Operation in an Array - 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/XOR-Operation-in-an-Array.cpp) | Easy | 2021.5.7 |
+| 65 | [Minimum Distance to the Target Element - 到目标元素的最小距离](https://leetcode-cn.com/problems/minimum-distance-to-the-target-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Distance-to-the-Target-Element.cpp) | Easy | 2021.5.7 |

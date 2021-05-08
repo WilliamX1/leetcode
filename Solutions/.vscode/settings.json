@@ -9,6 +9,8 @@
         "string": "cpp",
         "deque": "cpp",
         "cstring": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "iostream": "cpp",
+        "cstdlib": "cpp"
     }
 }
