@@ -71,3 +71,5 @@
 | 66 | [Print in Order - 按序打印](https://leetcode-cn.com/problems/print-in-order/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Print-in-Order.cpp) | Easy | 2021.5.8 |
 | 67 | [Print FooBar Alternately - 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Print-FooBar-Alternately.cpp) | Middle | 2021.5.8 |
 | 68 | [Minimum Number of Days to Make m Bouquets - 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Days-to-Make-m-Bouquets.cpp) | Middle | 2021.5.9 |
+| 69 | [Leaf-Similar Trees - 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Leaf-Similar-Trees.cpp) | Easy | 2021.5.10 |
+| 70 | [Decode XORed Permutation - 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decode-XORed-Permutation.cpp) | Middle | 2021.5.11 |

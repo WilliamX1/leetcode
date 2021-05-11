@@ -5,25 +5,26 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Solutions_f4933c32"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Solutions_f4933c32"
+        },
+        {
             "name": "Python: 当前文件",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"
         },
-        // {
-        //     "name": "Python: Remote Attach",
-        //     "type": "python",
-        //     "request": "attach",
-        //     "port": 5688,
-        //     "host": "localhost",
-        //     "pathMappings": [
-        //         {
-        //             "localRoot": "${workspaceFolder}",
-        //             "remoteRoot": "."
-        //         }
-        //     ]
-        // },
         {
             "name": "g++.exe - 生成和调试活动文件",
             "type": "cppdbg",
@@ -36,11 +37,13 @@
             "externalConsole": false,
             "MIMode": "gdb",
             "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe",
-            "setupCommands": [{
-                "description": "为 gdb 启用整齐打印",
-                "text": "-enable-pretty-printing",
-                "ignoreFailures": true
-            }],
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
             "preLaunchTask": "C/C++: g++.exe 生成活动文件"
         }
     ]
