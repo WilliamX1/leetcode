@@ -73,3 +73,4 @@
 | 68 | [Minimum Number of Days to Make m Bouquets - 制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Days-to-Make-m-Bouquets.cpp) | Middle | 2021.5.9 |
 | 69 | [Leaf-Similar Trees - 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Leaf-Similar-Trees.cpp) | Easy | 2021.5.10 |
 | 70 | [Decode XORed Permutation - 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decode-XORed-Permutation.cpp) | Middle | 2021.5.11 |
+| 71 | [XOR Queries of a Subarray - 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/XOR-Queries-of-a-Subarray.cpp) | Middle | 2021.5.12 |
