@@ -78,3 +78,4 @@
 | 73 | [Integer to Roman - 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Integer-to-Roman.cpp) | Middle | 2021.5.14 |
 | 74 | [Roman to Integer - 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Roman-to-Integer.cpp) | Easy | 2021.5.15 |
 | 75 | [Cousins in Binary Tree - 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Cousins-in-Binary-Tree.cpp) | Easy | 2021.5.17 |
+| 76 | [Count Triplets That Can Form Two Arrays of Equal XOR - 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR.cpp) | Middle | 2021.5.18 |

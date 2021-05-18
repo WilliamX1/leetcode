@@ -12,13 +12,6 @@
             "projectName": "Solutions_f4933c32"
         },
         {
-            "type": "java",
-            "name": "Launch Hello",
-            "request": "launch",
-            "mainClass": "Hello",
-            "projectName": "Solutions_f4933c32"
-        },
-        {
             "name": "Python: 当前文件",
             "type": "python",
             "request": "launch",
