@@ -113,3 +113,11 @@
 | 107 | [Merge Two Sorted Lists - 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-Two-Sorted-Lists.cpp) | Easy | 2021.6.1 |
 | 108 | [Generate Parentheses - 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Generate-Parentheses.cpp) | Middle | 2021.6.1 |
 | 109 | [Generate Parentheses - 下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Next-Permutation.cpp) | Middle | 2021.6.1 |
+| 110 | [Search in Rotated Sorted Array - 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Search-in-Rotated-Sorted-Array.cpp) | Middle | 2021.6.1 |
+| 111 | [Find First and Last Position of Element in Sorted Array - 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-First-and-Last-Position-of-Element-in-Sorted-Array.cpp) | Middle | 2021.6.1 |
+| 112 | [Permutations - 全排列](https://leetcode-cn.com/problems/permutations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Permutations.cpp) | Middle | 2021.6.1 |
+| 113 | [Rotate Image - 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Rotate-Image.cpp) | Middle | 2021.6.1 |
+| 114 | [Group Anagrams - 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Group-Anagrams.cpp) | Middle | 2021.6.1 |
+| 115 | [Maximum Subarray - 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Subarray.cpp) | Easy | 2021.6.1 |
+| 116 | [Jump Game - 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Jump-Game.cpp) | Middle | 2021.6.1 |
+| 117 | [Merge Intervals - 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-Intervals.cpp) | Middle | 2021.6.1 |
