@@ -126,3 +126,5 @@
 | 119 | [Minimum Path Sum - 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Path-Sum.cpp) | Middle | 2021.6.2 |
 | 120 | [Climbing Stairs - 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Climbing-Stairs.cpp) | Easy | 2021.6.2 |
 | 121 | [Contiguous Array - 连续数组](https://leetcode-cn.com/problems/contiguous-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Contiguous-Array.cpp) | Middle | 2021.6.3 |
+| 122 | [Daily Temperatures - 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Daily-Temperatures.cpp) | Middle | 2021.6.3 |
+| 123 | [Palindromic Substrings - 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Palindromic-Substrings.cpp) | Middle | 2021.6.3 |
