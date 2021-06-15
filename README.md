@@ -138,3 +138,4 @@
 | 131 | [First Bad Version - 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/First-Bad-Version.cpp) | Easy | 2021.6.13 |
 | 132 | [Redistribute Characters to Make All Strings Equal - 重新分配字符使所有字符串都相等](https://leetcode-cn.com/contest/weekly-contest-245/problems/redistribute-characters-to-make-all-strings-equal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Coin-Change-2.cpp) | Easy | 2021.6.13 |
 | 133 | [Guess Number Higher or Lower - 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Guess-Number-Higher-or-Lower.cpp) | Easy | 2021.6.14 |
+| 134 | [Peak Index in a Mountain Array - 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Peak-Index-in-a-Mountain-Array.cpp) | Easy | 2021.6.15 |
