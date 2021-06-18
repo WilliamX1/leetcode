@@ -10,7 +10,7 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        int low = 1, high = n, mid;
+        int64_t low = 1, high = n, mid;
         while (low <= high) {
             mid = (low + high) >> 1;
             switch (guess(mid))
