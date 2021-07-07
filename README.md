@@ -162,4 +162,7 @@
 | 151 | [Shortest Palindrome -  最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shortest-Palindrome.cpp) | Hard | 2021.6.24 |
 | 152 | [Split a String in Balanced Strings -  分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Split-a-String-in-Balanced-Strings.cpp) | Easy | 2021.6.24 |
 | 153 | [Display Table of Food Orders in a Restaurant -  点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Display-Table-of-Food-Orders-in-a-Restaurant.cpp) | Middle | 2021.7.6 |
+| 154 | [Build Array from Permutation - 基于排列构建数组](https://leetcode-cn.com/problems/build-array-from-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Build-Array-from-Permutation.cpp) | Easy | 2021.7.6 |
+| 155 | [Eliminate Maximum Number of Monsters - 消灭怪物的最大数量](https://leetcode-cn.com/contest/weekly-contest-248/problems/eliminate-maximum-number-of-monsters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Eliminate-Maximum-Number-of-Monsters.cpp) | Easy | 2021.7.6 |
+| 156 | [Count Good Meals -  大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Good-Meals.cpp) | Middle | 2021.7.7 |
 
