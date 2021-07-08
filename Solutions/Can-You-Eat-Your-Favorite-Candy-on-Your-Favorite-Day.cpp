@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <vid
 
 using namespace std;
 

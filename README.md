@@ -165,4 +165,8 @@
 | 154 | [Build Array from Permutation - 基于排列构建数组](https://leetcode-cn.com/problems/build-array-from-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Build-Array-from-Permutation.cpp) | Easy | 2021.7.6 |
 | 155 | [Eliminate Maximum Number of Monsters - 消灭怪物的最大数量](https://leetcode-cn.com/contest/weekly-contest-248/problems/eliminate-maximum-number-of-monsters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Eliminate-Maximum-Number-of-Monsters.cpp) | Easy | 2021.7.6 |
 | 156 | [Count Good Meals -  大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Good-Meals.cpp) | Middle | 2021.7.7 |
+| 157 | [Binary Subarrays With Sum -  和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Subarrays-With-Sum.cpp) | Middle | 2021.7.8 |
+| 158 | [Combination Sum -  组合总和](https://leetcode-cn.com/problems/combination-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Combination-Sum.cpp) | Middle | 2021.7.8 |
+| 159 | [Sort Colors -  颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-Colors.cpp) | Middle | 2021.7.8 |
+| 160 | [Find Majority Element LCCI -  主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Majority-Element-LCCI.cpp) | Easy | 2021.7.9 |
 
