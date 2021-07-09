@@ -169,4 +169,9 @@
 | 158 | [Combination Sum -  组合总和](https://leetcode-cn.com/problems/combination-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Combination-Sum.cpp) | Middle | 2021.7.8 |
 | 159 | [Sort Colors -  颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-Colors.cpp) | Middle | 2021.7.8 |
 | 160 | [Find Majority Element LCCI -  主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Majority-Element-LCCI.cpp) | Easy | 2021.7.9 |
+| 161 | [Binary Search -  二分查找](https://leetcode-cn.com/problems/binary-search/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Search.cpp) | Easy | 2021.7.9 |
+| 162 | [Search Insert Position -  搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Search-Insert-Position.cpp) | Easy | 2021.7.9 |
+| 163 | [Maximum Product Difference Between Two Pairs -  两个数对之间的最大乘积差](https://leetcode-cn.com/problems/maximum-product-difference-between-two-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Product-Difference-Between-Two-Pairs.cpp) | Easy | 2021.7.9 |
+| 164 | [Cyclically Rotating a Grid -  循环轮转矩阵](https://leetcode-cn.com/problems/cyclically-rotating-a-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Cyclically-Rotating-a-Grid.cpp) | Middle | 2021.7.9 |
+| 165 | [Number of Wonderful Substrings -  最美子字符串的数目](https://leetcode-cn.com/problems/number-of-wonderful-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Wonderful-Substrings.cpp) | Middle | 2021.7.9 |
 

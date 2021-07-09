@@ -6,8 +6,7 @@ public:
             if (nums[i] == 0) swap(nums[left++], nums[i]);
         };
         for (int i = left; i < len; i++) {
-            if (nums[i] == 1) swap(nums[left], nums[i]);
-            left++;
+            if (nums[i] == 1) swap(nums[left++], nums[i]);
         };
         return;
     }
