@@ -200,3 +200,4 @@
 | 189 | [Painting a Grid With Three Different Colors - 用三种不同颜色为网格涂色](https://leetcode-cn.com/contest/weekly-contest-249/problems/painting-a-grid-with-three-different-colors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Painting-a-Grid-With-Three-Different-Colors.cpp) | Hard | 2021.7.11 |
 | 190 | [H-Index - H 指数](https://leetcode-cn.com/problems/h-index/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/H-Index.cpp) | Middle | 2021.7.11 |
 | 191 | [Merge BSTs to Create Single BST - 合并多棵二叉搜索树](https://leetcode-cn.com/problems/merge-bsts-to-create-single-bst/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-BSTs-to-Create-Single-BST.cpp) | Hard | 2021.7.11 |
+| 192 | [H-Index II - H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/H-Index-II.cpp) | Middle| 2021.7.12 |
