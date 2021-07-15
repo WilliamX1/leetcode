@@ -1,4 +1,10 @@
 # Leetcode
+### 剑指Offer
+| Cnt | Title | Solution | Difficulty | date |
+| :----: | :------ | :------ | :--- | :--: |
+| 1 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/3.cpp)| Easy | 2021.7.12 |
+
+-------
 每日一题，今天开始
 ### LeetCode Algorithm
 | Cnt | Title | Solution | Difficulty | date |
@@ -200,4 +206,9 @@
 | 189 | [Painting a Grid With Three Different Colors - 用三种不同颜色为网格涂色](https://leetcode-cn.com/contest/weekly-contest-249/problems/painting-a-grid-with-three-different-colors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Painting-a-Grid-With-Three-Different-Colors.cpp) | Hard | 2021.7.11 |
 | 190 | [H-Index - H 指数](https://leetcode-cn.com/problems/h-index/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/H-Index.cpp) | Middle | 2021.7.11 |
 | 191 | [Merge BSTs to Create Single BST - 合并多棵二叉搜索树](https://leetcode-cn.com/problems/merge-bsts-to-create-single-bst/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-BSTs-to-Create-Single-BST.cpp) | Hard | 2021.7.11 |
-| 192 | [H-Index II - H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/H-Index-II.cpp) | Middle| 2021.7.12 |
+| 192 | [H-Index II - H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/H-Index-II.cpp) | Middle | 2021.7.12 |
+| 193 | [Maximum Element After Decreasing and Rearranging - 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Element-After-Decreasing-and-Rearranging.cpp) | Middle | 2021.7.15 |
+| 194 | [Find All Good Strings - 找到所有好字符串](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Lucky-Integer-in-an-Array.cpp) | Easy | 2021.7.15 |
+| 195 | [Count Number of Teams - 统计作战单位数](https://leetcode-cn.com/contest/weekly-contest-182/problems/count-number-of-teams/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Teams.cpp) | Middle | 2021.7.15 |
+| 196 | [Design Underground System - 设计地铁系统](https://leetcode-cn.com/contest/weekly-contest-182/problems/design-underground-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-Underground-System.cpp) | Middle | 2021.7.15 |
+
