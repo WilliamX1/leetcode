@@ -20,7 +20,7 @@ public:
                 {
                     auto iter = upper_bound(dp[j].begin(), dp[j].end(), L);
                     if (iter != dp[j].end() && *iter < R) {
-                        string str = to_string('a' + i) + to_string ('a' + j) + to_string('a' + i);
+                        string str = to_string('a' + i) + to_string('a' + j) + to_string('a' + i);
                         ans.insert(str);
                     };
                 }

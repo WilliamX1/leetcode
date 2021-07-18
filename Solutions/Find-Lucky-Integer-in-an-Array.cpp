@@ -10,7 +10,7 @@ public:
         };
         int ans = -1;
         for (auto ele : m)
-            if (ele.first == ele.second) return ele.first;
+            if (ele.first == ele.second) ans = ele.first;
         return ans;
     }
 };

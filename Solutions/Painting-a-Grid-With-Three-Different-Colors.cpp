@@ -41,6 +41,7 @@ public:
             };
         int64_t ans = 0;
         for (int i = 0; i < up; i++)
-            ans += []
+            ans = (ans + dp[n - 1][i]) % mod;
+        return ans;
     }
 };

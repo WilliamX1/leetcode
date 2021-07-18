@@ -18,7 +18,7 @@ public:
         if (iter == stationNameToInt.end()) stationNameToInt.insert(make_pair(stationName, stationInt++));
         iter = stationNameToInt.find(stationName);
 
-        vector<int> s = {t, iter->second};
+        vector<int> s = {iter->second, t};
         get_in_time.insert(make_pair(id, s));
     }
     

@@ -56,7 +56,7 @@ public:
         else {
             dfs(head);
             int len = v.size();
-
+            if (count - trees.size() + 1 != len) return nullptr;
             for (int i = 1; i < len; i++)
                 if (v[i] <= v[i - 1]) return nullptr;
             return head;

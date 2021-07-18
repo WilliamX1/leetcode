@@ -16,10 +16,11 @@ public:
                 };
                 if (rating[i] < rating[j])
                 {
-                    dp
+                    dp_less[i][1] += dp_less[j][0];
+                    dp_less[i][2] += dp_less[j][1];
                 }
             };
-            ans += dp[i][2];
+            ans += dp_greater[i][2] + dp_less[i][2];
         };
         return ans;
     }

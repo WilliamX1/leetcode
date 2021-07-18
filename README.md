@@ -211,4 +211,8 @@
 | 194 | [Find All Good Strings - 找到所有好字符串](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Lucky-Integer-in-an-Array.cpp) | Easy | 2021.7.15 |
 | 195 | [Count Number of Teams - 统计作战单位数](https://leetcode-cn.com/contest/weekly-contest-182/problems/count-number-of-teams/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Teams.cpp) | Middle | 2021.7.15 |
 | 196 | [Design Underground System - 设计地铁系统](https://leetcode-cn.com/contest/weekly-contest-182/problems/design-underground-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-Underground-System.cpp) | Middle | 2021.7.15 |
+| 197 | [Maximum Number of Words You Can Type - 可以输入的最大单词数](https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Words-You-Can-Type.cpp) | Easy | 2021.7.18 |
+| 198 | [Add Minimum Number of Rungs - 新增的最少台阶数](https://leetcode-cn.com/problems/add-minimum-number-of-rungs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Minimum-Number-of-Rungs.cpp) | Middle | 2021.7.18 |
+| 199 | [Maximum Number of Points with Cost - 扣分后的最大得分](https://leetcode-cn.com/problems/maximum-number-of-points-with-cost/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Points-with-Cost.cpp) | Middle | 2021.7.18 |
+| 200 | [Group Anagrams LCCI - 面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/SolutionsGroup-Anagrams-LCCI.cpp) | Middle | 2021.7.18 |
 
