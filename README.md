@@ -215,4 +215,9 @@
 | 198 | [Add Minimum Number of Rungs - 新增的最少台阶数](https://leetcode-cn.com/problems/add-minimum-number-of-rungs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Minimum-Number-of-Rungs.cpp) | Middle | 2021.7.18 |
 | 199 | [Maximum Number of Points with Cost - 扣分后的最大得分](https://leetcode-cn.com/problems/maximum-number-of-points-with-cost/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Points-with-Cost.cpp) | Middle | 2021.7.18 |
 | 200 | [Group Anagrams LCCI - 面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/SolutionsGroup-Anagrams-LCCI.cpp) | Middle | 2021.7.18 |
+| 201 | [Minimize Maximum Pair Sum in Array - 数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Minimize-Maximum-Pair-Sum-in-Array.cpp) | Middle | 2021.7.20 |
+| 202 | [House Robber - 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/House-Robber.cpp) | Middle | 2021.7.20 |
+| 203 | [Jump Game II - 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Jump-Game-II.cpp) | Middle | 2021.7.20 |
+| 204 | [Maximum Sum Circular Subarray - 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Maximum-Sum-Circular-Subarray.cpp) | Middle | 2021.7.20 |
+| 205 | [Maximum Product Subarray - 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Maximum-Product-Subarray.cpp) | Middle | 2021.7.20 |
 
