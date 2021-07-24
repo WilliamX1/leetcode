@@ -220,4 +220,12 @@
 | 203 | [Jump Game II - 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Jump-Game-II.cpp) | Middle | 2021.7.20 |
 | 204 | [Maximum Sum Circular Subarray - 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Maximum-Sum-Circular-Subarray.cpp) | Middle | 2021.7.20 |
 | 205 | [Maximum Product Subarray - 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Maximum-Product-Subarray.cpp) | Middle | 2021.7.20 |
+| 206 | [Best Sightseeing Pair - 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Best-Sightseeing-Pair.cpp) | Middle | 2021.7.21 |
+| 207 | [Best Time to Buy and Sell Stock - 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Best-Time-to-Buy-and-Sell-Stock.cpp) | Easy | 2021.7.21 |
+| 208 | [Best Time to Buy and Sell Stock II - 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Best-Time-to-Buy-and-Sell-Stock-II.cpp) | Easy | 2021.7.21 |
+| 209 | [Best Time to Buy and Sell Stock with Cooldown - 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp) | Middle | 2021.7.21 |
+| 210 | [Best Time to Buy and Sell Stock with Transaction Fee - 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.cpp) | Middle | 2021.7.21 |
+| 211 | [Latest Time by Replacing Hidden Digits - 替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Latest-Time-by-Replacing-Hidden-Digits.cpp) | Easy | 2021.7.24 |
+| 212 | [Trapping Rain Water - 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Trapping-Rain-Water.cpp) | Hard | 2021.7.24 |
+| 213 | [Arithmetic Slices - 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Arithmetic-Slices.cpp) | Middle | 2021.7.24 |
 
