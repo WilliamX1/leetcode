@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfArithmeticSlices(vector<int>& nums) {
-        int len = nums.size();
+        int len = nums.size(); if (len < 3) return 0;
         vector<int> minus;
         for (int i = 1; i < len; i++)
             minus.push_back(nums[i] - nums[i - 1]);
@@ -13,5 +13,6 @@ public:
                 cnt = 1;
             } else cnt++;
         ans += cnt * (cnt - 1) / 2;
+        return ans;
     }
 };

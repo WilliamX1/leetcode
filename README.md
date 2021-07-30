@@ -229,4 +229,5 @@
 | 212 | [Trapping Rain Water - 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Trapping-Rain-Water.cpp) | Hard | 2021.7.24 |
 | 213 | [Arithmetic Slices - 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Arithmetic-Slices.cpp) | Middle | 2021.7.24 |
 | 214 | [Restore the Array From Adjacent Pairs - 从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Restore-the-Array-From-Adjacent-Pairs.cpp) | Middle | 2021.7.25 |
+| 215 | [Excel Sheet Column Number - Excel 表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Excel-Sheet-Column-Number.cpp) | Easy | 2021.7.30 |
 
