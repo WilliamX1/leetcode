@@ -230,4 +230,8 @@
 | 213 | [Arithmetic Slices - 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Arithmetic-Slices.cpp) | Middle | 2021.7.24 |
 | 214 | [Restore the Array From Adjacent Pairs - 从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Restore-the-Array-From-Adjacent-Pairs.cpp) | Middle | 2021.7.25 |
 | 215 | [Excel Sheet Column Number - Excel 表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Excel-Sheet-Column-Number.cpp) | Easy | 2021.7.30 |
-
+| 216 | [The K Weakest Rows in a Matrix - 矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/The-K-Weakest-Rows-in-a-Matrix.cpp) | Easy | 2021.8.1 |
+| 217 | [Three Divisors - 三除数](https://leetcode-cn.com/problems/three-divisors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Three-Divisors.cpp) | Easy | 2021.8.1 |
+| 218 | [Maximum Number of Weeks for Which You Can Work - 你可以工作的最大周数](https://leetcode-cn.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Maximum-Number-of-Weeks-for-Which-You-Can-Work.cpp) | Middle | 2021.8.1 |
+| 219 | [Minimum Garden Perimeter to Collect Enough Apples - 收集足够苹果的最小花园周长](https://leetcode-cn.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Minimum-Garden-Perimeter-to-Collect-Enough-Apples.cpp) | Middle | 2021.8.1 |
+| 220 | [Count Number of Special Subsequences - 统计特殊子序列的数目](https://leetcode-cn.com/problems/count-number-of-special-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Count-Number-of-Special-Subsequences.cpp) | Hard | 2021.8.1 |
