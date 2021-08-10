@@ -4,8 +4,10 @@ public:
         int64_t longest = -1, rest = 0;
         for (auto ele : milestones)
         {
-            longest = max(longest, ele);
+            longest = longest > ele ? longest : ele;
             rest += ele;
-        }
+        };
+        rest -= longest;
+        return longest > rest + 1 ? 2 * rest + 1: longest + rest;
     }
 };
