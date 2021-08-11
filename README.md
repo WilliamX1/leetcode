@@ -244,3 +244,4 @@
 | 227 | [Delete Characters to Make Fancy String - 删除字符使字符串变好](https://leetcode-cn.com/problems/Delete-Characters-to-Make-Fancy-String/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Delete-Characters-to-Make-Fancy-String.cpp) | Easy | 2021.8.8 |
 | 228 | [Valid Triangle Number - 有效三角形的个数s](https://leetcode-cn.com/problems/Valid-Triangle-Number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Valid-Triangle-Number.cpp) | Middle | 2021.8.8 |
 | 229 | [Super Ugly Number - 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Super-Ugly-Number.cpp) | Middle | 2021.8.9 |
+| 230 | [Arithmetic Slices II - Subsequence - 等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Arithmetic-Slices-II-Subsequence.cpp) | Hard | 2021.8.11 |
