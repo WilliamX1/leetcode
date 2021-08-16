@@ -85,5 +85,6 @@
         "xmemory": "cpp",
         "xstddef": "cpp",
         "xtr1common": "cpp"
-    }
+    },
+    "python.linting.enabled": false
 }
