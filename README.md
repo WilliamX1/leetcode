@@ -249,4 +249,9 @@
 | 232 | [Minimum Non-Zero Product of the Array Elements - 数组元素的最小非零乘积](https://leetcode-cn.com/problems/Minimum-Non-Zero-Product-of-the-Array-Elements/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Minimum-Non-Zero-Product-of-the-Array-Elements.cpp) | Easy | 2021.8.15 |
 | 234 | [Number of Strings That Appear as Substrings in Word - 作为子字符串出现在单词中的字符串数目](https://leetcode-cn.com/problems/Number-of-Strings-That-Appear-as-Substrings-in-Word/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Number-of-Strings-That-Appear-as-Substrings-in-Word.cpp) | Easy | 2021.8.15 |
 | 235 | [Beautiful Arrangement - 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Beautiful-Arrangement.cpp) | Middle | 2021.8.16 |
-| 236 | [Student Attendance Record I - 学生出勤记录 I]https://leetcode-cn.com/problems/student-attendance-record-i/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Student-Attendance-Record-I.cpp) | Easy | 2021.8.17 |
+| 236 | [Student Attendance Record I - 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Student-Attendance-Record-I.cpp) | Easy | 2021.8.17 |
+| 237 | [Reverse Integer - 整数反转 I](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Reverse-Integer.cpp) | Easy | 2021.8.17 |
+| 238 | [String to Integer (atoi) - 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/String-to-Integer-(atoi).cpp) | Middle | 2021.8.17 |
+| 239 | [Remove Duplicates from Sorted List II - 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Find-Peak-Element.cpp) | Middle | 2021.8.17 |
+| 240 | [Student Attendance Record II - 学生出勤记录 II II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Student-Attendance-Record-II.cpp) | Hard | 2021.8.18 |
+
