@@ -253,5 +253,5 @@
 | 237 | [Reverse Integer - 整数反转 I](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Reverse-Integer.cpp) | Easy | 2021.8.17 |
 | 238 | [String to Integer (atoi) - 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/String-to-Integer-(atoi).cpp) | Middle | 2021.8.17 |
 | 239 | [Remove Duplicates from Sorted List II - 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Find-Peak-Element.cpp) | Middle | 2021.8.17 |
-| 240 | [Student Attendance Record II - 学生出勤记录 II II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Student-Attendance-Record-II.cpp) | Hard | 2021.8.18 |
-
+| 240 | [Student Attendance Record II - 学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Student-Attendance-Record-II.cpp) | Hard | 2021.8.18 |
+| 241 | [Reverse String II - 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Reverse-String-II.cpp) | Easy | 2021.8.20 |
