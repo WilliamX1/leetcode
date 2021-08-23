@@ -255,3 +255,7 @@
 | 239 | [Remove Duplicates from Sorted List II - 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Find-Peak-Element.cpp) | Middle | 2021.8.17 |
 | 240 | [Student Attendance Record II - 学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Student-Attendance-Record-II.cpp) | Hard | 2021.8.18 |
 | 241 | [Reverse String II - 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Reverse-String-II.cpp) | Easy | 2021.8.20 |
+| 242 | [String Compression - 压缩字符串](https://leetcode-cn.com/problems/string-compression/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/String-Compression.cpp) | Middle | 2021.8.21 |
+| 243 | [Find Unique Binary String - 找出不同的二进制字符串](https://leetcode-cn.com/problems/Find-Unique-Binary-String/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Find-Unique-Binary-String.cpp) | Middle | 2021.8.21 |
+| 244 | [Find Greatest Common Divisor of Array - 找出数组的最大公约数](https://leetcode-cn.com/problems/Find-Greatest-Common-Divisor-of-Array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Find-Greatest-Common-Divisor-of-Array.cpp) | Easy | 2021.8.21 |
+| 245 | [Get Maximum in Generated Array - 获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Get-Maximum-in-Generated-Array.cpp) | Easy | 2021.8.23 |
