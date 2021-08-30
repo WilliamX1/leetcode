@@ -1,6 +1,7 @@
 class Solution {
 public:
     int getMaximumGenerated(int n) {
+        if (!n) return 0;
         vector<int> nums(n + 1, 0);
         nums[0] = 0, nums[1] = 1;
         for (int i = 2; i <= n; i++)
