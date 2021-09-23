@@ -1,13 +1,35 @@
 # Leetcode
 ### 剑指Offer
-| Cnt | Title | Solution | Difficulty | date |
+| Cnt | Problem | Solution | Difficulty | date |
 | :----: | :------ | :------ | :--- | :--: |
 | 1 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/3.cpp)| Easy | 2021.7.12 |
+| 2 | [剑指 Offer 04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/4.cpp)| Middle | 2021.9.18 |
+| 3 | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/5.cpp)| Easy | 2021.9.18 |
+| 4 | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/6.cpp)| Easy | 2021.9.18 |
+| 5 | [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/7.cpp)| Middle | 2021.9.18 |
+| 6 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/9.cpp)| Easy | 2021.9.18 |
+| 7 | [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/11.cpp)| Easy | 2021.9.18 |
+| 8 | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/12.cpp)| Middle | 2021.9.18 |
+| 9 | [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/13.cpp)| Middle | 2021.9.18 |
+| 10 | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/15.cpp)| Easy | 2021.9.18 |
+| 11 | [剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/16.cpp)| Middle | 2021.9.18 |
+| 12 | [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/17.cpp)| Easy | 2021.9.18 |
+| 13 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/18.cpp)| Easy | 2021.9.18 |
+| 14 | [剑指 Offer 20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/20.cpp)| Middle | 2021.9.18 |
+| 15 | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/15.cpp)| Easy | 2021.9.18 |
+| 16 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/22.cpp)| Easy | 2021.9.18 |
+| 17 | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/23.cpp)| Easy | 2021.9.18 |
+| 18 | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/25.cpp)| Easy | 2021.9.18 |
+| 19 | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/26.cpp)| Middle | 2021.9.18 |
+| 20 | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/27.cpp)| Easy | 2021.9.18 |
+| 21 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/28.cpp)| Easy | 2021.9.18 |
+| 22 | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/29.cpp)| Middle | 2021.9.22 |
+| 23 | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/30.cpp)| Easy | 2021.9.22 |
+| 24 | [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/31.cpp)| Middle | 2021.9.22 |
 
 -------
-每日一题，今天开始
-### LeetCode Algorithm
-| Cnt | Title | Solution | Difficulty | date |
+### 每日一题
+| Cnt | Problem | Solution | Difficulty | date |
 | :----: | :------ | :------ | :--- | :--: |
 | 1 | [Remove Duplicates from Sorted Array II - 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Duplicates-from-Sorted-Array-II.cpp)| Medium | 2021.4.6 |
 | 2 | [Search in Rotated Sorted Array II - 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Search-in-Rotated-Sorted-Array-II.cpp) | Medium | 2021.4.7 |
@@ -264,3 +286,4 @@
 | 248 | [Minimum Number of Work Sessions to Finish the Tasks - 完成任务的最少工作时间段](https://leetcode-cn.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Minimum-Number-of-Work-Sessions-to-Finish-the-Tasks.cpp) | Middle | 2021.8.29 |
 | 249 | [Number of Unique Good Subsequences - 不同的好子序列数目](https://leetcode-cn.com/problems/number-of-unique-good-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Number-of-Unique-Good-Subsequences.cpp) | Hard | 2021.8.29 |
 | 250 | [Random Pick with Weight - 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Random-Pick-with-Weight.cpp) | Middle | 2021.8.30 |
+| 251 | [Power of Three - 3的幂](https://leetcode-cn.com/problems/power-of-three/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Power-of-Three.cpp) | Easy | 2021.9.23 |
