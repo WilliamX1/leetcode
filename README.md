@@ -26,6 +26,14 @@
 | 22 | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/29.cpp)| Middle | 2021.9.22 |
 | 23 | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/30.cpp)| Easy | 2021.9.22 |
 | 24 | [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/31.cpp)| Middle | 2021.9.22 |
+| 25 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/33.cpp)| Middle | 2021.9.24 |
+| 26 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/34.cpp)| Middle | 2021.9.24 |
+| 27 | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/35.cpp)| Middle | 2021.9.24 |
+| 28 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/36.cpp)| Middle | 2021.9.24 |
+| 29 | [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/37.cpp)| Middle | 2021.9.24 |
+| 30 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/38.cpp)| Middle | 2021.9.24 |
+| 31 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/39.cpp)| Middle | 2021.9.24 |
+| 32 | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/40.cpp)| Middle | 2021.9.24 |
 
 -------
 ### 每日一题
