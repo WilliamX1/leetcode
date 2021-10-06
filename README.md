@@ -34,6 +34,42 @@
 | 30 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/38.cpp)| Middle | 2021.9.24 |
 | 31 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/39.cpp)| Middle | 2021.9.24 |
 | 32 | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/40.cpp)| Middle | 2021.9.24 |
+| 33 | [剑指 Offer 41. 数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/41.cpp)| Hard | 2021.9.26 |
+| 34 | [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/42.cpp)| Easy | 2021.9.26 |
+| 35 | [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/44.cpp)| Middle | 2021.9.26 |
+| 36 | [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/45.cpp)| Middle | 2021.9.26 |
+| 37 | [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/46.cpp)| Middle | 2021.9.26 |
+| 38 | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/47.cpp)| Middle | 2021.9.27 |
+| 39 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/48.cpp)| Middle | 2021.9.27 |
+| 40 | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/49.cpp)| Middle | 2021.9.27 |
+| 41 | [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/50.cpp)| Easy | 2021.9.27 |
+| 42 | [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/52.cpp)| Easy | 2021.9.27 |
+| 43 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/54.cpp)| Easy | 2021.9.27 |
+| 44 | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/57.cpp)| Easy | 2021.9.27 |
+| 45 | [剑指 Offer 60. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/60.cpp)| Middle | 2021.9.27 |
+| 46 | [剑指 Offer 61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/61.cpp)| Easy | 2021.9.27 |
+| 47 | [剑指 Offer 62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/62.cpp)| Easy | 2021.9.27 |
+| 48 | [剑指 Offer 63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/63.cpp)| Middle | 2021.9.27 |
+| 49 | [剑指 Offer 64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/64.cpp)| Middle | 2021.9.28 |
+| 50 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/65.cpp)| Easy | 2021.9.28 |
+| 51 | [剑指 Offer 66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/66.cpp)| Middle | 2021.9.28 |
+| 52 | [剑指 Offer 67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/67.cpp)| Middle | 2021.9.28 |
+| 53 | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/10-1.cpp)| Easy | 2021.9.28 |
+| 54 | [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/10-2.cpp)| Easy | 2021.9.29 |
+| 55 | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/14-1.cpp)| Middle | 2021.9.29 |
+| 56 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/32-1.cpp)| Middle | 2021.9.29 |
+| 57 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/32-2.cpp)| Easy | 2021.9.29 |
+| 58 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/32-3.cpp)| Middle | 2021.9.29 |
+| 59 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/53-1.cpp)| Easy | 2021.9.29 |
+| 60 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/53-2.cpp)| Easy | 2021.9.29 |
+| 61 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/55-1.cpp)| Easy | 2021.9.29 |
+| 62 | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/55-2.cpp)| Easy | 2021.9.29 |
+| 63 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/56-1.cpp)| Middle | 2021.9.30 |
+| 64 | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/56-2.cpp)| Middle | 2021.9.30 |
+| 65 | [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/57-2.cpp)| Easy | 2021.9.30 |
+| 66 | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/58-1.cpp)| Easy | 2021.9.30 |
+| 67 | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/58-2.cpp)| Easy | 2021.9.30 |
+| 68 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/59-1.cpp)| Hard | 2021.9.30 |
 
 -------
 ### 每日一题
@@ -295,3 +331,7 @@
 | 249 | [Number of Unique Good Subsequences - 不同的好子序列数目](https://leetcode-cn.com/problems/number-of-unique-good-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Number-of-Unique-Good-Subsequences.cpp) | Hard | 2021.8.29 |
 | 250 | [Random Pick with Weight - 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Random-Pick-with-Weight.cpp) | Middle | 2021.8.30 |
 | 251 | [Power of Three - 3的幂](https://leetcode-cn.com/problems/power-of-three/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Power-of-Three.cpp) | Easy | 2021.9.23 |
+| 252 | [Convert 1D Array Into 2D Array - 将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/Convert-1D-Array-Into-2D-Array.cpp) | Easy | 2021.10.2 |
+| 253 | [Number of Pairs of Strings With Concatenation Equal to Target - 连接后等于目标字符串的字符串对](https://leetcode-cn.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [C++](https://github.com/WilliamX1/leetcode/blob/Number-of-Pairs-of-Strings-With-Concatenation-Equal-to-Target.cpp) | Middle | 2021.10.2 |
+| 254 | [Third Maximum Number - 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/Third-Maximum-Number.cpp) | Easy | 2021.10.6 |
+
