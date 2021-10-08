@@ -70,6 +70,9 @@
 | 66 | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/58-1.cpp)| Easy | 2021.9.30 |
 | 67 | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/58-2.cpp)| Easy | 2021.9.30 |
 | 68 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/59-1.cpp)| Hard | 2021.9.30 |
+| 69 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/59-2.cpp)| Middle | 2021.10.8 |
+| 70 | [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/68-1.cpp)| Easy | 2021.10.8 |
+| 71 | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/68-2.cpp)| Easy | 2021.10.8 |
 
 -------
 ### 每日一题
