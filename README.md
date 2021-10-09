@@ -73,6 +73,8 @@
 | 69 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/59-2.cpp)| Middle | 2021.10.8 |
 | 70 | [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/68-1.cpp)| Easy | 2021.10.8 |
 | 71 | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/68-2.cpp)| Easy | 2021.10.8 |
+| 72 | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/14-2.cpp)| Middle | 2021.10.10 |
+| 73 | [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/51.cpp)| Hard | 2021.10.10 |
 
 -------
 ### 每日一题
