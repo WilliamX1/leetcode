@@ -341,4 +341,5 @@
 | 253 | [Number of Pairs of Strings With Concatenation Equal to Target - 连接后等于目标字符串的字符串对](https://leetcode-cn.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [C++](https://github.com/WilliamX1/leetcode/blob/Number-of-Pairs-of-Strings-With-Concatenation-Equal-to-Target.cpp) | Middle | 2021.10.2 |
 | 254 | [Third Maximum Number - 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/Third-Maximum-Number.cpp) | Easy | 2021.10.6 |
 | 255 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [C++](https://github.com/WilliamX1/leetcode/blob/Fizz-Buzz.cpp) | Easy | 2021.10.12 |
+| 256 | [Count and Say - 外观数列](https://leetcode-cn.com/problems/count-and-say/) | [C++](https://github.com/WilliamX1/leetcode/blob/Count-and-Say.cpp) | Middle | 2021.10.15 |
 
