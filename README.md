@@ -76,6 +76,9 @@
 | 72 | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/14-2.cpp)| Middle | 2021.10.10 |
 | 73 | [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/51.cpp)| Hard | 2021.10.10 |
 | 74 | [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/43.cpp)| Hard | 2021.10.13 |
+| 75 | [剑指 Offer II 009. 乘积小于 K 的子数组](https://leetcode-cn.com/problems/ZVAVXX/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/II-9.cpp)| Middle | 2021.10.18 |
+| 76 | [剑指 Offer II 011. 0 和 1 个数相同的子数组](https://leetcode-cn.com/problems/A1NYOS/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/II-10.cpp)| Middle | 2021.10.18 |
+| 77 | [剑指 Offer II 011. 0 和 1 个数相同的子数组](https://leetcode-cn.com/problems/A1NYOS/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/II-11.cpp)| Middle | 2021.10.18 |
 
 -------
 ### 每日一题
