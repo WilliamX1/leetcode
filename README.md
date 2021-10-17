@@ -343,3 +343,4 @@
 | 255 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [C++](https://github.com/WilliamX1/leetcode/blob/Fizz-Buzz.cpp) | Easy | 2021.10.12 |
 | 256 | [Count and Say - 外观数列](https://leetcode-cn.com/problems/count-and-say/) | [C++](https://github.com/WilliamX1/leetcode/blob/Count-and-Say.cpp) | Middle | 2021.10.15 |
 | 257 | [Kth Smallest Element in a BST - 二叉搜索树中第K小的元素](https://leetcode-cn.com/submissions/detail/229723326/) | [C++](https://github.com/WilliamX1/leetcode/blob/Kth-Smallest-Element-in-a-BST.cpp) | Middle | 2021.10.17 |
+| 258 | [Number Complement - 数字的补数](https://leetcode-cn.com/problems/number-complement/) | [C++](https://github.com/WilliamX1/leetcode/blob/Number-Complement.cpp) | Easy | 2021.10.18 |
