@@ -342,4 +342,4 @@
 | 254 | [Third Maximum Number - 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/Third-Maximum-Number.cpp) | Easy | 2021.10.6 |
 | 255 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [C++](https://github.com/WilliamX1/leetcode/blob/Fizz-Buzz.cpp) | Easy | 2021.10.12 |
 | 256 | [Count and Say - 外观数列](https://leetcode-cn.com/problems/count-and-say/) | [C++](https://github.com/WilliamX1/leetcode/blob/Count-and-Say.cpp) | Middle | 2021.10.15 |
-
+| 257 | [Kth Smallest Element in a BST - 二叉搜索树中第K小的元素](https://leetcode-cn.com/submissions/detail/229723326/) | [C++](https://github.com/WilliamX1/leetcode/blob/Kth-Smallest-Element-in-a-BST.cpp) | Middle | 2021.10.17 |
