@@ -358,3 +358,4 @@
 | 267 | [Kth Largest Element in an Array - 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/Kth-Largest-Element-in-an-Array.cpp) | Middle | 2021.10.21 |
 | 268 | [Search a 2D Matrix II - 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/Search-a-2D-Matrix-II.cpp) | Middle | 2021.10.21 |
 | 269 | [Count of Smaller Numbers After Self - 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [C++](https://github.com/WilliamX1/leetcode/blob/Count-of-Smaller-Numbers-After-Self.cpp) | Hard | 2021.10.21 |
+| 270 | [Construct the Rectangle - 构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/) | [C++](https://github.com/WilliamX1/leetcode/blob/Construct-the-Rectangle.cpp) | Easy | 2021.10.23 |
