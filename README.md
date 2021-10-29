@@ -362,3 +362,4 @@
 | 271 | [Next Greater Element I - 下一个更大元素 I](https://leetcode-cn.com/problems/https://leetcode-cn.com/problems/next-greater-element-i/) | [C++](https://github.com/WilliamX1/leetcode/blob/Next-Greater-Element-I.cpp) | Easy | 2021.10.26 |
 | 272 | [Next Greater Element II - 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/Next-Greater-Element-II.cpp) | Middle | 2021.10.26 |
 | 273 | [Next Greater Element III - 下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/Next-Greater-Element-III.cpp) | Middle | 2021.10.26 |
+| 274 | [Self Crossing - 路径交叉](https://leetcode-cn.com/problems/self-crossing/) | [C++](https://github.com/WilliamX1/leetcode/blob/Self-Crossing.cpp) | Hard | 2021.10.29 |
