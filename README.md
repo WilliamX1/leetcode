@@ -364,3 +364,4 @@
 | 273 | [Next Greater Element III - 下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/Next-Greater-Element-III.cpp) | Middle | 2021.10.26 |
 | 274 | [Self Crossing - 路径交叉](https://leetcode-cn.com/problems/self-crossing/) | [C++](https://github.com/WilliamX1/leetcode/blob/Self-Crossing.cpp) | Hard | 2021.10.29 |
 | 275 | [Keyboard Row - 键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [C++](https://github.com/WilliamX1/leetcode/blob/Keyboard-Row.cpp) | Easy | 2021.10.31 |
+| 276 | [Distribute Candies - 分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [C++](https://github.com/WilliamX1/leetcode/blob/Distribute-Candies.cpp) | Easy | 2021.11.1 |
