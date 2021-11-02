@@ -365,3 +365,6 @@
 | 274 | [Self Crossing - 路径交叉](https://leetcode-cn.com/problems/self-crossing/) | [C++](https://github.com/WilliamX1/leetcode/blob/Self-Crossing.cpp) | Hard | 2021.10.29 |
 | 275 | [Keyboard Row - 键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [C++](https://github.com/WilliamX1/leetcode/blob/Keyboard-Row.cpp) | Easy | 2021.10.31 |
 | 276 | [Distribute Candies - 分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [C++](https://github.com/WilliamX1/leetcode/blob/Distribute-Candies.cpp) | Easy | 2021.11.1 |
+| 277 | [Delete Node in a Linked List - 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/Delete-Node-in-a-Linked-List.cpp) | Easy | 2021.11.2 |
+| 278 | [Find the Minimum and Maximum Number of Nodes Between Critical Points - 找出临界点之间的最小和最大距离](https://leetcode-cn.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [C++](https://github.com/WilliamX1/leetcode/blob/Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points.cpp) | Middle | 2021.11.2 |
+| 279 | [Smallest Index With Equal Value - 值相等的最小索引](https://leetcode-cn.com/problems/Smallest-Index-With-Equal-Value/) | [C++](https://github.com/WilliamX1/leetcode/blob/Smallest-Index-With-Equal-Value.cpp) | Easy | 2021.11.2 |
