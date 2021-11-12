@@ -369,3 +369,4 @@
 | 278 | [Find the Minimum and Maximum Number of Nodes Between Critical Points - 找出临界点之间的最小和最大距离](https://leetcode-cn.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [C++](https://github.com/WilliamX1/leetcode/blob/Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points.cpp) | Middle | 2021.11.2 |
 | 279 | [Smallest Index With Equal Value - 值相等的最小索引](https://leetcode-cn.com/problems/Smallest-Index-With-Equal-Value/) | [C++](https://github.com/WilliamX1/leetcode/blob/Smallest-Index-With-Equal-Value.cpp) | Easy | 2021.11.2 |
 | 280 | [Valid Perfect Square - 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [C++](https://github.com/WilliamX1/leetcode/blob/Valid-Perfect-Square.cpp) | Easy | 2021.11.4 |
+| 281 | [Detect Capital - 检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [C++](https://github.com/WilliamX1/leetcode/blob/Detect-Capital.cpp) | Easy | 2021.11.13 |
