@@ -370,3 +370,5 @@
 | 279 | [Smallest Index With Equal Value - 值相等的最小索引](https://leetcode-cn.com/problems/Smallest-Index-With-Equal-Value/) | [C++](https://github.com/WilliamX1/leetcode/blob/Smallest-Index-With-Equal-Value.cpp) | Easy | 2021.11.2 |
 | 280 | [Valid Perfect Square - 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [C++](https://github.com/WilliamX1/leetcode/blob/Valid-Perfect-Square.cpp) | Easy | 2021.11.4 |
 | 281 | [Detect Capital - 检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [C++](https://github.com/WilliamX1/leetcode/blob/Detect-Capital.cpp) | Easy | 2021.11.13 |
+| 282 | [Interleaving String - 交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/Interleaving_String.cpp) | Middle| 2022.1.1 |
+| 283 | [Triangle - 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [C++](https://github.com/WilliamX1/leetcode/blob/Triangle.cpp) | Middle| 2022.1.1 |
