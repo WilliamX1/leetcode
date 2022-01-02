@@ -376,3 +376,6 @@
 | 285 | [Pascal's Triangle II - 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/Pascal's-Triangle-II.cpp) | Easy | 2022.1.2 |
 | 286 | [Counting Bits - 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [C++](https://github.com/WilliamX1/leetcode/blob/Counting-Bits.cpp) | Easy | 2022.1.2 |
 | 287 | [Is Subsequence - 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/Is-Subsequence.cpp) | Easy | 2022.1.2 |
+| 288 | [Check if All A's Appears Before All B's - 检查是否所有 A 都在 B 之前](https://leetcode-cn.com/contest/weekly-contest-274/problems/check-if-all-as-appears-before-all-bs/) | [C++](https://github.com/WilliamX1/leetcode/blob/Check-if-All-A's-Appears-Before-All-B's.cpp) | Easy | 2022.1.2 |
+| 289 | [Number of Laser Beams in a Bank - 银行中的激光束数量](https://leetcode-cn.com/contest/weekly-contest-274/problems/number-of-laser-beams-in-a-bank/) | [C++](https://github.com/WilliamX1/leetcode/blob/Number-of-Laser-Beams-in-a-Bank.cpp) | Middle | 2022.1.2 |
+| 290 | [Destroying Asteroids - 摧毁小行星](https://leetcode-cn.com/contest/weekly-contest-274/problems/destroying-asteroids/) | [C++](https://github.com/WilliamX1/leetcode/blob/Destroying-Asteroids.cpp) | Middle | 2022.1.2 |
