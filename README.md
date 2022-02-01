@@ -387,3 +387,6 @@
 | 296 | [Rearrange Array Elements by Sign - 按符号重排数组](https://leetcode-cn.com/problems/rearrange-array-elements-by-sign/) | [C++](https://github.com/WilliamX1/leetcode/blob/Rearrange-Array-Elements-by-Sign.cpp) | Middle | 2022.1.31 |
 | 297 | [Find All Lonely Numbers in the Array - 找出数组中的所有孤独数字](https://leetcode-cn.com/problems/find-all-lonely-numbers-in-the-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/Find-All-Lonely-Numbers-in-the-Array.cpp) | Middle | 2022.1.31 |
 | 298 | [Maximum Good People Based on Statements - 基于陈述统计最多好人数](https://leetcode-cn.com/problems/maximum-good-people-based-on-statements/) | [C++](https://github.com/WilliamX1/leetcode/blob/Maximum-Good-People-Based-on-Statements.cpp) | Hard | 2022.1.31 |
+| 299 | [hortest Path in Binary Matrix - 二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/Shortest-Path-in-Binary-Matrix.cpp) | Middle | 2022.2.1 |
+| 300 | [Largest Values From Labels - 受标签影响的最大值](https://leetcode-cn.com/problems/largest-values-from-labels/) | [C++](https://github.com/WilliamX1/leetcode/blob/Largest-Values-From-Labels.cpp) | Middle | 2022.2.1 |
+| 301 | [Duplicate Zeros - 复写零](https://leetcode-cn.com/problems/duplicate-zeros/) | [C++](https://github.com/WilliamX1/leetcode/blob/Duplicate-Zeros.cpp) | Easy | 2022.2.1 |
