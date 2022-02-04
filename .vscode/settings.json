@@ -28,11 +28,7 @@
     "**/.vscode/**"
   ],
   "files.associations": {
-    "vector": "cpp",
-    "iosfwd": "cpp",
-    "iterator": "cpp",
-    "unordered_map": "cpp",
-    "string": "cpp",
-    "algorithm": "cpp"
+    "iostream": "cpp",
+    "vector": "cpp"
   }
 }
