@@ -46,6 +46,7 @@
     "functional": "cpp",
     "__bit_reference": "cpp",
     "__string": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "limits": "cpp"
   }
 }

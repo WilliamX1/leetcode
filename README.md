@@ -402,4 +402,5 @@
 | 311 | [Cinema Seat Allocation - 安排电影院座位](https://leetcode-cn.com/problems/cinema-seat-allocation/) | [C++](https://github.com/WilliamX1/leetcode/blob/Cinema-Seat-Allocation.cpp) | Middle | 2022.2.5 |
 | 312 | [Sort Integers by The Power Value - 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/) | [C++](https://github.com/WilliamX1/leetcode/blob/Sort-Integers-by-The-Power-Value.cpp) | Middle | 2022.2.5 |
 | 313 | [Pizza With 3n Slices - 3n 块披萨](https://leetcode-cn.com/problems/pizza-with-3n-slices/) | [C++](https://github.com/WilliamX1/leetcode/blob/Pizza-With-3n-Slices.cpp) | Hard| 2022.2.5 |
+| 314 | [Edit Distance - 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [C++](https://github.com/WilliamX1/leetcode/blob/Edit-Distance.cpp) | Hard| 2022.2.5 |
 
