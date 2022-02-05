@@ -29,6 +29,23 @@
   ],
   "files.associations": {
     "iostream": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "chrono": "cpp",
+    "complex": "cpp",
+    "__hash_table": "cpp",
+    "__split_buffer": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "iterator": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "unordered_map": "cpp",
+    "utility": "cpp",
+    "functional": "cpp",
+    "__bit_reference": "cpp",
+    "__string": "cpp",
+    "algorithm": "cpp"
   }
 }

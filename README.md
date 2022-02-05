@@ -398,3 +398,8 @@
 | 307 | [Number of Sub-arrays With Odd Sum - 和为奇数的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-with-odd-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/Number-of-Sub-arrays-With-Odd-Sum.cpp) | Middle | 2022.2.4 |
 | 308 | [Number of Good Ways to Split a String - 字符串的好分割数目](https://leetcode-cn.com/problems/number-of-good-ways-to-split-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/Number-of-Good-Ways-to-Split-a-String.cpp) | Middle | 2022.2.4 |
 | 309 | [Minimum Number of Increments on Subarrays to Form a Target Array - 形成目标数组的子数组最少增加次数](https://leetcode-cn.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/solution/xing-cheng-mu-biao-shu-zu-de-zi-shu-zu-zui-shao-ze/) | [C++](https://github.com/WilliamX1/leetcode/blob/Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array.cpp) | Hard | 2022.2.4 |
+| 310 | [Find the Distance Value Between Two Arrays - 两个数组间的距离值](https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/Find-the-Distance-Value-Between-Two-Arrays.cpp) | Easy | 2022.2.5 |
+| 311 | [Cinema Seat Allocation - 安排电影院座位](https://leetcode-cn.com/problems/cinema-seat-allocation/) | [C++](https://github.com/WilliamX1/leetcode/blob/Cinema-Seat-Allocation.cpp) | Middle | 2022.2.5 |
+| 312 | [Sort Integers by The Power Value - 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/) | [C++](https://github.com/WilliamX1/leetcode/blob/Sort-Integers-by-The-Power-Value.cpp) | Middle | 2022.2.5 |
+| 313 | [Pizza With 3n Slices - 3n 块披萨](https://leetcode-cn.com/problems/pizza-with-3n-slices/) | [C++](https://github.com/WilliamX1/leetcode/blob/Pizza-With-3n-Slices.cpp) | Hard| 2022.2.5 |
+
