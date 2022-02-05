@@ -47,6 +47,7 @@
     "__bit_reference": "cpp",
     "__string": "cpp",
     "algorithm": "cpp",
-    "limits": "cpp"
+    "limits": "cpp",
+    "queue": "cpp"
   }
 }

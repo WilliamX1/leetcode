@@ -401,6 +401,10 @@
 | 310 | [Find the Distance Value Between Two Arrays - 两个数组间的距离值](https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/Find-the-Distance-Value-Between-Two-Arrays.cpp) | Easy | 2022.2.5 |
 | 311 | [Cinema Seat Allocation - 安排电影院座位](https://leetcode-cn.com/problems/cinema-seat-allocation/) | [C++](https://github.com/WilliamX1/leetcode/blob/Cinema-Seat-Allocation.cpp) | Middle | 2022.2.5 |
 | 312 | [Sort Integers by The Power Value - 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/) | [C++](https://github.com/WilliamX1/leetcode/blob/Sort-Integers-by-The-Power-Value.cpp) | Middle | 2022.2.5 |
-| 313 | [Pizza With 3n Slices - 3n 块披萨](https://leetcode-cn.com/problems/pizza-with-3n-slices/) | [C++](https://github.com/WilliamX1/leetcode/blob/Pizza-With-3n-Slices.cpp) | Hard| 2022.2.5 |
-| 314 | [Edit Distance - 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [C++](https://github.com/WilliamX1/leetcode/blob/Edit-Distance.cpp) | Hard| 2022.2.5 |
+| 313 | [Pizza With 3n Slices - 3n 块披萨](https://leetcode-cn.com/problems/pizza-with-3n-slices/) | [C++](https://github.com/WilliamX1/leetcode/blob/Pizza-With-3n-Slices.cpp) | Hard | 2022.2.5 |
+| 314 | [Edit Distance - 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [C++](https://github.com/WilliamX1/leetcode/blob/Edit-Distance.cpp) | Hard | 2022.2.5 |
+| 315 | [Minimum Sum of Four Digit Number After Splitting Digits - 拆分数位后四位数字的最小和](https://leetcode-cn.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [C++](https://github.com/WilliamX1/leetcode/blob/Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits.cpp) | Easy | 2022.2.5 |
+| 316 | [Partition Array According to Given Pivot - 根据给定数字划分数组](https://leetcode-cn.com/problems/partition-array-according-to-given-pivot/) | [C++](https://github.com/WilliamX1/leetcode/blob/Partition-Array-According-to-Given-Pivot.cpp) | Middle | 2022.2.5 |
+| 317 | [Minimum Cost to Set Cooking Time - 设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time/) | [C++](https://github.com/WilliamX1/leetcode/blob/Minimum-Cost-to-Set-Cooking-Time.cpp) | Middle | 2022.2.5 |
+| 318 | [Minimum Difference in Sums After Removal of Elements - 删除元素后和的最小差值](https://leetcode-cn.com/contest/biweekly-contest-71/problems/minimum-difference-in-sums-after-removal-of-elements/) | [C++](https://github.com/WilliamX1/leetcode/blob/Minimum-Difference-in-Sums-After-Removal-of-Elements.cpp) | Hard | 2022.2.5 |
 
