@@ -48,6 +48,12 @@
     "__string": "cpp",
     "algorithm": "cpp",
     "limits": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "iosfwd": "cpp",
+    "__mutex_base": "cpp",
+    "__threading_support": "cpp",
+    "__functional_03": "cpp",
+    "deque": "cpp",
+    "system_error": "cpp"
   }
 }
