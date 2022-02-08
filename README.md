@@ -415,4 +415,10 @@
 | 324 | [Count Number of Nice Subarrays - 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Nice-Subarrays.cpp) | Middle | 2022.2.7 |
 | 325 | [Minimum Remove to Make Valid Parentheses - 移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Remove-to-Make-Valid-Parentheses.cpp) | Middle | 2022.2.7 |
 | 326 | [Check If It Is a Good Array - 检查「好数组」](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-If-It-Is-a-Good-Array.cpp) | Middle | 2022.2.7 |
+| 327 | [Decompress Run-Length Encoded List - 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decompress-Run-Length-Encoded-List.cpp) | Easy | 2022.2.8 |
+| 328 | [Matrix Block Sum - 矩阵区域和](https://leetcode-cn.com/problems/matrix-block-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Matrix-Block-Sum.cpp) | Middle | 2022.2.8 |
+| 329 | [Sum of Nodes with Even-Valued Grandparent - 祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Nodes-with-Even-Valued-Grandparent.cpp) | Middle | 2022.2.8 |
+| 330 | [Distinct Echo Substrings - 不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distinct-Echo-Substrings.cpp) | Hard | 2022.2.8 |
+
+
 
