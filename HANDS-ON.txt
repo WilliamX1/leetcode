@@ -310,6 +310,180 @@ public:
 
 
 
+--------------------------2022.2.9-----------------------------
+
+/* 遍历整个数组，将所有偶数和奇数元素分别取出成为单独的数组，然后再进行拼接即可 */
+/* 测试用例：nums = {2,1,4,3} */
+/* 时间复杂度：O(N)，空间复杂度：O(N) */
+
+#include <vector>
+
+using namespace std;
+
+class Solution {
+public:
+  vector<int> sortArrayByParity(vector<int>& nums) {
+    vector<int> odds, evens, ans;
+    /* odds = {1, 3} evens = {2, 4} */
+    for (auto& num : nums)
+      if (num & 1) odds.push_back(num);
+      else evens.push_back(num);
+    for (auto &num : evens)
+      ans.push_back(num); // ans = {2, 4}
+    for (auto &num : odds)
+      ans.push_back(num); // ans = {2, 4, 1, 3}
+    return ans; 
+  };
+};
+
+/* 动态规划，遍历整个数组，用两个变量记录当前篮子里水果的位置信息并不断更新，直到遇到一个水果和这两个都不相同，那么就需要把位置信息最小的那个水果替换掉
+* 同时维持一个 tot 来记录当前收集的这两种水果的最大数目。
+* 特殊考虑成环，需要重复这个数组的遍历
+*/
+
+/* 测试用例：fruits = [0, 0, 1, 1] ans = 4 */
+/* 时间复杂度：O(N), 空间复杂度：O(1) */
+
+#include <vector>
+
+using namespace std;
+
+class Solution{
+public:
+  int totalFruit(vector<int>& fruits){
+    int end1 = -1, end2 = -1, start1 = -1, start2 = -1, tot1 = 0, tot2 = 0, ans = 0;
+    for (int i = 0; i < fruits.size(); i++) {      
+      // tot1 = 2
+      // tot2 = 0
+      // start1 = 0
+      // end1 = 1
+      // start2 = 2
+      // end2 = 2
+      // ans = 2
+      if (end1 >= 0 && fruits[i] == fruits[end1]) {
+        tot1++;
+        end1 = i;
+      } else if (end2 >= 0 && fruits[i] == fruits[end2]) {
+        tot2++;
+        end2 = i; 
+      } else if (end1 <= end2) {
+        tot1 = 1;
+        tot2 = i - end1 - 1;
+        start1 = end1 = i;
+      } else {
+        tot2 = 1;
+        tot1 = i - end2 - 1;
+        start2 = end2 = i;
+      };
+      ans = max(ans, tot1 + tot2);
+    };
+    return ans;
+  };
+};
+
+
+/* 二分法，将 arr 分成两个子数组，然后分别求解他们的 min(b) 的总和再相加，中间每次处理都需要 NlogN 的时间，*/
+/* 时间复杂度：O(NlogNlogN)，空间复杂度 O(NlogN) */
+/* 测试用例：arr = {3,1,2,4} ans = 17 */
+
+#include <vector>
+#include <algorithm>
+
+using LL = long long;
+using namespace std;
+
+class Solution{
+public:
+  const int mod = (int)1e9 + 7;
+  int _sumSubarrayMins(vector<int>& arr, int left, int right, int dir, vector<int>& m) {
+    if (left == right) {
+      m.push_back(arr[left]);
+      return arr[left];
+    };
+
+    int mid = (left + right) >> 1;
+    vector<int> m1, m2;
+    int tot = ((LL)_sumSubarrayMins(arr, left, mid, 1, m1) + (LL)_sumSubarrayMins(arr, mid + 1, right, 0, m2)) % mod;
+    int len1 = m1.size(), len2 = m2.size();
+    vector<int> prefix1(len1 + 1, 0), prefix2(len2 + 1, 0);
+    for (int i = 0; i < len1; i++) prefix1[i + 1] = prefix1[i] + m1[i];
+    for (int i = 0; i < len2; i++) prefix2[i + 1] = prefix2[i] + m2[i];
+    for (int i = 0; i < len1; i++) {
+        int idx = upper_bound(m2.begin(), m2.end(), m1[i]) - m2.begin();
+        tot = ((LL)tot + (LL)(len2 - idx) * (LL)m1[i] + (LL)prefix2[idx]) % mod;
+    };
+    if (dir == 0) /* 原数组右侧 */ {
+      m.push_back(arr[left]);
+      for (int i = left + 1; i <= right; i++)
+        m.push_back(min(m.back(), arr[i]));
+    } else {
+      m.push_back(arr[right]);
+      for (int i = right - 1; i >= left; i--)
+        m.push_back(min(m.back(), arr[i]));
+    };
+    sort(m.begin(), m.end());
+    return tot;
+  };
+  int sumSubarrayMins(vector<int>& arr) {
+    vector<int> m;
+    return _sumSubarrayMins(arr, 0, arr.size() - 1, 0, m);  
+  };
+};
+
+
+/* 构造回文数，计算它的平方，如果在范围内且也是回文数则记录在数组中 */
+
+#include <vector>
+#include <string>
+#include <cstring>
+#include <algorithm>
+
+using namespace std;
+
+class Solution {
+public:
+  int64_t reverse_int(int64_t x) {
+    int64_t ans = 0;
+    while (x > 0) {
+      ans = 10 * ans + x % 10;
+      x /= 10;
+    };
+    return ans;
+  };
+  bool judge(int64_t x) {
+    return x == reverse_int(x);
+  };
+  int superpalindromesInRange(string left, string right) {
+     int n = 100000, UP = (int)1e9 + 7;
+     int64_t l = stoll(left), r = stoll(right), cnt = 0;
+     for (int i = 1; i < n; i++) {
+       string ori = to_string(i);
+       string rev = ori; reverse(rev.begin(), rev.end());
+       string str1 = ori + rev;
+       int64_t num1 = stoll(str1);
+       if (num1 < UP) {
+         num1 = num1 * num1;
+         if (l <= num1 && num1 <= r) cnt += judge(num1);
+         else if (l > r) break;
+       } else break;
+     };
+     for (int i = 1; i < n; i++) {
+       string ori = to_string(i);
+       string rev = ori; reverse(rev.begin(), rev.end());
+       string str2 = ori.substr(0, ori.size() - 1) + rev;
+       int64_t num2 = stoll(str2);
+       if (num2 < UP) {
+         num2 = num2 * num2;
+         if (l <= num2 && num2 <= r) cnt += judge(num2);
+         else if (l > r) break;
+       } else break;
+     };
+     return cnt;
+  };
+};
+
+
+
 
 
 

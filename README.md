@@ -420,6 +420,11 @@
 | 329 | [Sum of Nodes with Even-Valued Grandparent - 祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Nodes-with-Even-Valued-Grandparent.cpp) | Middle | 2022.2.8 |
 | 330 | [Distinct Echo Substrings - 不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distinct-Echo-Substrings.cpp) | Hard | 2022.2.8 |
 | 331 | [Grid Illumination - 网格照明](https://leetcode-cn.com/problems/grid-illumination/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Grid-Illumination.cpp) | Hard | 2022.2.9 |
+| 332 | [Sort Array By Parity - 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-Array-By-Parity.cpp) | Easy | 2022.2.9 |
+| 333 | [Fruit Into Baskets - 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Fruit-Into-Baskets.cpp) | Middle | 2022.2.9 |
+| 334 | [Sum of Subarray Minimums - 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Subarray-Minimums.cpp) | Middle | 2022.2.9 |
+| 335 | [Super Palindromes - 超级回文数](https://leetcode-cn.com/problems/super-palindromes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Super-Palindromes.cpp) | Hard | 2022.2.9 |
+
 
 
 
