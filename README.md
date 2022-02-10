@@ -424,7 +424,16 @@
 | 333 | [Fruit Into Baskets - 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Fruit-Into-Baskets.cpp) | Middle | 2022.2.9 |
 | 334 | [Sum of Subarray Minimums - 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Subarray-Minimums.cpp) | Middle | 2022.2.9 |
 | 335 | [Super Palindromes - 超级回文数](https://leetcode-cn.com/problems/super-palindromes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Super-Palindromes.cpp) | Hard | 2022.2.9 |
-
-
-
+| 336 | [Rotate List - 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Rotate-List.cpp) | Middle | 2022.2.9 |
+| 337 | [Spiral Matrix II - 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Spiral-Matrix-II.cpp) | Middle | 2022.2.9 |
+| 338 | [Spiral Matrix - 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Spiral-Matrix.cpp) | Middle | 2022.2.9 |
+| 339 | [Multiply Strings - 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Multiply-Strings.cpp) | Middle | 2022.2.9 |
+| 340 | [Palindrome Number - 回文数](https://leetcode-cn.com/problems/palindrome-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Palindrome-Number.cpp) | Easy | 2022.2.9 |
+| 341 | [Merge Sorted Array - 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-Sorted-Array.cpp) | Easy | 2022.2.9 |
+| 342 | [Gray Code - 格雷编码](https://leetcode-cn.com/problems/gray-code/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Gray-Code.cpp) | Middle | 2022.2.9 |
+| 343 | [Maximum Depth of Binary Tree - 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Depth-of-Binary-Tree.cpp) | Easy | 2022.2.9 |
+| 344 | [Binary Tree Maximum Path Sum - 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Tree-Maximum-Path-Sum.cpp) | Hard | 2022.2.9 |
+| 345 | [Linked List Cycle - 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Cycle.cpp) | Easy | 2022.2.9 |
+| 346 | [Linked List Cycle - 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Cycle.cpp) | Middle | 2022.2.10 |
+| 347 | [Linked List Cycle II - 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Cycle-II.cpp) | Middle | 2022.2.10 |
 

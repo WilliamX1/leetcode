@@ -484,6 +484,45 @@ public:
 
 
 
+--------------------2022.2.10----------------------------
+
+/* 遍历两边字符串，分别统计1和0连续出现的最长长度，比较即可 */
+/* 时间复杂度：O(N)，空间复杂度：O(1) */
+/* 测试用例: 100011 */
+
+using namespace std;
+
+class Solution{
+public:
+  bool checkZeroOnes(string s){
+    int len = s.size(), MAX1 = 0, MAX2 = 0; // len = 6, MAX1 = 0, MAX2 = 0
+    int tmp1 = s[0] == '1', tmp2 = s[0] == '0'; // tmp1 = 1, tmp2 = 0
+    for (int i = 1; i < len; i++) {
+      /* 
+         i = 1, tmp1 = 0, tmp2 = 1, MAX1 = 1, MAX2 = 1
+         i = 2, tmp1 = 0, tmp2 = 2, MAX1 = 1, MAX2 = 2
+         i = 3, tmp1 = 0, tmp2 = 3, MAX1 = 1, MAX2 = 3
+         i = 4, tmp1 = 1, tmp2 = 0, MAX1 = 1, MAX2 = 3
+         i = 5, tmp1 = 2, tmp2 = 0, MAX1 = 2, MAX2 = 3
+      */
+      MAX1 = max(MAX1, tmp1);
+      MAX2 = max(MAX2, tmp2);
+      if (s[i] == '1') {
+        tmp1++;
+        tmp2 = 0;
+      } else {
+        tmp2++;
+        tmp1 = 0;
+      };
+    };
+    MAX1 = max(MAX1, tmp1);
+    MAX2 = max(MAX2, tmp2);
+    return MAX1 > MAX2; // 2 > 3 = false
+  };
+};
+
+
+
 
 
 
