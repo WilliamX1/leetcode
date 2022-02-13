@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": true,
-      "cwd": "/Users/huid/Desktop/leetcode",
+      "cwd": "/Users/huid/Desktop/leetcode/Jobs",
       "environment": [],
-      "program": "/Users/huid/Desktop/leetcode/build/Debug/outDebug",
+      "program": "/Users/huid/Desktop/leetcode/Jobs/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "lldb",
       "externalConsole": true

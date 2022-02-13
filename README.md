@@ -436,4 +436,8 @@
 | 345 | [Linked List Cycle - 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Cycle.cpp) | Easy | 2022.2.9 |
 | 346 | [Linked List Cycle - 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Cycle.cpp) | Middle | 2022.2.10 |
 | 347 | [Linked List Cycle II - 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Cycle-II.cpp) | Middle | 2022.2.10 |
+| 348 | [Count Operations to Obtain Zero - 得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Operations-to-Obtain-Zero.cpp) | Easy | 2022.2.13 |
+| 349 | [Minimum Operations to Make the Array Alternating - 使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Make-the-Array-Alternating.cpp) | Middle | 2022.2.13 |
+| 350 | [Removing Minimum Number of Magic Beans - 拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Removing-Minimum-Number-of-Magic-Beans.cpp) | Middle | 2022.2.13 |
+| 351 | [Maximum AND Sum of Array - 数组的最大与和](https://leetcode-cn.com/problems/maximum-and-sum-of-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-AND-Sum-of-Array.cpp) | Hard | 2022.2.13 |
 
