@@ -444,4 +444,5 @@
 | 353 | [Remove All Adjacent Duplicates In String - 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-All-Adjacent-Duplicates-In-String.cpp) | Easy | 2022.2.14 |
 | 354 | [Longest String Chain - 最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Stone-Weight.cpp) | Middle | 2022.2.14 |
 | 355 | [Last Stone Weight II - 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Stone-Weight-II.cpp) | Middle | 2022.2.14 |
+| 356 | [Lucky Numbers in a Matrix - 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Lucky-Numbers-in-a-Matrix.cpp) | Easy | 2022.2.15 |
 
