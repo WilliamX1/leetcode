@@ -440,4 +440,8 @@
 | 349 | [Minimum Operations to Make the Array Alternating - 使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Make-the-Array-Alternating.cpp) | Middle | 2022.2.13 |
 | 350 | [Removing Minimum Number of Magic Beans - 拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Removing-Minimum-Number-of-Magic-Beans.cpp) | Middle | 2022.2.13 |
 | 351 | [Maximum AND Sum of Array - 数组的最大与和](https://leetcode-cn.com/problems/maximum-and-sum-of-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-AND-Sum-of-Array.cpp) | Hard | 2022.2.13 |
+| 352 | [Last Stone Weight - 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Stone-Weight.cpp) | Easy | 2022.2.14 |
+| 353 | [Remove All Adjacent Duplicates In String - 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-All-Adjacent-Duplicates-In-String.cpp) | Easy | 2022.2.14 |
+| 354 | [Longest String Chain - 最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Stone-Weight.cpp) | Middle | 2022.2.14 |
+| 355 | [Last Stone Weight II - 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Stone-Weight-II.cpp) | Middle | 2022.2.14 |
 
