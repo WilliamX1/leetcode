@@ -445,4 +445,8 @@
 | 354 | [Longest String Chain - 最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Stone-Weight.cpp) | Middle | 2022.2.14 |
 | 355 | [Last Stone Weight II - 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Stone-Weight-II.cpp) | Middle | 2022.2.14 |
 | 356 | [Lucky Numbers in a Matrix - 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Lucky-Numbers-in-a-Matrix.cpp) | Easy | 2022.2.15 |
+| 357 | [Maximum Ascending Subarray Sum - 最大升序子数组和](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Ascending-Subarray-Sum.cpp) | Easy | 2022.2.15 |
+| 358 | [Number of Orders in the Backlog - 积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Orders-in-the-Backlog.cpp) | Middle | 2022.2.15 |
+| 359 | [Maximum Value at a Given Index in a Bounded Array - 有界数组中指定下标处的最大值](https://leetcode-cn.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.cpp) | Middle | 2022.2.15 |
+
 

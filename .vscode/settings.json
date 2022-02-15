@@ -101,6 +101,8 @@
     "tuple": "cpp",
     "type_traits": "cpp",
     "typeinfo": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "iomanip": "cpp",
+    "thread": "cpp"
   }
 }
