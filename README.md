@@ -448,5 +448,8 @@
 | 357 | [Maximum Ascending Subarray Sum - 最大升序子数组和](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Ascending-Subarray-Sum.cpp) | Easy | 2022.2.15 |
 | 358 | [Number of Orders in the Backlog - 积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Orders-in-the-Backlog.cpp) | Middle | 2022.2.15 |
 | 359 | [Maximum Value at a Given Index in a Bounded Array - 有界数组中指定下标处的最大值](https://leetcode-cn.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.cpp) | Middle | 2022.2.15 |
-
+| 360 | [Finding 3-Digit Even Numbers - 找出 3 位偶数](https://leetcode-cn.com/problems/finding-3-digit-even-numbers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Finding-3-Digit-Even-Numbers.cpp) | Easy | 2022.2.16 |
+| 361 | [Delete the Middle Node of a Linked List - 删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Delete-the-Middle-Node-of-a-Linked-List.cpp) | Middle | 2022.2.16 |
+| 362 | [Step-By-Step Directions From a Binary Tree Node to Another - 从二叉树一个节点到另一个节点每一步的方向](https://leetcode-cn.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Step-By-Step-Directions-From-a-Binary-Tree-Node-to-Another.cpp) | Middle | 2022.2.16 |
+| 363 | [Valid Arrangement of Pairs - 合法重新排列数对](https://leetcode-cn.com/problems/valid-arrangement-of-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Arrangement-of-Pairs.cpp) | Hard | 2022.2.16 |
 
