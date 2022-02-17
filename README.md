@@ -453,4 +453,5 @@
 | 362 | [Step-By-Step Directions From a Binary Tree Node to Another - 从二叉树一个节点到另一个节点每一步的方向](https://leetcode-cn.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Step-By-Step-Directions-From-a-Binary-Tree-Node-to-Another.cpp) | Middle | 2022.2.16 |
 | 363 | [Valid Arrangement of Pairs - 合法重新排列数对](https://leetcode-cn.com/problems/valid-arrangement-of-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Arrangement-of-Pairs.cpp) | Hard | 2022.2.16 |
 | 364 | [Knight Probability in Chessboard - 骑士在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Knight-Probability-in-Chessboard.cpp) | Middle | 2022.2.17 |
+| 365 | [Find Center of Star Graph - 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Center-of-Star-Graph.cpp) | Easy | 2022.2.18 |
 
