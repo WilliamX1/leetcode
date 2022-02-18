@@ -454,4 +454,5 @@
 | 363 | [Valid Arrangement of Pairs - 合法重新排列数对](https://leetcode-cn.com/problems/valid-arrangement-of-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Arrangement-of-Pairs.cpp) | Hard | 2022.2.16 |
 | 364 | [Knight Probability in Chessboard - 骑士在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Knight-Probability-in-Chessboard.cpp) | Middle | 2022.2.17 |
 | 365 | [Find Center of Star Graph - 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Center-of-Star-Graph.cpp) | Easy | 2022.2.18 |
+| 366 | [Pancake Sorting - 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Pancake-Sorting.cpp) | Middle | 2022.2.19 |
 
