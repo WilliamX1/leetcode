@@ -456,4 +456,5 @@
 | 365 | [Find Center of Star Graph - 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Center-of-Star-Graph.cpp) | Easy | 2022.2.18 |
 | 366 | [Pancake Sorting - 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Pancake-Sorting.cpp) | Middle | 2022.2.19 |
 | 367 | [1-bit and 2-bit Characters - 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/1-bit-and-2-bit-Characters.cpp) | Easy | 2022.2.20 |
+| 368 | [Minimum Window Substring - 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Window-Substring.cpp) | Hard | 2022.2.20 |
 
