@@ -455,4 +455,5 @@
 | 364 | [Knight Probability in Chessboard - 骑士在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Knight-Probability-in-Chessboard.cpp) | Middle | 2022.2.17 |
 | 365 | [Find Center of Star Graph - 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Center-of-Star-Graph.cpp) | Easy | 2022.2.18 |
 | 366 | [Pancake Sorting - 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Pancake-Sorting.cpp) | Middle | 2022.2.19 |
+| 367 | [1-bit and 2-bit Characters - 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/1-bit-and-2-bit-Characters.cpp) | Easy | 2022.2.20 |
 
