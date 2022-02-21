@@ -458,5 +458,8 @@
 | 367 | [1-bit and 2-bit Characters - 1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/1-bit-and-2-bit-Characters.cpp) | Easy | 2022.2.20 |
 | 368 | [Minimum Window Substring - 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Window-Substring.cpp) | Hard | 2022.2.20 |
 | 369 | [Push Dominoes - 推多米诺](https://leetcode-cn.com/problems/push-dominoes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Push-Dominoes.py) | Middle | 2022.2.21 |
-
+| 370 | [Count Integers With Even Digit Sum - 统计各位数字之和为偶数的整数个数](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Integers-With-Even-Digit-Sum.cpp) | Easy | 2022.2.21 |
+| 371 | [Merge Nodes in Between Zeros - 合并零之间的节点](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-Nodes-in-Between-Zeros.cpp) | Middle | 2022.2.21 |
+| 372 | [Construct String With Repeat Limit - 构造限制重复的字符串](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Construct-String-With-Repeat-Limit.cpp) | Middle | 2022.2.21 |
+| 373 | [Count Array Pairs Divisible by K - 统计可以被 K 整除的下标对数目](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Array-Pairs-Divisible-by-K.cpp) | Hard | 2022.2.21 |
 
