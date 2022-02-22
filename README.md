@@ -1,5 +1,7 @@
 # Leetcode
-### 剑指Offer
+
+## 剑指Offer
+
 | Cnt | Problem | Solution | Difficulty | date |
 | :----: | :------ | :------ | :--- | :--: |
 | 1 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/3.cpp)| Easy | 2021.7.12 |
@@ -81,7 +83,9 @@
 | 77 | [剑指 Offer II 011. 0 和 1 个数相同的子数组](https://leetcode-cn.com/problems/A1NYOS/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Offer/II-11.cpp)| Middle | 2021.10.18 |
 
 -------
-### 每日一题
+
+## 每日一题
+
 | Cnt | Problem | Solution | Difficulty | date |
 | :----: | :------ | :------ | :--- | :--: |
 | 1 | [Remove Duplicates from Sorted Array II - 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Duplicates-from-Sorted-Array-II.cpp)| Medium | 2021.4.6 |
@@ -463,4 +467,6 @@
 | 372 | [Construct String With Repeat Limit - 构造限制重复的字符串](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Construct-String-With-Repeat-Limit.cpp) | Middle | 2022.2.21 |
 | 373 | [Count Array Pairs Divisible by K - 统计可以被 K 整除的下标对数目](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Array-Pairs-Divisible-by-K.cpp) | Hard | 2022.2.21 |
 | 374 | [Binary Tree Inorder Traversal - 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Tree-Inorder-Traversal.cpp) | Easy | 2022.2.22 |
+| 375 | [Maximal Rectangle - 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximal-Rectangle.cpp) | Hard | 2022.2.23 |
+| 376 | [Largest Rectangle in Histogram - 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Rectangle-in-Histogram.cpp) | Hard | 2022.2.23 |
 
