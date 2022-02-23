@@ -472,4 +472,13 @@
 | 377 | [Symmetric Tree - 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Symmetric-Tree.cpp) | Easy | 2022.2.23 |
 | 378 | [Longest Consecutive Sequence - 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Consecutive-Sequence.cpp) | Middle | 2022.2.23 |
 | 379 | [Word Break - 单词拆分](https://leetcode-cn.com/problems/word-break/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Word-Break.cpp) | Middle | 2022.2.23 |
+| 380 | [Reverse Linked List - 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-Linked-List.cpp) | Easy | 2022.2.24 |
+| 381 | [Contains Duplicate - 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Contains-Duplicate.cpp) | Easy | 2022.2.24 |
+| 382 | [Lowest Common Ancestor of a Binary Search Tree - 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Lowest-Common-Ancestor-of-a-Binary-Search-Tree.cpp) | Easy | 2022.2.24 |
+| 382 | [Lowest Common Ancestor of a Binary Tree - 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Lowest-Common-Ancestor-of-a-Binary-Tree.cpp) | Middle | 2022.2.24 |
+| 383 | [Product of Array Except Self - 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Product-of-Array-Except-Self.cpp) | Middle | 2022.2.24 |
+| 384 | [Nim Game - Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Nim-Game.cpp) | Easy | 2022.2.24 |
+| 385 | [Reverse String - 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-String.cpp) | Easy | 2022.2.24 |
+| 386 | [Reverse String III - 反转字符串 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-String-III.cpp) | Easy | 2022.2.24 |
+
 
