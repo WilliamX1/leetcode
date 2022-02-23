@@ -469,4 +469,7 @@
 | 374 | [Binary Tree Inorder Traversal - 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Tree-Inorder-Traversal.cpp) | Easy | 2022.2.22 |
 | 375 | [Maximal Rectangle - 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximal-Rectangle.cpp) | Hard | 2022.2.23 |
 | 376 | [Largest Rectangle in Histogram - 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Rectangle-in-Histogram.cpp) | Hard | 2022.2.23 |
+| 377 | [Symmetric Tree - 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Symmetric-Tree.cpp) | Easy | 2022.2.23 |
+| 378 | [Longest Consecutive Sequence - 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Consecutive-Sequence.cpp) | Middle | 2022.2.23 |
+| 379 | [Word Break - 单词拆分](https://leetcode-cn.com/problems/word-break/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Word-Break.cpp) | Middle | 2022.2.23 |
 
