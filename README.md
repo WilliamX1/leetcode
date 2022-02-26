@@ -481,4 +481,5 @@
 | 385 | [Reverse String - 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-String.cpp) | Easy | 2022.2.24 |
 | 386 | [Reverse String III - 反转字符串 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-String-III.cpp) | Easy | 2022.2.24 |
 | 387 | [Complex Number Multiplication - 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Complex-Number-Multiplication.cpp) | Middle | 2022.2.25 |
+| 388 | [Optimal Division - 最优除法](https://leetcode-cn.com/problems/optimal-division/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Optimal-Division.cpp) | Middle | 2022.2.27 |
 
