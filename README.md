@@ -482,4 +482,8 @@
 | 386 | [Reverse String III - 反转字符串 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-String-III.cpp) | Easy | 2022.2.24 |
 | 387 | [Complex Number Multiplication - 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Complex-Number-Multiplication.cpp) | Middle | 2022.2.25 |
 | 388 | [Optimal Division - 最优除法](https://leetcode-cn.com/problems/optimal-division/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Optimal-Division.cpp) | Middle | 2022.2.27 |
+| 389 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Counting-Words-With-a-Given-Prefix.cpp) | Easy | 2022.2.27 |
+| 390 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram-II.cpp) | Middle | 2022.2.27 |
+| 391 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Time-to-Complete-Trips.cpp) | Middle | 2022.2.27 |
+| 392 | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Time-to-Finish-the-Race.cpp) | Hard | 2022.2.27 |
 
