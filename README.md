@@ -488,4 +488,13 @@
 | 392 | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Time-to-Finish-the-Race.cpp) | Hard | 2022.2.27 |
 | 393 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Width-of-Binary-Tree.cpp) | Middle | 2022.2.28 |
 | 394 | [Maximum Number of Achievable Transfer Requests - 最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Achievable-Transfer-Requests.cpp) | Hard | 2022.2.28 |
+| 395 | [Summary Ranges - 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Summary-Ranges.cpp) | Easy | 2022.3.1 |
+
+
+
+
+
+
+
+
 
