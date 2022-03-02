@@ -493,12 +493,5 @@
 | 397 | [Minimum Number of Operations to Move All Balls to Each Box - 移动所有球到每个盒子所需的最小操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.cpp) | Middle | 2022.3.1 |
 | 398 | [Maximum Score from Performing Multiplication Operations - 执行乘法运算的最大分数](https://leetcode-cn.com/problems/maximum-score-from-performing-multiplication-operations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Score-from-Performing-Multiplication-Operations.cpp) | Middle | 2022.3.1 |
 | 399 | [Maximize Palindrome Length From Subsequences - 由子序列构造的最长回文串的长度](https://leetcode-cn.com/problems/maximize-palindrome-length-from-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximize-Palindrome-Length-From-Subsequences.cpp) | Hard | 2022.3.1 |
-
-
-
-
-
-
-
-
+| 400 | [Add Digits - 各位相加](https://leetcode-cn.com/problems/add-digits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Digits.cpp) | Easy | 2022.3.3 |
 
