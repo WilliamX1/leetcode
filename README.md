@@ -496,4 +496,5 @@
 | 400 | [Add Digits - 各位相加](https://leetcode-cn.com/problems/add-digits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Digits.cpp) | Easy | 2022.3.3 |
 | 401 | [N-Queens - N 皇后](https://leetcode-cn.com/problems/n-queens/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/N-Queens.cpp) | Hard | 2022.3.3 |
 | 402 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Provinces.cpp) | Middle | 2022.3.3 |
+| 403 | [Sum of Subarray Ranges - 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Subarray-Ranges.cpp) | Middle | 2022.3.4 |
 
