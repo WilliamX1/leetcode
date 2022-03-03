@@ -495,4 +495,5 @@
 | 399 | [Maximize Palindrome Length From Subsequences - 由子序列构造的最长回文串的长度](https://leetcode-cn.com/problems/maximize-palindrome-length-from-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximize-Palindrome-Length-From-Subsequences.cpp) | Hard | 2022.3.1 |
 | 400 | [Add Digits - 各位相加](https://leetcode-cn.com/problems/add-digits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Digits.cpp) | Easy | 2022.3.3 |
 | 401 | [N-Queens - N 皇后](https://leetcode-cn.com/problems/n-queens/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/N-Queens.cpp) | Hard | 2022.3.3 |
+| 402 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Provinces.cpp) | Middle | 2022.3.3 |
 
