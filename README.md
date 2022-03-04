@@ -497,4 +497,6 @@
 | 401 | [N-Queens - N 皇后](https://leetcode-cn.com/problems/n-queens/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/N-Queens.cpp) | Hard | 2022.3.3 |
 | 402 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Provinces.cpp) | Middle | 2022.3.3 |
 | 403 | [Sum of Subarray Ranges - 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Subarray-Ranges.cpp) | Middle | 2022.3.4 |
-
+| 404 | [Decrypt String from Alphabet to Integer Mapping - 解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decrypt-String-from-Alphabet-to-Integer-Mapping.cpp) | Easy | 2022.3.4 |
+| 405 | [Get Watched Videos by Your Friends - 获取你好友已观看的视频](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Get-Watched-Videos-by-Your-Friends.cpp) | Middle | 2022.3.4 |
+| 406 | [Minimum Insertion Steps to Make a String Palindrome - 让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Insertion-Steps-to-Make-a-String-Palindrome.cpp) | Hard | 2022.3.4 |
