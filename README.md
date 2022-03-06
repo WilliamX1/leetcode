@@ -504,4 +504,5 @@
 | 408 | [Append K Integers With Minimal Sum - 向数组中追加 K 个整数](https://leetcode-cn.com/problems/append-k-integers-with-minimal-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Append-K-Integers-With-Minimal-Sum.cpp) | Middle | 2022.3.6 |
 | 409 | [Create Binary Tree From Descriptions - 根据描述创建二叉树](https://leetcode-cn.com/problems/create-binary-tree-from-descriptions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Create-Binary-Tree-From-Descriptions.cpp) | Middle | 2022.3.6 |
 | 410 | [Replace Non-Coprime Numbers in Array - 替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-Non-Coprime-Numbers-in-Array.cpp) | Hard | 2022.3.6 |
+| 411 | [Base 7 - 七进制数](https://leetcode-cn.com/problems/base-7/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Base-7.cpp) | Easy | 2022.3.7 |
 
