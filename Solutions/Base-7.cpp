@@ -1,6 +1,8 @@
 class Solution {
 public:
     string convertToBase7(int num) {
+        if (num == 0) return "0";
+        
         string ans;
         bool isNeg = num < 0;
         

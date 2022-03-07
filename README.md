@@ -505,4 +505,7 @@
 | 409 | [Create Binary Tree From Descriptions - 根据描述创建二叉树](https://leetcode-cn.com/problems/create-binary-tree-from-descriptions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Create-Binary-Tree-From-Descriptions.cpp) | Middle | 2022.3.6 |
 | 410 | [Replace Non-Coprime Numbers in Array - 替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-Non-Coprime-Numbers-in-Array.cpp) | Hard | 2022.3.6 |
 | 411 | [Base 7 - 七进制数](https://leetcode-cn.com/problems/base-7/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Base-7.cpp) | Easy | 2022.3.7 |
+| 412 | [Most Frequent Number Following Key In an Array - 数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Frequent-Number-Following-Key-In-an-Array.cpp) | Easy | 2022.3.7 |
+| 413 | [Sort the Jumbled Numbers - 数组中紧跟 key 将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-the-Jumbled-Numbers.cpp) | Middle | 2022.3.7 |
+| 414 | [Plates Between Candles - 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Plates-Between-Candles.cpp) | Middle | 2022.3.8 |
 
