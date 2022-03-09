@@ -508,4 +508,5 @@
 | 412 | [Most Frequent Number Following Key In an Array - 数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Frequent-Number-Following-Key-In-an-Array.cpp) | Easy | 2022.3.7 |
 | 413 | [Sort the Jumbled Numbers - 数组中紧跟 key 将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-the-Jumbled-Numbers.cpp) | Middle | 2022.3.7 |
 | 414 | [Plates Between Candles - 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Plates-Between-Candles.cpp) | Middle | 2022.3.8 |
+| 415 | [N-ary Tree Preorder Traversal - N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/N-ary-Tree-Preorder-Traversal.cpp) | Easy | 2022.3.10 |
 
