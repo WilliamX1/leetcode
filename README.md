@@ -510,4 +510,10 @@
 | 414 | [Plates Between Candles - 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Plates-Between-Candles.cpp) | Middle | 2022.3.8 |
 | 415 | [N-ary Tree Preorder Traversal - N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/N-ary-Tree-Preorder-Traversal.cpp) | Easy | 2022.3.10 |
 | 416 | [Count Nodes With the Highest Score - 统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Nodes-With-the-Highest-Score.cpp) | Middle | 2022.3.11 |
+| 417 | [Regular Expression Matching - 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Regular-Expression-Matching.cpp) | Hard | 2022.3.11 |
+| 418 | [Merge Two Binary Trees - 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-Two-Binary-Trees.cpp) | Easy | 2022.3.11 |
+| 419 | [Diameter of Binary Tree - 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Diameter-of-Binary-Tree.cpp) | Easy | 2022.3.11 |
+| 420 | [Find All Numbers Disappeared in an Array - 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-All-Numbers-Disappeared-in-an-Array.cpp) | Easy | 2022.3.11 |
+| 421 | [Partition Equal Subset Sum - 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-Equal-Subset-Sum.cpp) | Middle | 2022.3.11 |
+| 422 | [Queue Reconstruction by Height - 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queue-Reconstruction-by-Height.cpp) | Middle | 2022.3.11 |
 
