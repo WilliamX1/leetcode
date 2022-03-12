@@ -520,6 +520,9 @@
 | 424 | [First Missing Positive - 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/First-Missing-Positive.cpp) | Hard | 2022.3.12 |
 | 425 | [Wildcard Matching - 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Wildcard-Matching.cpp) | Hard | 2022.3.12 |
 | 426 | [Distinct Subsequences - 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distinct-Subsequences.cpp) | Hard | 2022.3.12 |
+| 427 | [Best Time to Buy and Sell Stock III - 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Best-Time-to-Buy-and-Sell-Stock-III.cpp) | Hard | 2022.3.12 |
+| 428 | [Palindrome Partitioning II - 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Palindrome-Partitioning-II.cpp) | Hard | 2022.3.12 |
+| 429 | [Word Break II - 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Word-Break-II.cpp) | Hard | 2022.3.12 |
 
 
 
