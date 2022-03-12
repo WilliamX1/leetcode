@@ -523,6 +523,10 @@
 | 427 | [Best Time to Buy and Sell Stock III - 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Best-Time-to-Buy-and-Sell-Stock-III.cpp) | Hard | 2022.3.12 |
 | 428 | [Palindrome Partitioning II - 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Palindrome-Partitioning-II.cpp) | Hard | 2022.3.12 |
 | 429 | [Word Break II - 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Word-Break-II.cpp) | Hard | 2022.3.12 |
+| 430 | [Dungeon Game - 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Dungeon-Game.cpp) | Hard | 2022.3.13 |
+| 431 | [UTF-8 Validation - UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/UTF-8-Validation.cpp) | Middle | 2022.3.13 |
+| 432 | [4Sum - 四数之和](https://leetcode-cn.com/problems/4sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/4Sum.cpp) | Middle | 2022.3.13 |
+
 
 
 
