@@ -516,4 +516,10 @@
 | 420 | [Find All Numbers Disappeared in an Array - 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-All-Numbers-Disappeared-in-an-Array.cpp) | Easy | 2022.3.11 |
 | 421 | [Partition Equal Subset Sum - 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-Equal-Subset-Sum.cpp) | Middle | 2022.3.11 |
 | 422 | [Queue Reconstruction by Height - 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queue-Reconstruction-by-Height.cpp) | Middle | 2022.3.11 |
+| 423 | [N-ary Tree Postorder Traversal - N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/N-ary-Tree-Postorder-Traversal.cpp) | Easy | 2022.3.12 |
+| 424 | [First Missing Positive - 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/First-Missing-Positive.cpp) | Hard | 2022.3.12 |
+| 425 | [Wildcard Matching - 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Wildcard-Matching.cpp) | Hard | 2022.3.12 |
+| 426 | [Distinct Subsequences - 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distinct-Subsequences.cpp) | Hard | 2022.3.12 |
+
+
 
