@@ -526,7 +526,9 @@
 | 430 | [Dungeon Game - 地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Dungeon-Game.cpp) | Hard | 2022.3.13 |
 | 431 | [UTF-8 Validation - UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/UTF-8-Validation.cpp) | Middle | 2022.3.13 |
 | 432 | [4Sum - 四数之和](https://leetcode-cn.com/problems/4sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/4Sum.cpp) | Middle | 2022.3.13 |
-
+| 433 | [Find All K-Distant Indices in an Array - 找出数组中的所有 K 近邻下标](https://leetcode-cn.com/problems/find-all-k-distant-indices-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-All-K-Distant-Indices-in-an-Array.cpp) | Easy | 2022.3.13 |
+| 434 | [Count Artifacts That Can Be Extracted - 统计可以提取的工件](https://leetcode-cn.com/problems/count-artifacts-that-can-be-extracted/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Artifacts-That-Can-Be-Extracted.cpp) | Middle | 2022.3.13 |
+| 435 | [Maximize the Topmost Element After K Moves - K 次操作后最大化顶端元素](https://leetcode-cn.com/problems/maximize-the-topmost-element-after-k-moves/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximize-the-Topmost-Element-After-K-Moves.cpp) | Middle | 2022.3.13 |
 
 
 
