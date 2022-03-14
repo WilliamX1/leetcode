@@ -534,6 +534,11 @@
 | 437 | [银联-02. 优惠活动系统](https://leetcode-cn.com/contest/cnunionpay-2022spring/problems/kDPV0f/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-02.cpp) | Middle | 2022.3.13 |
 | 438 | [银联-03. 理财产品](https://leetcode-cn.com/contest/cnunionpay-2022spring/problems/I4mOGz/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-03.cpp) | Middle | 2022.3.13 |
 | 439 | [银联-04. 合作开发](https://leetcode-cn.com/contest/cnunionpay-2022spring/problems/lCh58I/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-04.cpp) | Hard | 2022.3.13 |
+| 440 | [两个列表的最小索引总和 - Minimum Index Sum of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Index-Sum-of-Two-Lists.cpp) | Easy | 2022.3.14 |
+| 441 | [最后一个单词的长度 - Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Length-of-Last-Word.cpp) | Easy | 2022.3.14 |
+| 442 | [二进制求和 - Add Binary](https://leetcode-cn.com/problems/add-binary/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Binary.cpp) | Easy | 2022.3.14 |
+| 443 | [两两交换链表中的节点 - Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Swap-Nodes-in-Pairs.cpp) | Middle | 2022.3.14 |
+| 444 | [K 个一组翻转链表 - Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-Nodes-in-k-Group.cpp) | Hard | 2022.3.14 |
 
 
 
