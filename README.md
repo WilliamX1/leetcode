@@ -556,6 +556,11 @@
 | 459 | [括号的最大嵌套深度 - Maximum Nesting Depth of the Parentheses](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Nesting-Depth-of-the-Parentheses.cpp) | Easy | 2022.3.16 |
 | 460 | [组合总和 II - Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Combination-Sum-II.cpp) | Middle | 2022.3.16 |
 | 461 | [全 O(1) 的数据结构 - All O\`one Data Structure](https://leetcode-cn.com/problems/all-oone-data-structure/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/All-O`one-Data-Structure.cpp) | Hard | 2022.3.16 |
+| 462 | [二叉树的前序遍历 - Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Tree-Preorder-Traversal.cpp) | Easy | 2022.3.17 |
+| 463 | [验证回文串 - Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Palindrome.cpp) | Easy | 2022.3.17 |
+| 464 | [奇偶树 - Even Odd Tree](https://leetcode-cn.com/problems/even-odd-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Even-Odd-Tree.cpp) | Middle | 2022.3.17 |
+| 465 | [词典中最长的单词 - Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Word-in-Dictionary.cpp) | Easy | 2022.3.17 |
+| 466 | [文本左右对齐 - Text Justification](https://leetcode-cn.com/problems/text-justification/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Text-Justification.cpp) | Hard | 2022.3.17 |
 
 
 
