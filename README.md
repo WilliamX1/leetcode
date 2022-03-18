@@ -561,6 +561,19 @@
 | 464 | [奇偶树 - Even Odd Tree](https://leetcode-cn.com/problems/even-odd-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Even-Odd-Tree.cpp) | Middle | 2022.3.17 |
 | 465 | [词典中最长的单词 - Longest Word in Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Word-in-Dictionary.cpp) | Easy | 2022.3.17 |
 | 466 | [文本左右对齐 - Text Justification](https://leetcode-cn.com/problems/text-justification/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Text-Justification.cpp) | Hard | 2022.3.17 |
+| 467 | [统计有序矩阵中的负数 - Count Negative Numbers in a Sorted Matrix](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Negative-Numbers-in-a-Sorted-Matrix.cpp) | Easy | 2022.3.18 |
+| 468 | [最后 K 个数的乘积 - Product of the Last K Numbers](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Product-of-the-Last-K-Numbers.cpp) | Middle | 2022.3.18 |
+| 469 | [最多可以参加的会议数目 - Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Events-That-Can-Be-Attended.cpp) | Middle | 2022.3.18 |
+| 469 | [多次求和构造目标数组 - Construct Target Array With Multiple Sums](https://leetcode-cn.com/problems/construct-target-array-with-multiple-sums/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Construct-Target-Array-With-Multiple-Sums.cpp) | Hard | 2022.3.18 |
+| 470 | [玩筹码 - Minimum Cost to Move Chips to The Same Position](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Move-Chips-to-The-Same-Position.cpp) | Easy | 2022.3.18 |
+| 471 | [最长定差子序列 - Longest Arithmetic Subsequence of Given Difference](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Arithmetic-Subsequence-of-Given-Difference.cpp) | Middle | 2022.3.18 |
+| 472 | [黄金矿工 - Path with Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Path-with-Maximum-Gold.cpp) | Middle | 2022.3.18 |
+| 473 | [路径总和 - Path Sum](https://leetcode-cn.com/problems/path-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Path-Sum.cpp) | Easy | 2022.3.18 |
+| 474 | [二叉树的最小深度 - Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Move-Chips-to-The-Same-Position.cpp) | Easy | 2022.3.18 |
+| 475 | [平衡二叉树 - Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Depth-of-Binary-Tree.cpp) | Easy | 2022.3.18 |
+| 476 | [滑动窗口最大值 - Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sliding-Window-Maximum.cpp) | Hard | 2022.3.18 |
+| 477 | [简易银行系统 - Simple Bank System](https://leetcode-cn.com/problems/simple-bank-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Simple-Bank-System.cpp) | Middle | 2022.3.18 |
+
 
 
 
