@@ -573,7 +573,7 @@
 | 475 | [平衡二叉树 - Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Depth-of-Binary-Tree.cpp) | Easy | 2022.3.18 |
 | 476 | [滑动窗口最大值 - Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sliding-Window-Maximum.cpp) | Hard | 2022.3.18 |
 | 477 | [简易银行系统 - Simple Bank System](https://leetcode-cn.com/problems/simple-bank-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Simple-Bank-System.cpp) | Middle | 2022.3.18 |
-
+| 478 | [统计元音字母序列的数目 - Count Vowels Permutation](https://leetcode-cn.com/problems/count-vowels-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Vowels-Permutation.cpp) | Hard | 2022.3.18 |
 
 
 
