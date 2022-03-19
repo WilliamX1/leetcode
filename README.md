@@ -574,6 +574,11 @@
 | 476 | [滑动窗口最大值 - Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sliding-Window-Maximum.cpp) | Hard | 2022.3.18 |
 | 477 | [简易银行系统 - Simple Bank System](https://leetcode-cn.com/problems/simple-bank-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Simple-Bank-System.cpp) | Middle | 2022.3.18 |
 | 478 | [统计元音字母序列的数目 - Count Vowels Permutation](https://leetcode-cn.com/problems/count-vowels-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Vowels-Permutation.cpp) | Hard | 2022.3.18 |
+| 479 | [删除一个元素使数组严格递增 - Remove One Element to Make the Array Strictly Increasing](https://leetcode-cn.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-One-Element-to-Make-the-Array-Strictly-Increasing.cpp) | Easy | 2022.3.19 |
+| 480 | [根据二叉树创建字符串 - Construct String from Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Construct-String-from-Binary-Tree.cpp) | Easy | 2022.3.19 |
+| 481 | [检查句子中的数字是否递增 - Check if Numbers Are Ascending in a Sentence](https://leetcode-cn.com/problems/check-if-numbers-are-ascending-in-a-sentence/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Numbers-Are-Ascending-in-a-Sentence.cpp) | Easy | 2022.3.19 |
+| 482 | [统计按位或能得到最大值的子集数目 - Count Number of Maximum Bitwise-OR Subsets](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Maximum-Bitwise-OR-Subsets.cpp) | Middle | 2022.3.19 |
+| 483 | [做菜顺序 - Reducing Dishes](https://leetcode-cn.com/problems/reducing-dishes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reducing-Dishes.cpp) | Hard | 2022.3.19 |
 
 
 
