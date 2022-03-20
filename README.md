@@ -587,6 +587,11 @@
 | 489 | [将数组和减半的最少操作次数 - Minimum Operations to Halve Array Sum](https://leetcode-cn.com/problems/minimum-operations-to-halve-array-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Halve-Array-Sum.cpp) | Middle | 2022.3.20 |
 | 490 | [用地毯覆盖后的最少白色砖块 - Minimum White Tiles After Covering With Carpets](https://leetcode-cn.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-White-Tiles-After-Covering-With-Carpets.cpp) | Hard | 2022.3.20 |
 | 491 | [种花问题 - Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Can-Place-Flowers.cpp) | Easy | 2022.3.20 |
+| 492 | [两数之和 IV - 输入 BST - Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Two-Sum-IV-Input-is-a-BST.cpp) | Easy | 2022.3.21 |
+| 493 | [保持城市天际线 - Max Increase to Keep City Skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Max-Increase-to-Keep-City-Skyline.cpp) | Middle | 2022.3.21 |
+| 494 | [一维数组的动态和 - Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Running-Sum-of-1d-Array.cpp) | Easy | 2022.3.21 |
+| 495 | [执行操作后的变量值 - Final Value of Variable After Performing Operations](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Final-Value-of-Variable-After-Performing-Operations.cpp) | Easy | 2022.3.21 |
+| 496 | [情侣牵手 - Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Couples-Holding-Hands.cpp) | Hard | 2022.3.21 |
 
 
 
