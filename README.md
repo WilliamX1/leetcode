@@ -587,7 +587,6 @@
 | 489 | [将数组和减半的最少操作次数 - Minimum Operations to Halve Array Sum](https://leetcode-cn.com/problems/minimum-operations-to-halve-array-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Halve-Array-Sum.cpp) | Middle | 2022.3.20 |
 | 490 | [用地毯覆盖后的最少白色砖块 - Minimum White Tiles After Covering With Carpets](https://leetcode-cn.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-White-Tiles-After-Covering-With-Carpets.cpp) | Hard | 2022.3.20 |
 | 491 | [种花问题 - Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Can-Place-Flowers.cpp) | Easy | 2022.3.20 |
-| 492 | [种花问题 - Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Can-Place-Flowers.cpp) | Easy | 2022.3.20 |
 
 
 
