@@ -579,6 +579,15 @@
 | 481 | [检查句子中的数字是否递增 - Check if Numbers Are Ascending in a Sentence](https://leetcode-cn.com/problems/check-if-numbers-are-ascending-in-a-sentence/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Numbers-Are-Ascending-in-a-Sentence.cpp) | Easy | 2022.3.19 |
 | 482 | [统计按位或能得到最大值的子集数目 - Count Number of Maximum Bitwise-OR Subsets](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/submissions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Maximum-Bitwise-OR-Subsets.cpp) | Middle | 2022.3.19 |
 | 483 | [做菜顺序 - Reducing Dishes](https://leetcode-cn.com/problems/reducing-dishes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reducing-Dishes.cpp) | Hard | 2022.3.19 |
+| 484 | [统计数组中峰和谷的数量 - Count Hills and Valleys in an Array](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Hills-and-Valleys-in-an-Array.cpp) | Easy | 2022.3.20 |
+| 485 | [统计道路上的碰撞次数 - Count Collisions on a Road](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Collisions-on-a-Road.cpp) | Middle | 2022.3.20 |
+| 486 | [射箭比赛中的最大得分 - Maximum Points in an Archery Competition](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Points-in-an-Archery-Competition.cpp) | Middle | 2022.3.20 |
+| 487 | [将数组划分成相等数对 - Divide Array Into Equal Pairs](https://leetcode-cn.com/problems/divide-array-into-equal-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Divide-Array-Into-Equal-Pairs.cpp) | Easy | 2022.3.20 |
+| 488 | [字符串中最多数目的子字符串 - Maximize Number of Subsequences in a String](https://leetcode-cn.com/problems/maximize-number-of-subsequences-in-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximize-Number-of-Subsequences-in-a-String.cpp) | Middle | 2022.3.20 |
+| 489 | [将数组和减半的最少操作次数 - Minimum Operations to Halve Array Sum](https://leetcode-cn.com/problems/minimum-operations-to-halve-array-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Halve-Array-Sum.cpp) | Middle | 2022.3.20 |
+| 490 | [用地毯覆盖后的最少白色砖块 - Minimum White Tiles After Covering With Carpets](https://leetcode-cn.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-White-Tiles-After-Covering-With-Carpets.cpp) | Hard | 2022.3.20 |
+| 491 | [种花问题 - Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Can-Place-Flowers.cpp) | Easy | 2022.3.20 |
+| 492 | [种花问题 - Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Can-Place-Flowers.cpp) | Easy | 2022.3.20 |
 
 
 
