@@ -592,6 +592,11 @@
 | 494 | [一维数组的动态和 - Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Running-Sum-of-1d-Array.cpp) | Easy | 2022.3.21 |
 | 495 | [执行操作后的变量值 - Final Value of Variable After Performing Operations](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Final-Value-of-Variable-After-Performing-Operations.cpp) | Easy | 2022.3.21 |
 | 496 | [情侣牵手 - Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Couples-Holding-Hands.cpp) | Hard | 2022.3.21 |
+| 497 | [验证回文字符串 Ⅱ - Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Palindrome-II.cpp) | Easy | 2022.3.22 |
+| 498 | [差的绝对值为 K 的数对数目 - Count Number of Pairs With Absolute Difference K](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Pairs-With-Absolute-Difference-K.cpp) | Easy | 2022.3.22 |
+| 499 | [有效的山脉数组 - Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Palindrome-II.cpp) | Easy | 2022.3.22 |
+| 500 | [如果相邻两个颜色均相同则删除当前颜色 - Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color.cpp) | Middle | 2022.3.22 |
+| 501 | [不同路径 III - Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Mountain-Array.cpp) | Hard | 2022.3.22 |
 
 
 
