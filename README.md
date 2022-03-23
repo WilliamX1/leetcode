@@ -597,6 +597,11 @@
 | 499 | [有效的山脉数组 - Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Palindrome-II.cpp) | Easy | 2022.3.22 |
 | 500 | [如果相邻两个颜色均相同则删除当前颜色 - Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color.cpp) | Middle | 2022.3.22 |
 | 501 | [不同路径 III - Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Mountain-Array.cpp) | Hard | 2022.3.22 |
+| 502 | [宝石与石头 - Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Jewels-and-Stones.cpp) | Easy | 2022.3.23 |
+| 503 | [最富有客户的资产总量 - Richest Customer Wealth](https://leetcode-cn.com/problems/richest-customer-wealth/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Richest-Customer-Wealth.cpp) | Easy | 2022.3.23 |
+| 504 | [拥有最多糖果的孩子 - Kids With the Greatest Number of Candies](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Kids-With-the-Greatest-Number-of-Candies.cpp) | Easy | 2022.3.23 |
+| 505 | [所有排列中的最大和 - Maximum Sum Obtained of Any Permutation](https://leetcode-cn.com/problems/maximum-sum-obtained-of-any-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-Obtained-of-Any-Permutation.cpp) | Middle | 2022.3.23 |
+| 506 | [二叉树的序列化与反序列化 - Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Serialize-and-Deserialize-Binary-Tree.cpp) | Hard | 2022.3.23 |
 
 
 
