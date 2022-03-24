@@ -602,6 +602,12 @@
 | 504 | [拥有最多糖果的孩子 - Kids With the Greatest Number of Candies](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Kids-With-the-Greatest-Number-of-Candies.cpp) | Easy | 2022.3.23 |
 | 505 | [所有排列中的最大和 - Maximum Sum Obtained of Any Permutation](https://leetcode-cn.com/problems/maximum-sum-obtained-of-any-permutation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-Obtained-of-Any-Permutation.cpp) | Middle | 2022.3.23 |
 | 506 | [二叉树的序列化与反序列化 - Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Serialize-and-Deserialize-Binary-Tree.cpp) | Hard | 2022.3.23 |
+| 507 | [重新排列数组 - Shuffle the Array](https://leetcode-cn.com/problems/shuffle-the-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shuffle-the-Array.cpp) | Easy | 2022.3.24 |
+| 508 | [图片平滑器 - Image Smoother](https://leetcode-cn.com/problems/image-smoother/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Image-Smoother.cpp) | Easy | 2022.3.24 |
+| 509 | [按奇偶排序数组 II - Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-Array-By-Parity-II.cpp) | Easy | 2022.3.24 |
+| 510 | [使括号有效的最少添加 - Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Add-to-Make-Parentheses-Valid.cpp) | Middle | 2022.3.24 |
+| 511 | [三数之和的多种可能 - 3Sum With Multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/3Sum-With-Multiplicity.cpp) | Middle | 2022.3.24 |
+| 512 | [尽量减少恶意软件的传播 - Minimize Malware Spread](https://leetcode-cn.com/problems/minimize-malware-spread/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-Malware-Spread.cpp) | Hard | 2022.3.24 |
 
 
 
