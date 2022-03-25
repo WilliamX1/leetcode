@@ -608,6 +608,12 @@
 | 510 | [使括号有效的最少添加 - Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Add-to-Make-Parentheses-Valid.cpp) | Middle | 2022.3.24 |
 | 511 | [三数之和的多种可能 - 3Sum With Multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/3Sum-With-Multiplicity.cpp) | Middle | 2022.3.24 |
 | 512 | [尽量减少恶意软件的传播 - Minimize Malware Spread](https://leetcode-cn.com/problems/minimize-malware-spread/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-Malware-Spread.cpp) | Hard | 2022.3.24 |
+| 513 | [统计匹配检索规则的物品数量 - Count Items Matching a Rule](https://leetcode-cn.com/problems/count-items-matching-a-rule/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Items-Matching-a-Rule.cpp) | Easy | 2022.3.25 |
+| 514 | [所有奇数长度子数组的和 - Sum of All Odd Length Subarrays](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-All-Odd-Length-Subarrays.cpp) | Easy | 2022.3.25 |
+| 515 | [检查是否所有字符出现次数相同 - Check if All Characters Have Equal Number of Occurrences](https://leetcode-cn.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-All-Characters-Have-Equal-Number-of-Occurrences.cpp) | Easy | 2022.3.25 |
+| 516 | [最小未被占据椅子的编号 - The Number of the Smallest Unoccupied Chair](https://leetcode-cn.com/problems/the-number-of-the-smallest-unoccupied-chair) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-Number-of-the-Smallest-Unoccupied-Chair.cpp) | Middle | 2022.3.25 |
+| 517 | [描述绘画结果 - Describe the Painting](https://leetcode-cn.com/problems/describe-the-painting/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Describe-the-Painting.cpp) | Middle | 2022.3.25 |
+| 518 | [队列中可以看到的人数 - Number of Visible People in a Queue](https://leetcode-cn.com/problems/number-of-visible-people-in-a-queue/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Visible-People-in-a-Queue.cpp) | Hard | 2022.3.25 |
 
 
 
