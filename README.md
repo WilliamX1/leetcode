@@ -614,6 +614,13 @@
 | 516 | [最小未被占据椅子的编号 - The Number of the Smallest Unoccupied Chair](https://leetcode-cn.com/problems/the-number-of-the-smallest-unoccupied-chair) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-Number-of-the-Smallest-Unoccupied-Chair.cpp) | Middle | 2022.3.25 |
 | 517 | [描述绘画结果 - Describe the Painting](https://leetcode-cn.com/problems/describe-the-painting/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Describe-the-Painting.cpp) | Middle | 2022.3.25 |
 | 518 | [队列中可以看到的人数 - Number of Visible People in a Queue](https://leetcode-cn.com/problems/number-of-visible-people-in-a-queue/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Visible-People-in-a-Queue.cpp) | Hard | 2022.3.25 |
+| 519 | [数组的度 - Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Degree-of-an-Array.cpp) | Easy | 2022.3.27 |
+| 520 | [数组序号转换 - Rank Transform of an Array](https://leetcode-cn.com/problems/rank-transform-of-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Rank-Transform-of-an-Array.cpp) | Easy | 2022.3.27 |
+| 521 | [破坏回文串 - Break a Palindrome](https://leetcode-cn.com/problems/break-a-palindrome/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Break-a-Palindrome.cpp) | Middle | 2022.3.27 |
+| 522 | [将矩阵按对角线排序 - Sort the Matrix Diagonally](https://leetcode-cn.com/problems/sort-the-matrix-diagonally/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-the-Matrix-Diagonally.cpp) | Middle | 2022.3.27 |
+| 523 | [找出两数组的不同 - Find the Difference of Two Arrays](https://leetcode-cn.com/problems/find-the-difference-of-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Difference-of-Two-Arrays.cpp) | Easy | 2022.3.27 |
+| 524 | [美化数组的最少删除数 - Minimum Deletions to Make Array Beautiful](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Deletions-to-Make-Array-Beautiful.cpp) | Middle | 2022.3.27 |
+| 525 | [从栈中取出 K 个硬币的最大面值和 - Maximum Value of K Coins From Piles](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Value-of-K-Coins-From-Piles.cpp) | Hard | 2022.3.27 |
 
 
 
