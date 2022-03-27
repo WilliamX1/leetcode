@@ -621,6 +621,11 @@
 | 523 | [找出两数组的不同 - Find the Difference of Two Arrays](https://leetcode-cn.com/problems/find-the-difference-of-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Difference-of-Two-Arrays.cpp) | Easy | 2022.3.27 |
 | 524 | [美化数组的最少删除数 - Minimum Deletions to Make Array Beautiful](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Deletions-to-Make-Array-Beautiful.cpp) | Middle | 2022.3.27 |
 | 525 | [从栈中取出 K 个硬币的最大面值和 - Maximum Value of K Coins From Piles](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Value-of-K-Coins-From-Piles.cpp) | Hard | 2022.3.27 |
+| 526 | [用队列实现栈 - Implement Stack using Queues](https://leetcode-cn.com/problems/Implement-Stack-using-Queues/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Implement-Stack-using-Queues.cpp) | Easy | 2022.3.27 |
+| 526 | [移动零 - Move Zeroes](https://leetcode-cn.com/problems/Move-Zeroes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Move-Zeroes.cpp) | Easy | 2022.3.27 |
+| 527 | [播放列表的数量 - Number of Music Playlists](https://leetcode-cn.com/problems/Number-of-Music-Playlists/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Music-Playlists.cpp) | Hard | 2022.3.27 |
+| 528 | [仅仅反转字母 - Reverse Only Letters](https://leetcode-cn.com/problems/Reverse-Only-Letters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-Only-Letters.cpp) | Easy | 2022.3.27 |
+| 529 | [完全二叉树插入器 - Complete Binary Tree Inserter](https://leetcode-cn.com/problems/Complete-Binary-Tree-Inserter/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Complete-Binary-Tree-Inserter.cpp) | Middle | 2022.3.27 |
 
 
 
