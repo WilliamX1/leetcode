@@ -626,6 +626,12 @@
 | 527 | [播放列表的数量 - Number of Music Playlists](https://leetcode-cn.com/problems/Number-of-Music-Playlists/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Music-Playlists.cpp) | Hard | 2022.3.27 |
 | 528 | [仅仅反转字母 - Reverse Only Letters](https://leetcode-cn.com/problems/Reverse-Only-Letters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-Only-Letters.cpp) | Easy | 2022.3.27 |
 | 529 | [完全二叉树插入器 - Complete Binary Tree Inserter](https://leetcode-cn.com/problems/Complete-Binary-Tree-Inserter/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Complete-Binary-Tree-Inserter.cpp) | Middle | 2022.3.27 |
+| 530 | [句子中的最多单词数 - Maximum Number of Words Found in Sentences](https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Words-Found-in-Sentences.cpp) | Easy | 2022.3.28 |
+| 531 | [从先序遍历还原二叉树 - Recover a Tree From Preorder Traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Recover-a-Tree-From-Preorder-Traversal.cpp) | Hard | 2022.3.28 |
+| 532 | [无法吃午餐的学生数量 - Number of Students Unable to Eat Lunch](https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Students-Unable-to-Eat-Lunch.cpp) | Easy | 2022.3.28 |
+| 533 | [平均等待时间 - Average Waiting Time](https://leetcode-cn.com/problems/average-waiting-time/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Average-Waiting-Time.cpp) | Middle | 2022.3.28 |
+| 534 | [修改后的最大二进制字符串 - Maximum Binary String After Change](https://leetcode-cn.com/problems/maximum-binary-string-after-change/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Binary-String-After-Change.cpp) | Middle | 2022.3.28 |
+| 535 | [交替位二进制数 - Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Number-with-Alternating-Bits.cpp) | Middle | 2022.3.28 |
 
 
 
