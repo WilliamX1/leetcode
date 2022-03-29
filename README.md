@@ -632,6 +632,11 @@
 | 533 | [平均等待时间 - Average Waiting Time](https://leetcode-cn.com/problems/average-waiting-time/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Average-Waiting-Time.cpp) | Middle | 2022.3.28 |
 | 534 | [修改后的最大二进制字符串 - Maximum Binary String After Change](https://leetcode-cn.com/problems/maximum-binary-string-after-change/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Binary-String-After-Change.cpp) | Middle | 2022.3.28 |
 | 535 | [交替位二进制数 - Binary Number with Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Number-with-Alternating-Bits.cpp) | Middle | 2022.3.28 |
+| 536 | [最小栈 - Min Stack](https://leetcode-cn.com/problems/min-stack/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Min-Stack.cpp) | Easy | 2022.3.29 |
+| 537 | [位1的个数 - Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-1-Bits.cpp) | Easy | 2022.3.29 |
+| 538 | [快乐数 - Happy Number](https://leetcode-cn.com/problems/happy-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Happy-Number.cpp) | Easy | 2022.3.29 |
+| 539 | [二叉树的锯齿形层序遍历 - Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Tree-Zigzag-Level-Order-Traversal.cpp) | Middle | 2022.3.29 |
+| 540 | [单词接龙 - Word Ladder](https://leetcode-cn.com/problems/word-ladder/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Word-Ladder.cpp) | Hard | 2022.3.29 |
 
 
 
