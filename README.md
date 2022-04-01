@@ -653,7 +653,10 @@
 | 554 | [有效的字母异位词 - Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Valid-Anagram.cpp) | Easy | 2022.4.1 |
 | 555 | [有序数组的平方 - Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Squares-of-a-Sorted-Array.cpp) | Easy | 2022.4.1 |
 | 556 | [两个数组的交集 - Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Intersection-of-Two-Arrays.cpp) | Easy | 2022.4.1 |
-
+| 557 | [有多少小于当前数字的数字 - How Many Numbers Are Smaller Than the Current Number](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.cpp) | Easy | 2022.4.2 |
+| 558 | [访问所有点的最小时间 - Minimum Time Visiting All Points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-XOR-Sum-of-Two-Arrays.cpp) | Easy | 2022.4.2 |
+| 559 | [长度为三且各字符不同的子字符串 - Substrings of Size Three with Distinct Characters](https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Substrings-of-Size-Three-with-Distinct-Characters.cpp) | Easy | 2022.4.2 |
+| 560 | [两个数组最小的异或值之和 - Minimum XOR Sum of Two Arrays](https://leetcode-cn.com/problems/minimum-xor-sum-of-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-XOR-Sum-of-Two-Arrays.cpp) | Hard | 2022.4.2 |
 
 
 
