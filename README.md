@@ -657,6 +657,10 @@
 | 558 | [访问所有点的最小时间 - Minimum Time Visiting All Points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-XOR-Sum-of-Two-Arrays.cpp) | Easy | 2022.4.2 |
 | 559 | [长度为三且各字符不同的子字符串 - Substrings of Size Three with Distinct Characters](https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Substrings-of-Size-Three-with-Distinct-Characters.cpp) | Easy | 2022.4.2 |
 | 560 | [两个数组最小的异或值之和 - Minimum XOR Sum of Two Arrays](https://leetcode-cn.com/problems/minimum-xor-sum-of-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-XOR-Sum-of-Two-Arrays.cpp) | Hard | 2022.4.2 |
+| 561 | [转换数字的最少位翻转次数 - Minimum Bit Flips to Convert Number](https://leetcode-cn.com/problems/minimum-bit-flips-to-convert-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Bit-Flips-to-Convert-Number.cpp) | Easy | 2022.4.3 |
+| 562 | [数组的三角和 - Find Triangular Sum of an Array](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Triangular-Sum-of-an-Array.cpp) | Middle | 2022.4.3 |
+| 563 | [选择建筑的方案数 - Number of Ways to Select Buildings](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Select-Buildings.cpp) | Middle | 2022.4.3 |
+| 564 | [寻找比目标字母大的最小字母 - Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Smallest-Letter-Greater-Than-Target.cpp) | Easy | 2022.4.3 |
 
 
 
