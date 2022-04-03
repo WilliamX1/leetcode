@@ -665,6 +665,12 @@
 | 566 | [找出输掉零场或一场比赛的玩家 - Find Players With Zero or One Losses](https://leetcode-cn.com/problems/find-players-with-zero-or-one-losses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Players-With-Zero-or-One-Losses.cpp) | Middle | 2022.4.3 |
 | 567 | [每个小孩最多能分到多少糖果 - Maximum Candies Allocated to K Children](https://leetcode-cn.com/problems/maximum-candies-allocated-to-k-children/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Candies-Allocated-to-K-Children.cpp) | Middle | 2022.4.3 |
 | 568 | [加密解密字符串 - Encrypt and Decrypt Strings](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Encrypt-and-Decrypt-Strings.cpp) | Hard | 2022.4.3 |
+| 569 | [整数的各位积和之差 - Subtract the Product and Sum of Digits of an Integer](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.cpp) | Easy | 2022.4.4 |
+| 570 | [按既定顺序创建目标数组 - Create Target Array in the Given Order](https://leetcode-cn.com/problems/create-target-array-in-the-given-order/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Create-Target-Array-in-the-Given-Order.cpp) | Easy | 2022.4.4 |
+| 571 | [盈利计划 - Profitable Schemes](https://leetcode-cn.com/problems/profitable-schemes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Profitable-Schemes.cpp) | Hard | 2022.4.4 |
+| 572 | [第 N 个神奇数字 - Nth Magical Number](https://leetcode-cn.com/problems/nth-magical-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Nth-Magical-Number.cpp) | Hard | 2022.4.4 |
+| 573 | [链表的中间结点 - Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Middle-of-the-Linked-List.cpp) | Easy | 2022.4.4 |
+| 574 | [石子游戏 - Stone Game](https://leetcode-cn.com/problems/stone-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Stone-Game.cpp) | Middle | 2022.4.4 |
 
 
 
