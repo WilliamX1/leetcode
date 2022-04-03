@@ -661,6 +661,10 @@
 | 562 | [数组的三角和 - Find Triangular Sum of an Array](https://leetcode-cn.com/problems/find-triangular-sum-of-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Triangular-Sum-of-an-Array.cpp) | Middle | 2022.4.3 |
 | 563 | [选择建筑的方案数 - Number of Ways to Select Buildings](https://leetcode-cn.com/problems/number-of-ways-to-select-buildings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Select-Buildings.cpp) | Middle | 2022.4.3 |
 | 564 | [寻找比目标字母大的最小字母 - Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Smallest-Letter-Greater-Than-Target.cpp) | Easy | 2022.4.3 |
+| 565 | [转化时间需要的最少操作数 - Minimum Number of Operations to Convert Time](https://leetcode-cn.com/problems/minimum-number-of-operations-to-convert-time/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Convert-Time.cpp) | Easy | 2022.4.3 |
+| 566 | [找出输掉零场或一场比赛的玩家 - Find Players With Zero or One Losses](https://leetcode-cn.com/problems/find-players-with-zero-or-one-losses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Players-With-Zero-or-One-Losses.cpp) | Middle | 2022.4.3 |
+| 567 | [每个小孩最多能分到多少糖果 - Maximum Candies Allocated to K Children](https://leetcode-cn.com/problems/maximum-candies-allocated-to-k-children/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Candies-Allocated-to-K-Children.cpp) | Middle | 2022.4.3 |
+| 568 | [加密解密字符串 - Encrypt and Decrypt Strings](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Encrypt-and-Decrypt-Strings.cpp) | Hard | 2022.4.3 |
 
 
 
