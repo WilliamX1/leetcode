@@ -671,6 +671,9 @@
 | 572 | [第 N 个神奇数字 - Nth Magical Number](https://leetcode-cn.com/problems/nth-magical-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Nth-Magical-Number.cpp) | Hard | 2022.4.4 |
 | 573 | [链表的中间结点 - Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Middle-of-the-Linked-List.cpp) | Easy | 2022.4.4 |
 | 574 | [石子游戏 - Stone Game](https://leetcode-cn.com/problems/stone-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Stone-Game.cpp) | Middle | 2022.4.4 |
-
-
+| 575 | [删除一个字符串中所有出现的给定子字符串 - Remove All Occurrences of a Substring](https://leetcode-cn.com/problems/remove-all-occurrences-of-a-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-All-Occurrences-of-a-Substring.cpp) | Middle | 2022.4.5 |
+| 576 | [最大子序列交替和 - Maximum Alternating Subsequence Sum](https://leetcode-cn.com/problems/maximum-alternating-subsequence-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Alternating-Subsequence-Sum.cpp) | Middle | 2022.4.5 |
+| 577 | [设计电影租借系统 - Design Movie Rental System](https://leetcode-cn.com/problems/design-movie-rental-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-Movie-Rental-System.cpp) | Hard | 2022.4.5 |
+| 578 | [翻转二叉树 - Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Invert-Binary-Tree.cpp) | Easy | 2022.4.5 |
+| 579 | [回文链表 - Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Palindrome-Linked-List.cpp) | Easy | 2022.4.5 |
 
