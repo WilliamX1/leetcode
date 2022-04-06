@@ -676,4 +676,8 @@
 | 577 | [设计电影租借系统 - Design Movie Rental System](https://leetcode-cn.com/problems/design-movie-rental-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-Movie-Rental-System.cpp) | Hard | 2022.4.5 |
 | 578 | [翻转二叉树 - Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Invert-Binary-Tree.cpp) | Easy | 2022.4.5 |
 | 579 | [回文链表 - Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Palindrome-Linked-List.cpp) | Easy | 2022.4.5 |
+| 580 | [仅执行一次字符串交换能否使两个字符串相等 - Check if One String Swap Can Make Strings Equal](https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-One-String-Swap-Can-Make-Strings-Equal.cpp) | Easy | 2022.4.6 |
+| 581 | [最大平均通过率 - Maximum Average Pass Ratio](https://leetcode-cn.com/problems/maximum-average-pass-ratio/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Average-Pass-Ratio.cpp) | Middle | 2022.4.6 |
+| 582 | [好子数组的最大分数 - Maximum Score of a Good Subarray](https://leetcode-cn.com/problems/maximum-score-of-a-good-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Score-of-a-Good-Subarray.cpp) | Hard | 2022.4.6 |
+| 583 | [二进制表示中质数个计算置位 - Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Prime-Number-of-Set-Bits-in-Binary-Representation.cpp) | Easy | 2022.4.6 |
 
