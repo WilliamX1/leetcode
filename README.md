@@ -698,4 +698,16 @@
 | 599 | [查询带键的排列 - Queries on a Permutation With Key](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Queries-on-a-Permutation-With-Key.cpp) | Middle | 2022.4.9 |
 | 600 | [HTML 实体解析器 - HTML Entity Parser](https://leetcode-cn.com/problems/html-entity-parser/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/HTML-Entity-Parser.cpp) | Middle | 2022.4.9 |
 | 601 | [给 N x 3 网格图涂色的方案数 - Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Paint-N-×-3-Grid.cpp) | Hard | 2022.4.9 |
+| 602 | [按奇偶性交换后的最大数字 - Largest Number After Digit Swaps by Parity](https://leetcode-cn.com/problems/largest-number-after-digit-swaps-by-parity/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Number-After-Digit-Swaps-by-Parity.cpp) | Easy | 2022.4.10 |
+| 603 | [向表达式添加括号后的最小结果 - Minimize Result by Adding Parentheses to Expression](https://leetcode-cn.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-Result-by-Adding-Parentheses-to-Expression.cpp) | Middle | 2022.4.10 |
+| 604 | [K 次增加后的最大乘积 - Maximum Product After K Increments](https://leetcode-cn.com/problems/maximum-product-after-k-increments/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Product-After-K-Increments.cpp) | Middle | 2022.4.10 |
+| 605 | [花园的最大总美丽值 - Maximum Total Beauty of the Gardens](https://leetcode-cn.com/problems/maximum-total-beauty-of-the-gardens/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Total-Beauty-of-the-Gardens.cpp) | Hard | 2022.4.10 |
+| 606 | [旅行终点站 - Destination City](https://leetcode-cn.com/problems/destination-city/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Destination-City.cpp) | Easy | 2022.4.10 |
+| 607 | [唯一摩尔斯密码词 - Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Unique-Morse-Code-Words.cpp) | Easy | 2022.4.10 |
+| 608 | [找到最接近 0 的数字 - Find Closest Number to Zero](https://leetcode-cn.com/problems/find-closest-number-to-zero/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Closest-Number-to-Zero.cpp) | Easy | 2022.4.16 |
+| 609 | [买钢笔和铅笔的方案数 - Number of Ways to Buy Pens and Pencils](https://leetcode-cn.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Buy-Pens-and-Pencils.cpp) | Middle | 2022.4.16 |
+| 610 | [设计一个 ATM 机器 - Design an ATM Machine](https://leetcode-cn.com/problems/design-an-atm-machine/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-an-ATM-Machine.cpp) | Middle | 2022.4.16 |
+| 611 | [节点序列的最大得分 - Maximum Score of a Node Sequence](https://leetcode-cn.com/problems/maximum-score-of-a-node-sequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Score-of-a-Node-Sequence.cpp) | Hard | 2022.4.16 |
+
+
 
