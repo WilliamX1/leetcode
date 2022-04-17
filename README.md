@@ -708,6 +708,10 @@
 | 609 | [买钢笔和铅笔的方案数 - Number of Ways to Buy Pens and Pencils](https://leetcode-cn.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Buy-Pens-and-Pencils.cpp) | Middle | 2022.4.16 |
 | 610 | [设计一个 ATM 机器 - Design an ATM Machine](https://leetcode-cn.com/problems/design-an-atm-machine/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-an-ATM-Machine.cpp) | Middle | 2022.4.16 |
 | 611 | [节点序列的最大得分 - Maximum Score of a Node Sequence](https://leetcode-cn.com/problems/maximum-score-of-a-node-sequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Score-of-a-Node-Sequence.cpp) | Hard | 2022.4.16 |
+| 612 | [计算字符串的数字和 - Calculate Digit Sum of a String](https://leetcode-cn.com/problems/calculate-digit-sum-of-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Calculate-Digit-Sum-of-a-String.cpp) | Easy | 2022.4.17 |
+| 613 | [完成所有任务需要的最少轮数 - Minimum Rounds to Complete All Tasks](https://leetcode-cn.com/problems/minimum-rounds-to-complete-all-tasks/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Rounds-to-Complete-All-Tasks.cpp) | Middle | 2022.4.17 |
+| 614 | [转角路径的乘积中最多能有几个尾随零 - Maximum Trailing Zeros in a Cornered Path](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Trailing-Zeros-in-a-Cornered-Path.cpp) | Middle | 2022.4.17 |
+| 615 | [相邻字符不同的最长路径 - Longest Path With Different Adjacent Characters](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Path-With-Different-Adjacent-Characters.cpp) | Hard | 2022.4.17 |
 
 
 
