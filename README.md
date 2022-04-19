@@ -712,6 +712,12 @@
 | 613 | [完成所有任务需要的最少轮数 - Minimum Rounds to Complete All Tasks](https://leetcode-cn.com/problems/minimum-rounds-to-complete-all-tasks/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Rounds-to-Complete-All-Tasks.cpp) | Middle | 2022.4.17 |
 | 614 | [转角路径的乘积中最多能有几个尾随零 - Maximum Trailing Zeros in a Cornered Path](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Trailing-Zeros-in-a-Cornered-Path.cpp) | Middle | 2022.4.17 |
 | 615 | [相邻字符不同的最长路径 - Longest Path With Different Adjacent Characters](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Path-With-Different-Adjacent-Characters.cpp) | Hard | 2022.4.17 |
+| 616 | [重新格式化电话号码 - Reformat Phone Number](https://leetcode-cn.com/problems/reformat-phone-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reformat-Phone-Number.cpp) | Easy | 2022.4.19 |
+| 617 | [删除子数组的最大得分 - Maximum Erasure Value](https://leetcode-cn.com/problems/maximum-erasure-value/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Erasure-Value.cpp) | Middle | 2022.4.19 |
+| 618 | [跳跃游戏 VI - Jump Game VI](https://leetcode-cn.com/problems/jump-game-vi/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Jump-Game-VI.cpp) | Middle | 2022.4.19 |
+| 619 | [检查边长度限制的路径是否存在 - Checking Existence of Edge Length Limited Paths](https://leetcode-cn.com/problems/checking-existence-of-edge-length-limited-paths/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Checking-Existence-of-Edge-Length-Limited-Paths.cpp) | Hard | 2022.4.19 |
+
+
 
 
 
