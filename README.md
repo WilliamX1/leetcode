@@ -716,6 +716,11 @@
 | 617 | [删除子数组的最大得分 - Maximum Erasure Value](https://leetcode-cn.com/problems/maximum-erasure-value/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Erasure-Value.cpp) | Middle | 2022.4.19 |
 | 618 | [跳跃游戏 VI - Jump Game VI](https://leetcode-cn.com/problems/jump-game-vi/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Jump-Game-VI.cpp) | Middle | 2022.4.19 |
 | 619 | [检查边长度限制的路径是否存在 - Checking Existence of Edge Length Limited Paths](https://leetcode-cn.com/problems/checking-existence-of-edge-length-limited-paths/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Checking-Existence-of-Edge-Length-Limited-Paths.cpp) | Hard | 2022.4.19 |
+| 620 | [多个数组求交集 - Intersection of Multiple Arrays](https://leetcode-cn.com/problems/intersection-of-multiple-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Intersection-of-Multiple-Arrays.cpp) | Easy | 2022.4.24 |
+| 621 | [统计圆内格点数目 - Count Lattice Points Inside a Circle](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Lattice-Points-Inside-a-Circle.cpp) | Middle | 2022.4.24 |
+| 622 | [统计包含每个点的矩形数目 - Count Number of Rectangles Containing Each Point](https://leetcode-cn.com/problems/count-number-of-rectangles-containing-each-point/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Rectangles-Containing-Each-Point.cpp) | Middle | 2022.4.24 |
+| 623 | [花期内花的数目 - Number of Flowers in Full Bloom](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Flowers-in-Full-Bloom.cpp) | Hard | 2022.4.24 |
+
 
 
 
