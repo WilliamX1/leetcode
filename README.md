@@ -724,6 +724,11 @@
 | 625 | [你可以获得的最大硬币数目 - Maximum Number of Coins You Can Get](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Coins-You-Can-Get.cpp) | Middle | 2022.4.28 |
 | 626 | [查找大小为 M 的最新分组 - Find Latest Group of Size M](https://leetcode.cn/problems/find-latest-group-of-size-m/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Latest-Group-of-Size-M.cpp) | Middle | 2022.4.28 |
 | 627 | [石子游戏 V - Stone Game V](https://leetcode.cn/problems/stone-game-v/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Stone-Game-V.cpp) | Hard | 2022.4.28 |
+| 628 | [重新格式化字符串 - Reformat The String](https://leetcode-cn.com/problems/reformat-the-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reformat-The-String.cpp) | Easy | 2022.4.29 |
+| 629 | [数青蛙 - Minimum Number of Frogs Croaking](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Frogs-Croaking.cpp) | Middle | 2022.4.29 |
+| 630 | [生成数组 - Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons.cpp) | Hard | 2022.4.29 |
+
+
 
 
 
