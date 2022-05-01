@@ -727,6 +727,14 @@
 | 628 | [重新格式化字符串 - Reformat The String](https://leetcode-cn.com/problems/reformat-the-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reformat-The-String.cpp) | Easy | 2022.4.29 |
 | 629 | [数青蛙 - Minimum Number of Frogs Croaking](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Frogs-Croaking.cpp) | Middle | 2022.4.29 |
 | 630 | [生成数组 - Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons.cpp) | Hard | 2022.4.29 |
+| 631 | [统计是给定字符串前缀的字符串数目 - Count Prefixes of a Given String](https://leetcode-cn.com/problems/count-prefixes-of-a-given-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Prefixes-of-a-Given-String.cpp) | Easy | 2022.4.30 |
+| 632 | [最小平均差 - Minimum Average Difference](https://leetcode-cn.com/problems/minimum-average-difference/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Average-Difference.cpp) | Middle | 2022.4.30 |
+| 633 | [统计网格图中没有被保卫的格子数 - Count Unguarded Cells in the Grid](https://leetcode-cn.com/problems/count-unguarded-cells-in-the-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Unguarded-Cells-in-the-Grid.cpp) | Middle | 2022.4.30 |
+| 634 | [逃离火灾 - Escape the Spreading Fire](https://leetcode-cn.com/problems/escape-the-spreading-fire/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Escape-the-Spreading-Fire.cpp) | Hard | 2022.4.30 |
+| 635 | [移除指定数字得到的最大结果 - Remove Digit From Number to Maximize Result](https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Digit-From-Number-to-Maximize-Result.cpp) | Easy | 2022.5.1 |
+| 636 | [必须拿起的最小连续卡牌数 - Minimum Consecutive Cards to Pick Up](https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Consecutive-Cards-to-Pick-Up.cpp) | Middle | 2022.5.1 |
+| 637 | [含最多 K 个可整除元素的子数组 - K Divisible Elements Subarrays](https://leetcode.cn/problems/k-divisible-elements-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/K-Divisible-Elements-Subarrays.cpp) | Middle | 2022.5.1 |
+| 638 | [字符串的总引力 - Total Appeal of A String](https://leetcode.cn/problems/total-appeal-of-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Total-Appeal-of-A-String.cpp) | Hard | 2022.5.1 |
 
 
 
