@@ -730,11 +730,14 @@
 | 631 | [统计是给定字符串前缀的字符串数目 - Count Prefixes of a Given String](https://leetcode-cn.com/problems/count-prefixes-of-a-given-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Prefixes-of-a-Given-String.cpp) | Easy | 2022.4.30 |
 | 632 | [最小平均差 - Minimum Average Difference](https://leetcode-cn.com/problems/minimum-average-difference/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Average-Difference.cpp) | Middle | 2022.4.30 |
 | 633 | [统计网格图中没有被保卫的格子数 - Count Unguarded Cells in the Grid](https://leetcode-cn.com/problems/count-unguarded-cells-in-the-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Unguarded-Cells-in-the-Grid.cpp) | Middle | 2022.4.30 |
-| 634 | [逃离火灾 - Escape the Spreading Fire](https://leetcode-cn.com/problems/escape-the-spreading-fire/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Escape-the-Spreading-Fire.cpp) | Hard | 2022.4.30 |
-| 635 | [移除指定数字得到的最大结果 - Remove Digit From Number to Maximize Result](https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Digit-From-Number-to-Maximize-Result.cpp) | Easy | 2022.5.1 |
-| 636 | [必须拿起的最小连续卡牌数 - Minimum Consecutive Cards to Pick Up](https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Consecutive-Cards-to-Pick-Up.cpp) | Middle | 2022.5.1 |
-| 637 | [含最多 K 个可整除元素的子数组 - K Divisible Elements Subarrays](https://leetcode.cn/problems/k-divisible-elements-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/K-Divisible-Elements-Subarrays.cpp) | Middle | 2022.5.1 |
-| 638 | [字符串的总引力 - Total Appeal of A String](https://leetcode.cn/problems/total-appeal-of-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Total-Appeal-of-A-String.cpp) | Hard | 2022.5.1 |
+| 634 | [移除指定数字得到的最大结果 - Remove Digit From Number to Maximize Result](https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Digit-From-Number-to-Maximize-Result.cpp) | Easy | 2022.5.1 |
+| 635 | [必须拿起的最小连续卡牌数 - Minimum Consecutive Cards to Pick Up](https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Consecutive-Cards-to-Pick-Up.cpp) | Middle | 2022.5.1 |
+| 636 | [含最多 K 个可整除元素的子数组 - K Divisible Elements Subarrays](https://leetcode.cn/problems/k-divisible-elements-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/K-Divisible-Elements-Subarrays.cpp) | Middle | 2022.5.1 |
+| 637 | [字符串的总引力 - Total Appeal of A String](https://leetcode.cn/problems/total-appeal-of-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Total-Appeal-of-A-String.cpp) | Hard | 2022.5.1 |
+| 638 | [有序数组中出现次数超过25%的元素 - Element Appearing More Than 25% In Sorted Array](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Element-Appearing-More-Than-25%-In-Sorted-Array.cpp) | Easy | 2022.5.2 |
+| 639 | [删除被覆盖区间 - Remove Covered Intervals](https://leetcode-cn.com/problems/remove-covered-intervals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Covered-Intervals.cpp) | Middle | 2022.5.2 |
+| 640 | [字母组合迭代器 - Iterator for Combination](https://leetcode-cn.com/problems/iterator-for-combination/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Iterator-for-Combination.cpp) | Middle | 2022.5.2 |
+| 641 | [下降路径最小和  II - Minimum Falling Path Sum II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Falling-Path-Sum-II.cpp) | Hard | 2022.5.2 |
 
 
 
