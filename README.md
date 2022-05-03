@@ -737,7 +737,10 @@
 | 638 | [有序数组中出现次数超过25%的元素 - Element Appearing More Than 25% In Sorted Array](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Element-Appearing-More-Than-25%-In-Sorted-Array.cpp) | Easy | 2022.5.2 |
 | 639 | [删除被覆盖区间 - Remove Covered Intervals](https://leetcode-cn.com/problems/remove-covered-intervals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Covered-Intervals.cpp) | Middle | 2022.5.2 |
 | 640 | [字母组合迭代器 - Iterator for Combination](https://leetcode-cn.com/problems/iterator-for-combination/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Iterator-for-Combination.cpp) | Middle | 2022.5.2 |
-| 641 | [下降路径最小和  II - Minimum Falling Path Sum II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Falling-Path-Sum-II.cpp) | Hard | 2022.5.2 |
+| 641 | [下降路径最小和 II - Minimum Falling Path Sum II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Falling-Path-Sum-II.cpp) | Hard | 2022.5.2 |
+| 642 | [从双倍数组中还原原数组 - Find Original Array From Doubled Array](https://leetcode-cn.com/problems/find-original-array-from-doubled-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Original-Array-From-Doubled-Array.cpp) | Middle | 2022.5.3 |
+| 643 | [出租车的最大盈利 - Maximum Earnings From Taxi](https://leetcode-cn.com/problems/maximum-earnings-from-taxi/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Earnings-From-Taxi.cpp) | Middle | 2022.5.3 |
+| 644 | [使数组连续的最少操作数 - Minimum Number of Operations to Make Array Continuous](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Make-Array-Continuous.cpp) | Hard | 2022.5.3 |
 
 
 
