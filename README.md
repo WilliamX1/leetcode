@@ -741,6 +741,9 @@
 | 642 | [从双倍数组中还原原数组 - Find Original Array From Doubled Array](https://leetcode-cn.com/problems/find-original-array-from-doubled-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Original-Array-From-Doubled-Array.cpp) | Middle | 2022.5.3 |
 | 643 | [出租车的最大盈利 - Maximum Earnings From Taxi](https://leetcode-cn.com/problems/maximum-earnings-from-taxi/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Earnings-From-Taxi.cpp) | Middle | 2022.5.3 |
 | 644 | [使数组连续的最少操作数 - Minimum Number of Operations to Make Array Continuous](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Make-Array-Continuous.cpp) | Hard | 2022.5.3 |
+| 645 | [改变一个整数能得到的最大差值 - Max Difference You Can Get From Changing an Integer](https://leetcode-cn.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Max-Difference-You-Can-Get-From-Changing-an-Integer.cpp) | Middle | 2022.5.5 |
+| 646 | [检查一个字符串是否可以打破另一个字符串 - Check If a String Can Break Another String](https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-If-a-String-Can-Break-Another-String.cpp) | Middle | 2022.5.5 |
+| 647 | [每个人戴不同帽子的方案数 - Number of Ways to Wear Different Hats to Each Other](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Wear-Different-Hats-to-Each-Other.cpp) | Hard | 2022.5.5 |
 
 
 
