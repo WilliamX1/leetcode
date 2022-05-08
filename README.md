@@ -752,9 +752,10 @@
 | 653 | [大小为 K 且平均值大于等于阈值的子数组数目 - Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold.cpp) | Middle | 2022.5.7 |
 | 654 | [时钟指针的夹角 - Angle Between Hands of a Clock](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Angle-Between-Hands-of-a-Clock.cpp) | Middle | 2022.5.7 |
 | 655 | [跳跃游戏 IV - Jump Game IV](https://leetcode-cn.com/problems/jump-game-iv/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Jump-Game-IV.cpp) | Hard | 2022.5.7 |
-
-
-
+| 656 | [字符串中最大的 3 位相同数字 - Largest 3-Same-Digit Number in String](https://leetcode-cn.com/problems/largest-3-same-digit-number-in-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-3-Same-Digit-Number-in-String.cpp) | Easy | 2022.5.8 |
+| 657 | [统计值等于子树平均值的节点数 - Count Nodes Equal to Average of Subtree](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Nodes-Equal-to-Average-of-Subtree.cpp) | Middle | 2022.5.8 |
+| 658 | [统计打字方案数 - Count Number of Texts](https://leetcode-cn.com/problems/count-number-of-texts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Texts.cpp) | Middle | 2022.5.8 |
+| 659 | [检查是否有合法括号字符串路径 - Check if There Is a Valid Parentheses String Path](https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-There-Is-a-Valid-Parentheses-String-Path.cpp) | Hard | 2022.5.8 |
 
 
 
