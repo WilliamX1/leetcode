@@ -756,7 +756,10 @@
 | 657 | [统计值等于子树平均值的节点数 - Count Nodes Equal to Average of Subtree](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Nodes-Equal-to-Average-of-Subtree.cpp) | Middle | 2022.5.8 |
 | 658 | [统计打字方案数 - Count Number of Texts](https://leetcode-cn.com/problems/count-number-of-texts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Texts.cpp) | Middle | 2022.5.8 |
 | 659 | [检查是否有合法括号字符串路径 - Check if There Is a Valid Parentheses String Path](https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-There-Is-a-Valid-Parentheses-String-Path.cpp) | Hard | 2022.5.8 |
-
+| 660 | [上升下降字符串 - Increasing Decreasing String](https://leetcode.cn/problems/increasing-decreasing-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Increasing-Decreasing-String.cpp) | Easy | 2022.5.10 |
+| 661 | [每个元音包含偶数次的最长子字符串 - Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts.cpp) | Middle | 2022.5.10 |
+| 662 | [二叉树中的最长交错路径 - Longest ZigZag Path in a Binary Tree](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-ZigZag-Path-in-a-Binary-Tree.cpp) | Middle | 2022.5.10 |
+| 663 | [二叉搜索子树的最大键值和 - Maximum Sum BST in Binary Tree](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-BST-in-Binary-Tree.cpp) | Hard | 2022.5.10 |
 
 
 
