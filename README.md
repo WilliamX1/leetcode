@@ -760,6 +760,9 @@
 | 661 | [每个元音包含偶数次的最长子字符串 - Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Longest-Substring-Containing-Vowels-in-Even-Counts.cpp) | Middle | 2022.5.10 |
 | 662 | [二叉树中的最长交错路径 - Longest ZigZag Path in a Binary Tree](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-ZigZag-Path-in-a-Binary-Tree.cpp) | Middle | 2022.5.10 |
 | 663 | [二叉搜索子树的最大键值和 - Maximum Sum BST in Binary Tree](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-BST-in-Binary-Tree.cpp) | Hard | 2022.5.10 |
+| 664 | [整理字符串 - Make The String Great](https://leetcode.cn/problems/make-the-string-great/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Make-The-String-Great.cpp) | Easy | 2022.5.10 |
+| 665 | [找出第 N 个二进制字符串中的第 K 位 - Find Kth Bit in Nth Binary String](https://leetcode.cn/problems/find-kth-bit-in-nth-binary-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Kth-Bit-in-Nth-Binary-String.cpp) | Middle | 2022.5.10 |
+| 666 | [和为目标值且不重叠的非空子数组的最大数目 - Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.cn/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Non-Overlapping-Subarrays-With-Sum-Equals-Target.cpp) | Middle | 2022.5.10 |
 
 
 
