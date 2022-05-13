@@ -763,6 +763,11 @@
 | 664 | [整理字符串 - Make The String Great](https://leetcode.cn/problems/make-the-string-great/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Make-The-String-Great.cpp) | Easy | 2022.5.10 |
 | 665 | [找出第 N 个二进制字符串中的第 K 位 - Find Kth Bit in Nth Binary String](https://leetcode.cn/problems/find-kth-bit-in-nth-binary-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Kth-Bit-in-Nth-Binary-String.cpp) | Middle | 2022.5.10 |
 | 666 | [和为目标值且不重叠的非空子数组的最大数目 - Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.cn/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Non-Overlapping-Subarrays-With-Sum-Equals-Target.cpp) | Middle | 2022.5.10 |
+| 667 | [反转两次的数字 - A Number After a Double Reversal](https://leetcode.cn/problems/a-number-after-a-double-reversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/A-Number-After-a-Double-Reversal.cpp) | Easy | 2022.5.12 |
+| 668 | [执行所有后缀指令 - Execution of All Suffix Instructions Staying in a Grid](https://leetcode.cn/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Execution-of-All-Suffix-Instructions-Staying-in-a-Grid.cpp) | Middle | 2022.5.12 |
+| 669 | [相同元素的间隔之和 - Intervals Between Identical Elements](https://leetcode.cn/problems/intervals-between-identical-elements/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Intervals-Between-Identical-Elements.cpp) | Middle | 2022.5.12 |
+| 670 | [还原原数组 - Recover the Original Array](https://leetcode.cn/problems/recover-the-original-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Recover-the-Original-Array.cpp) | Hard | 2022.5.12 |
+
 
 
 
