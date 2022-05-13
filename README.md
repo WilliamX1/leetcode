@@ -771,6 +771,11 @@
 | 672 | [查找和替换模式 - Find and Replace Pattern](https://leetcode.cn/problems/find-and-replace-pattern/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-and-Replace-Pattern.cpp) | Middle | 2022.5.13 |
 | 673 | [根据前序和后序遍历构造二叉树 - Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal.cpp) | Middle | 2022.5.13 |
 | 674 | [子序列宽度之和 - Sum of Subsequence Widths](https://leetcode.cn/problems/sum-of-subsequence-widths/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Subsequence-Widths.cpp) | Hard | 2022.5.13 |
+| 675 | [删除无效的括号 - Remove Invalid Parentheses](https://leetcode.cn/problems/remove-invalid-parentheses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Invalid-Parentheses.cpp) | Hard | 2022.5.13 |
+| 676 | [岛屿数量 - Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Islands.cpp) | Middle | 2022.5.13 |
+| 677 | [课程表 - Course Schedule](https://leetcode.cn/problems/course-schedule/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Course-Schedule.cpp) | Middle | 2022.5.13 |
+| 678 | [最大正方形 - Maximal Square](https://leetcode.cn/problems/maximal-square/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximal-Square.cpp) | Middle | 2022.5.13 |
+| 679 | [寻找重复数 - Find the Duplicate Number](https://leetcode.cn/problems/find-the-duplicate-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Duplicate-Number.cpp) | Middle | 2022.5.13 |
 
 
 
