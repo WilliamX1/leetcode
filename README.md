@@ -776,7 +776,10 @@
 | 677 | [课程表 - Course Schedule](https://leetcode.cn/problems/course-schedule/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Course-Schedule.cpp) | Middle | 2022.5.13 |
 | 678 | [最大正方形 - Maximal Square](https://leetcode.cn/problems/maximal-square/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximal-Square.cpp) | Middle | 2022.5.13 |
 | 679 | [寻找重复数 - Find the Duplicate Number](https://leetcode.cn/problems/find-the-duplicate-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Duplicate-Number.cpp) | Middle | 2022.5.13 |
-
+| 680 | [找到一个数字的 K 美丽值 - Find the K-Beauty of a Number](https://leetcode.cn/problems/find-the-k-beauty-of-a-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-K-Beauty-of-a-Number.cpp) | Easy | 2022.5.14 |
+| 681 | [分割数组的方案数 - Number of Ways to Split Array](https://leetcode.cn/problems/number-of-ways-to-split-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Split-Array.cpp) | Middle | 2022.5.14 |
+| 682 | [毯子覆盖的最多白色砖块数 - Maximum White Tiles Covered by a Carpet](https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-White-Tiles-Covered-by-a-Carpet.cpp) | Middle | 2022.5.14 |
+| 683 | [最大波动的子字符串 - Substring With Largest Variance](https://leetcode.cn/problems/substring-with-largest-variance/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Substring-With-Largest-Variance.cpp) | Hard | 2022.5.14 |
 
 
 
