@@ -780,6 +780,10 @@
 | 681 | [分割数组的方案数 - Number of Ways to Split Array](https://leetcode.cn/problems/number-of-ways-to-split-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Split-Array.cpp) | Middle | 2022.5.14 |
 | 682 | [毯子覆盖的最多白色砖块数 - Maximum White Tiles Covered by a Carpet](https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-White-Tiles-Covered-by-a-Carpet.cpp) | Middle | 2022.5.14 |
 | 683 | [最大波动的子字符串 - Substring With Largest Variance](https://leetcode.cn/problems/substring-with-largest-variance/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Substring-With-Largest-Variance.cpp) | Hard | 2022.5.14 |
+| 684 | [移除字母异位词后的结果数组 - Find Resultant Array After Removing Anagrams](https://leetcode.cn/problems/find-resultant-array-after-removing-anagrams/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Resultant-Array-After-Removing-Anagrams.cpp) | Easy | 2022.5.15 |
+| 685 | [不含特殊楼层的最大连续楼层数 - Maximum Consecutive Floors Without Special Floors](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Consecutive-Floors-Without-Special-Floors.cpp) | Middle | 2022.5.15 |
+| 686 | [按位与结果大于零的最长组合 - Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Combination-With-Bitwise-AND-Greater-Than-Zero.cpp) | Middle | 2022.5.15 |
+| 687 | [统计区间中的整数数目 - Count Integers in Intervals](https://leetcode.cn/contest/weekly-contest-293/problems/count-integers-in-intervals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Integers-in-Intervals.cpp) | Hard | 2022.5.15 |
 
 
 
