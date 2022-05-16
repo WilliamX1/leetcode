@@ -784,6 +784,9 @@
 | 685 | [不含特殊楼层的最大连续楼层数 - Maximum Consecutive Floors Without Special Floors](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Consecutive-Floors-Without-Special-Floors.cpp) | Middle | 2022.5.15 |
 | 686 | [按位与结果大于零的最长组合 - Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Combination-With-Bitwise-AND-Greater-Than-Zero.cpp) | Middle | 2022.5.15 |
 | 687 | [统计区间中的整数数目 - Count Integers in Intervals](https://leetcode.cn/contest/weekly-contest-293/problems/count-integers-in-intervals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Integers-in-Intervals.cpp) | Hard | 2022.5.15 |
+| 688 | [公交站间的距离 - Distance Between Bus Stops](https://leetcode.cn/problems/distance-between-bus-stops/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distance-Between-Bus-Stops.cpp) | Easy | 2022.5.17 |
+| 689 | [一周中的第几天 - Day of the Week](https://leetcode.cn/problems/day-of-the-week/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Day-of-the-Week.cpp) | Easy | 2022.5.17 |
+| 690 | [删除一次得到子数组最大和 - Maximum Subarray Sum with One Deletion](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Subarray-Sum-with-One-Deletion.cpp) | Middle | 2022.5.17 |
 
 
 
