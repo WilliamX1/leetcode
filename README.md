@@ -787,6 +787,9 @@
 | 688 | [公交站间的距离 - Distance Between Bus Stops](https://leetcode.cn/problems/distance-between-bus-stops/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distance-Between-Bus-Stops.cpp) | Easy | 2022.5.17 |
 | 689 | [一周中的第几天 - Day of the Week](https://leetcode.cn/problems/day-of-the-week/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Day-of-the-Week.cpp) | Easy | 2022.5.17 |
 | 690 | [删除一次得到子数组最大和 - Maximum Subarray Sum with One Deletion](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Subarray-Sum-with-One-Deletion.cpp) | Middle | 2022.5.17 |
+| 691 | [重新排列字符串 - Shuffle String](https://leetcode.cn/problems/shuffle-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shuffle-String.cpp) | Easy | 2022.5.18 |
+| 692 | [最少的后缀翻转次数 - Minimum Suffix Flips](https://leetcode.cn/problems/minimum-suffix-flips/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Suffix-Flips.cpp) | Middle | 2022.5.18 |
+| 693 | [好叶子节点对的数量 - Number of Good Leaf Nodes Pairs](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Good-Leaf-Nodes-Pairs.cpp) | Middle | 2022.5.18 |
 
 
 
