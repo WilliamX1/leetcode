@@ -790,6 +790,10 @@
 | 691 | [重新排列字符串 - Shuffle String](https://leetcode.cn/problems/shuffle-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shuffle-String.cpp) | Easy | 2022.5.18 |
 | 692 | [最少的后缀翻转次数 - Minimum Suffix Flips](https://leetcode.cn/problems/minimum-suffix-flips/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Suffix-Flips.cpp) | Middle | 2022.5.18 |
 | 693 | [好叶子节点对的数量 - Number of Good Leaf Nodes Pairs](https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Good-Leaf-Nodes-Pairs.cpp) | Middle | 2022.5.18 |
+| 694 | [最长的美好子字符串 - Longest Nice Substring](https://leetcode.cn/problems/longest-nice-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Nice-Substring.cpp) | Easy | 2022.5.18 |
+| 695 | [通过连接另一个数组的子数组得到一个数组 - Form Array by Concatenating Subarrays of Another Array](https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Form-Array-by-Concatenating-Subarrays-of-Another-Array.cpp) | Middle | 2022.5.18 |
+| 696 | [地图中的最高点 - Map of Highest Peak](https://leetcode.cn/problems/map-of-highest-peak/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Map-of-Highest-Peak.cpp) | Middle | 2022.5.18 |
+| 697 | [互质树 - Tree of Coprimes](https://leetcode.cn/problems/tree-of-coprimes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Tree-of-Coprimes.cpp) | Hard | 2022.5.18 |
 
 
 
