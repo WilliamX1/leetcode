@@ -794,6 +794,11 @@
 | 695 | [通过连接另一个数组的子数组得到一个数组 - Form Array by Concatenating Subarrays of Another Array](https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Form-Array-by-Concatenating-Subarrays-of-Another-Array.cpp) | Middle | 2022.5.18 |
 | 696 | [地图中的最高点 - Map of Highest Peak](https://leetcode.cn/problems/map-of-highest-peak/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Map-of-Highest-Peak.cpp) | Middle | 2022.5.18 |
 | 697 | [互质树 - Tree of Coprimes](https://leetcode.cn/problems/tree-of-coprimes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Tree-of-Coprimes.cpp) | Hard | 2022.5.18 |
+| 698 | [使每位学生都有座位的最少移动次数 - Minimum Number of Moves to Seat Everyone](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Moves-to-Seat-Everyone.cpp) | Easy | 2022.5.19 |
+| 699 | [网络空闲的时刻 - The Time When the Network Becomes Idle](https://leetcode.cn/problems/the-time-when-the-network-becomes-idle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-Time-When-the-Network-Becomes-Idle.cpp) | Middle | 2022.5.19 |
+| 700 | [两个有序数组的第 K 小乘积 - Kth Smallest Product of Two Sorted Arrays](https://leetcode.cn/problems/kth-smallest-product-of-two-sorted-arrays/comments/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Kth-Smallest-Product-of-Two-Sorted-Arrays.cpp) | Hard | 2022.5.19 |
+
+
 
 
 
