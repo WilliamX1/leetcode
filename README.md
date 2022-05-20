@@ -797,6 +797,10 @@
 | 698 | [使每位学生都有座位的最少移动次数 - Minimum Number of Moves to Seat Everyone](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Moves-to-Seat-Everyone.cpp) | Easy | 2022.5.19 |
 | 699 | [网络空闲的时刻 - The Time When the Network Becomes Idle](https://leetcode.cn/problems/the-time-when-the-network-becomes-idle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-Time-When-the-Network-Becomes-Idle.cpp) | Middle | 2022.5.19 |
 | 700 | [两个有序数组的第 K 小乘积 - Kth Smallest Product of Two Sorted Arrays](https://leetcode.cn/problems/kth-smallest-product-of-two-sorted-arrays/comments/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Kth-Smallest-Product-of-Two-Sorted-Arrays.cpp) | Hard | 2022.5.19 |
+| 701 | [前 K 个高频元素 - Top K Frequent Elements](https://leetcode.cn/problems/top-k-frequent-elements/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Top-K-Frequent-Elements.cpp) | Middle | 2022.5.20 |
+| 702 | [最长递增子序列 - Longest Increasing Subsequence](https://leetcode.cn/problems/longest-increasing-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Increasing-Subsequence.cpp) | Middle | 2022.5.20 |
+| 703 | [打家劫舍 III - House Robber III](https://leetcode.cn/problems/house-robber-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/House-Robber-III.cpp) | Middle | 2022.5.20 |
+| 704 | [零钱兑换 - Coin Change](https://leetcode.cn/problems/coin-change/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Coin-Change.cpp) | Middle | 2022.5.20 |
 
 
 
