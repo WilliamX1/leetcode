@@ -801,6 +801,8 @@
 | 702 | [最长递增子序列 - Longest Increasing Subsequence](https://leetcode.cn/problems/longest-increasing-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Increasing-Subsequence.cpp) | Middle | 2022.5.20 |
 | 703 | [打家劫舍 III - House Robber III](https://leetcode.cn/problems/house-robber-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/House-Robber-III.cpp) | Middle | 2022.5.20 |
 | 704 | [零钱兑换 - Coin Change](https://leetcode.cn/problems/coin-change/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Coin-Change.cpp) | Middle | 2022.5.20 |
+| 705 | [使用特殊打字机键入单词的最少时间 - Minimum Time to Type Word Using Special Typewriter](https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Time-to-Type-Word-Using-Special-Typewriter.cpp) | Easy | 2022.5.21 |
+| 706 | [最大方阵和 - Maximum Matrix Sum](https://leetcode.cn/problems/maximum-matrix-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Matrix-Sum.cpp) | Middle | 2022.5.21 |
 
 
 
