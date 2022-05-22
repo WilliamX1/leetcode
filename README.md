@@ -803,6 +803,10 @@
 | 704 | [零钱兑换 - Coin Change](https://leetcode.cn/problems/coin-change/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Coin-Change.cpp) | Middle | 2022.5.20 |
 | 705 | [使用特殊打字机键入单词的最少时间 - Minimum Time to Type Word Using Special Typewriter](https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Time-to-Type-Word-Using-Special-Typewriter.cpp) | Easy | 2022.5.21 |
 | 706 | [最大方阵和 - Maximum Matrix Sum](https://leetcode.cn/problems/maximum-matrix-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Matrix-Sum.cpp) | Middle | 2022.5.21 |
+| 707 | [字母在字符串中的百分比 - Percentage of Letter in String](https://leetcode.cn/problems/percentage-of-letter-in-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Percentage-of-Letter-in-String.cpp) | Easy | 2022.5.22 |
+| 708 | [字母在字符串中的百分比 - Percentage of Letter in String](https://leetcode.cn/problems/percentage-of-letter-in-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Percentage-of-Letter-in-String.cpp) | Easy | 2022.5.22 |
+| 709 | [装满石头的背包的最大数量 - Maximum Bags With Full Capacity of Rocks](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Bags-With-Full-Capacity-of-Rocks.cpp) | Middle | 2022.5.22 |
+| 710 | [表示一个折线图的最少线段数 - Minimum Lines to Represent a Line Chart](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Lines-to-Represent-a-Line-Chart.cpp) | Middle | 2022.5.22 |
 
 
 
