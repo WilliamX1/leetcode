@@ -807,6 +807,12 @@
 | 708 | [字母在字符串中的百分比 - Percentage of Letter in String](https://leetcode.cn/problems/percentage-of-letter-in-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Percentage-of-Letter-in-String.cpp) | Easy | 2022.5.22 |
 | 709 | [装满石头的背包的最大数量 - Maximum Bags With Full Capacity of Rocks](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Bags-With-Full-Capacity-of-Rocks.cpp) | Middle | 2022.5.22 |
 | 710 | [表示一个折线图的最少线段数 - Minimum Lines to Represent a Line Chart](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Lines-to-Represent-a-Line-Chart.cpp) | Middle | 2022.5.22 |
+| 711 | [逐步求和得到正数的最小值 - Minimum Value to Get Positive Step by Step Sum](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Value-to-Get-Positive-Step-by-Step-Sum.cpp) | Easy | 2022.5.25 |
+| 712 | [和为 K 的最少斐波那契数字数目 - Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.cpp) | Middle | 2022.5.25 |
+| 713 | [长度为 n 的开心字符串中字典序第 k 小的字符串 - The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.cn/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.cpp) | Middle | 2022.5.25 |
+| 714 | [恢复数组 - Restore The Array](https://leetcode.cn/contest/biweekly-contest-24/problems/restore-the-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Restore-The-Array.cpp) | Hard | 2022.5.25 |
+
+
 
 
 
