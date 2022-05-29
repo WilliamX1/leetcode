@@ -811,6 +811,14 @@
 | 712 | [和为 K 的最少斐波那契数字数目 - Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.cpp) | Middle | 2022.5.25 |
 | 713 | [长度为 n 的开心字符串中字典序第 k 小的字符串 - The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.cn/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n.cpp) | Middle | 2022.5.25 |
 | 714 | [恢复数组 - Restore The Array](https://leetcode.cn/contest/biweekly-contest-24/problems/restore-the-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Restore-The-Array.cpp) | Hard | 2022.5.25 |
+| 715 | [判断一个数的数字计数是否等于数位的值 - Check if Number Has Equal Digit Count and Digit Value](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value.cpp) | Easy | 2022.5.28 |
+| 716 | [最多单词数的发件人 - Sender With Largest Word Count](https://leetcode.cn/contest/biweekly-contest-79/problems/sender-with-largest-word-count/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sender-With-Largest-Word-Count.cpp) | Middle | 2022.5.28 |
+| 717 | [道路的最大总重要性 - Maximum Total Importance of Roads](https://leetcode.cn/contest/biweekly-contest-79/problems/maximum-total-importance-of-roads/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Total-Importance-of-Roads.cpp) | Middle | 2022.5.28 |
+| 717 | [重排字符形成目标字符串 - Rearrange Characters to Make Target String](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Rearrange-Characters-to-Make-Target-String.cpp) | Easy | 2022.5.29 |
+| 718 | [价格减免 - Apply Discount to Prices](https://leetcode.cn/problems/apply-discount-to-prices/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Apply-Discount-to-Prices.cpp) | Middle | 2022.5.29 |
+
+
+
 
 
 
