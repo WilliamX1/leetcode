@@ -816,6 +816,11 @@
 | 717 | [道路的最大总重要性 - Maximum Total Importance of Roads](https://leetcode.cn/contest/biweekly-contest-79/problems/maximum-total-importance-of-roads/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Total-Importance-of-Roads.cpp) | Middle | 2022.5.28 |
 | 717 | [重排字符形成目标字符串 - Rearrange Characters to Make Target String](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Rearrange-Characters-to-Make-Target-String.cpp) | Easy | 2022.5.29 |
 | 718 | [价格减免 - Apply Discount to Prices](https://leetcode.cn/problems/apply-discount-to-prices/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Apply-Discount-to-Prices.cpp) | Middle | 2022.5.29 |
+| 719 | [极大极小游戏 - Min Max Game](https://leetcode.cn/contest/problems/min-max-game/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Min-Max-Game.cpp) | Easy | 2022.6.5 |
+| 720 | [划分数组使最大差为 K - Partition Array Such That Maximum Difference Is K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-Array-Such-That-Maximum-Difference-Is-K.cpp) | Middle | 2022.6.5 |
+| 721 | [替换数组中的元素 - Replace Elements in an Array](https://leetcode.cn/problems/replace-elements-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-Elements-in-an-Array.cpp) | Middle | 2022.6.5 |
+| 722 | [设计一个文本编辑器 - Design a Text Editor](https://leetcode.cn/problems/design-a-text-editor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-a-Text-Editor.cpp) | Hard | 2022.6.5 |
+
 
 
 
