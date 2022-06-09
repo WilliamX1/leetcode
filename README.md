@@ -820,6 +820,10 @@
 | 720 | [划分数组使最大差为 K - Partition Array Such That Maximum Difference Is K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-Array-Such-That-Maximum-Difference-Is-K.cpp) | Middle | 2022.6.5 |
 | 721 | [替换数组中的元素 - Replace Elements in an Array](https://leetcode.cn/problems/replace-elements-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-Elements-in-an-Array.cpp) | Middle | 2022.6.5 |
 | 722 | [设计一个文本编辑器 - Design a Text Editor](https://leetcode.cn/problems/design-a-text-editor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-a-Text-Editor.cpp) | Hard | 2022.6.5 |
+| 723 | [强整数 - Powerful Integers](https://leetcode.cn/problems/powerful-integers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Powerful-Integers.cpp) | Middle | 2022.6.9 |
+| 724 | [翻转二叉树以匹配先序遍历 - Flip Binary Tree To Match Preorder Traversal](https://leetcode.cn/problems/flip-binary-tree-to-match-preorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Flip-Binary-Tree-To-Match-Preorder-Traversal.cpp) | Middle | 2022.6.9 |
+| 725 | [非重叠矩形中的随机点 - Random Point in Non-overlapping Rectangles](https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Random-Point-in-Non-overlapping-Rectangles.cpp) | Middle | 2022.6.9 |
+| 726 | [较大分组的位置 - Positions of Large Groups](https://leetcode.cn/problems/positions-of-large-groups/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Positions-of-Large-Groups.cpp) | Easy | 2022.6.9 |
 
 
 
