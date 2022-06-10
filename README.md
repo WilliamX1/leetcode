@@ -824,6 +824,10 @@
 | 724 | [翻转二叉树以匹配先序遍历 - Flip Binary Tree To Match Preorder Traversal](https://leetcode.cn/problems/flip-binary-tree-to-match-preorder-traversal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Flip-Binary-Tree-To-Match-Preorder-Traversal.cpp) | Middle | 2022.6.9 |
 | 725 | [非重叠矩形中的随机点 - Random Point in Non-overlapping Rectangles](https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Random-Point-in-Non-overlapping-Rectangles.cpp) | Middle | 2022.6.9 |
 | 726 | [较大分组的位置 - Positions of Large Groups](https://leetcode.cn/problems/positions-of-large-groups/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Positions-of-Large-Groups.cpp) | Easy | 2022.6.9 |
+| 727 | [找到最近的有相同 X 或 Y 坐标的点 - Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.cpp) | Easy | 2022.6.10 |
+| 728 | [判断一个数字是否可以表示成三的幂的和 - Check if Number is a Sum of Powers of Three](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Number-is-a-Sum-of-Powers-of-Three.cpp) | Middle | 2022.6.10 |
+| 729 | [所有子字符串美丽值之和 - Sum of Beauty of All Substrings](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Beauty-of-All-Substrings.cpp) | Middle | 2022.6.10 |
+| 730 | [统计点对的数目 - Count Pairs Of Nodes](https://leetcode.cn/problems/count-pairs-of-nodes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Pairs-Of-Nodes.cpp) | Hard | 2022.6.10 |
 
 
 
