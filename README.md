@@ -828,6 +828,10 @@
 | 728 | [判断一个数字是否可以表示成三的幂的和 - Check if Number is a Sum of Powers of Three](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Number-is-a-Sum-of-Powers-of-Three.cpp) | Middle | 2022.6.10 |
 | 729 | [所有子字符串美丽值之和 - Sum of Beauty of All Substrings](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Beauty-of-All-Substrings.cpp) | Middle | 2022.6.10 |
 | 730 | [统计点对的数目 - Count Pairs Of Nodes](https://leetcode.cn/problems/count-pairs-of-nodes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Pairs-Of-Nodes.cpp) | Hard | 2022.6.10 |
+| 731 | [强密码检验器 II - Strong Password Checker II](https://leetcode.cn/problems/strong-password-checker-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Strong-Password-Checker-II.cpp) | Easy | 2022.6.11 |
+| 732 | [咒语和药水的成功对数 - Successful Pairs of Spells and Potions](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Successful-Pairs-of-Spells-and-Potions.cpp) | Middle | 2022.6.11 |
+| 733 | [替换字符后匹配 - Match Substring After Replacement](https://leetcode.cn/problems/match-substring-after-replacement/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Match-Substring-After-Replacement.cpp) | Hard | 2022.6.11 |
+| 734 | [统计得分小于 K 的子数组数目 - Count Subarrays With Score Less Than K](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Subarrays-With-Score-Less-Than-K.cpp) | Hard | 2022.6.11 |
 
 
 
