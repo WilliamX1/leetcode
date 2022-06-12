@@ -832,6 +832,14 @@
 | 732 | [咒语和药水的成功对数 - Successful Pairs of Spells and Potions](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Successful-Pairs-of-Spells-and-Potions.cpp) | Middle | 2022.6.11 |
 | 733 | [替换字符后匹配 - Match Substring After Replacement](https://leetcode.cn/problems/match-substring-after-replacement/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Match-Substring-After-Replacement.cpp) | Hard | 2022.6.11 |
 | 734 | [统计得分小于 K 的子数组数目 - Count Subarrays With Score Less Than K](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Subarrays-With-Score-Less-Than-K.cpp) | Hard | 2022.6.11 |
+| 735 | [计算应缴税款总额 - Calculate Amount Paid in Taxes](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Calculate-Amount-Paid-in-Taxes.cpp) | Easy | 2022.6.12 |
+| 736 | [网格中的最小路径代价 - Minimum Path Cost in a Grid](https://leetcode.cn/problems/minimum-path-cost-in-a-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Path-Cost-in-a-Grid.cpp) | Middle | 2022.6.12 |
+| 737 | [公平分发饼干 - Fair Distribution of Cookies](https://leetcode.cn/problems/fair-distribution-of-cookies/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Fair-Distribution-of-Cookies.cpp) | Middle | 2022.6.12 |
+| 738 | [公司命名 - Naming a Company](https://leetcode.cn/problems/naming-a-company/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Naming-a-Company.cpp) | Hard | 2022.6.12 |
+
+
+
+
 
 
 
