@@ -1,22 +1,3 @@
-class Solution {
-public:
-    int numOfStrings(vector<string>& patterns, string word) {
-        int ans = 0, _size = word.size();
-        for (auto str : patterns)
-        {
-            int len = str.length();
-            if (len <= _size) {
-                int start = 0;
-                while (start <= _size - len)
-                {
-                    while (start < _size && word[start] != str[0]) start++;
-                    if (word.substr(start, len) == str) {
-                        ans++;
-                        break;
-                    } else start++;
-                };
-            };
-        };
-        return ans;
-    }
-};
+class Solution:
+    def minNonZeroProduct(self, p: int) -> int:
+        return (2 ** p - 1) * pow(2 ** p - 2, 2 ** (p - 1) - 1, 1000000000 + 7) % (1000000000 + 7);
