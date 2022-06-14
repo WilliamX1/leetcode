@@ -1,8 +1,11 @@
-class Solution {
-public:
-    int jump(vector<int>& nums) {
+class Solution
+{
+  public:
+    int jump(vector<int> &nums)
+    {
         int len = nums.size();
-        vector<int> dp(len, len); dp[0] = 0;
+        vector<int> dp(len, len);
+        dp[0] = 0;
 
         for (int i = 0; i < len; i++)
         {

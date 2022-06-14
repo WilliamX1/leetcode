@@ -8,17 +8,22 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-public:
-    ListNode* middleNode(ListNode* head) {
-        if (head == nullptr) return head;
+class Solution
+{
+  public:
+    ListNode *middleNode(ListNode *head)
+    {
+        if (head == nullptr)
+            return head;
 
-        ListNode* last = head, *next = head->next;
+        ListNode *last = head, *next = head->next;
 
-        while (next) {
+        while (next)
+        {
             last = last->next;
             next = next->next;
-            if (next) next = next->next;
+            if (next)
+                next = next->next;
         };
 
         return last;

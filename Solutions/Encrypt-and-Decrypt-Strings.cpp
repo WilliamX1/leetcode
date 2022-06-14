@@ -1,26 +1,29 @@
+#include <cstring>
+#include <queue>
+#include <string>
 #include <unordered_map>
 #include <vector>
-#include <cstring>
-#include <string>
-#include <queue>
 
 using namespace std;
 
-class Encrypter {
-public:
+class Encrypter
+{
+  public:
     const int N = 100;
     unordered_map<char, string> key2value;
-    unordered_map<string, vector<char> > value2key;
+    unordered_map<string, vector<char>> value2key;
     // vector<unordered_map<string, bool>> dict;
     // vector<unordered_map<string, bool>> prefix;
     unordered_map<string, int> count;
 
-    Encrypter(vector<char>& keys, vector<string>& values, vector<string>& dictionary) {
+    Encrypter(vector<char> &keys, vector<string> &values, vector<string> &dictionary)
+    {
         // dict = vector<unordered_map<string, bool>>(N + 1);
         // prefix = vector<unordered_map<string, bool>>(N + 1);
 
         int n = keys.size();
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+        {
             key2value[keys[i]] = values[i];
             value2key[values[i]].push_back(keys[i]);
         };
@@ -33,18 +36,21 @@ public:
         //         prefix[len][tmp] = true;
         //     };
         // };
-        for (const string& d : dictionary) {
+        for (const string &d : dictionary)
+        {
             count[encrypt(d)]++;
         };
         return;
     };
-    
-    string encrypt(string word1) {
+
+    string encrypt(string word1)
+    {
         string ans(word1.size() * 2, ' ');
-        for (int i = 0; i < word1.size(); i++) {
+        for (int i = 0; i < word1.size(); i++)
+        {
             string tmp = key2value[word1[i]];
             ans[i << 1] = tmp[0];
-            ans[(i << 1) + 1] = tmp[1]; 
+            ans[(i << 1) + 1] = tmp[1];
         };
         return ans;
     };
@@ -72,8 +78,9 @@ public:
     //     node() {};
     //     node(string now, int index) : now(now), index(index) {};
     // };
-    
-    int decrypt(string word2) {
+
+    int decrypt(string word2)
+    {
         return count[word2];
         // string str = "";
         // return _decrypt(word2, word2.size(), 0, str);

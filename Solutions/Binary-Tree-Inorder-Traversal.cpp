@@ -9,11 +9,14 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
-    vector<int> inorderTraversal(TreeNode* root) {
+class Solution
+{
+  public:
+    vector<int> inorderTraversal(TreeNode *root)
+    {
         vector<int> v;
-        if (root) {
+        if (root)
+        {
             v = inorderTraversal(root->left);
             v.push_back(root->val);
 

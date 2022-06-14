@@ -1,18 +1,25 @@
-class Solution {
-public:
-    int sunXor(int x) {
+class Solution
+{
+  public:
+    int sunXor(int x)
+    {
         switch (x % 4)
         {
-        case 0: return x;
-        case 1: return 1;
-        case 2: return x + 1;
-        case 3: return 0;
+        case 0:
+            return x;
+        case 1:
+            return 1;
+        case 2:
+            return x + 1;
+        case 3:
+            return 0;
         default:
             break;
         }
         return 0;
     }
-    int xorOperation(int n, int start) {
+    int xorOperation(int n, int start)
+    {
         /*暴力计算*/
         // int ans = 0;
         // for (int i = 0; i < n; i++)

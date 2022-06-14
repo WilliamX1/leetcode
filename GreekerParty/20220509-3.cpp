@@ -5,32 +5,41 @@
 **************************************************************/
 /********* Begin **********/
 
-#include <iostream>
 #include <cstring>
+#include <iostream>
 
 using namespace std;
 
 int main()
 {
-    int n; cin >> n;
-    int* p = new int[n];
-    int* flags = new int[10 + 1];
+    int n;
+    cin >> n;
+    int *p = new int[n];
+    int *flags = new int[10 + 1];
     memset(flags, 0, sizeof(flags));
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         cin >> p[i];
         flags[p[i]]++;
     };
 
     int ans = 0;
-    for (int i = 1; i <= 10; i++) {
-        for (int j = 1; j <= 10; j++) {
-            for (int k = 1; k <= 10; k++) {
-                if ((i + j + k) % 10 != 0) continue;
-                if (flags[i]) {
+    for (int i = 1; i <= 10; i++)
+    {
+        for (int j = 1; j <= 10; j++)
+        {
+            for (int k = 1; k <= 10; k++)
+            {
+                if ((i + j + k) % 10 != 0)
+                    continue;
+                if (flags[i])
+                {
                     flags[i]--;
-                    if (flags[j]) {
+                    if (flags[j])
+                    {
                         flags[j]--;
-                        if (flags[k]) {
+                        if (flags[k])
+                        {
                             flags[k]--;
                             ans++;
 

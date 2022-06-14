@@ -8,11 +8,14 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-public:
-    bool isPalindrome(ListNode* head) {
+class Solution
+{
+  public:
+    bool isPalindrome(ListNode *head)
+    {
         vector<int> v;
-        while (head) {
+        while (head)
+        {
             v.push_back(head->val);
             head = head->next;
         };

@@ -2,31 +2,40 @@
 
 using namespace std;
 
-class Solution {
-public:
-    vector<int> findAnagrams(string s, string p) {
+class Solution
+{
+  public:
+    vector<int> findAnagrams(string s, string p)
+    {
         vector<int> dp(26, 0), ans;
         for (auto ch : p)
             dp[ch - 'a']++;
 
         int s_len = s.size(), p_len = p.size();
-        if (s_len >= p_len) {
+        if (s_len >= p_len)
+        {
             int i;
             for (i = 0; i < p_len; i++)
                 dp[s[i] - 'a']--;
-            do {
+            do
+            {
                 bool flag = true;
                 for (int j = 0; j < 26; j++)
-                    if (dp[j] != 0) {
+                    if (dp[j] != 0)
+                    {
                         flag = false;
                         break;
                     };
-                if (flag) ans.push_back(i - p_len);
-                if (i < s_len) {
+                if (flag)
+                    ans.push_back(i - p_len);
+                if (i < s_len)
+                {
                     dp[s[i] - 'a']--;
                     dp[s[i - p_len] - 'a']++;
                     i++;
-                } else break;
+                }
+                else
+                    break;
             } while (true);
         }
         return ans;

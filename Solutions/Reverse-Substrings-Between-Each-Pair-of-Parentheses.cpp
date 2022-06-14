@@ -1,12 +1,14 @@
-#include <stack>
 #include <queue>
+#include <stack>
 #include <string>
 
 using namespace std;
 
-class Solution {
-public:
-    string reverseParentheses(string s) {
+class Solution
+{
+  public:
+    string reverseParentheses(string s)
+    {
         /* 栈版逆转 */
         // deque<char> ans, que;
         // for (int i = 0; s[i] != '\0'; i++)
@@ -37,20 +39,26 @@ public:
         // return res;
         /* 数组版逆转 */
         stack<int> left_bracket;
-        for (int i = 0; s[i] != '\0'; i++) {
-            if (s[i] == '(') left_bracket.push(i);
-            else if (s[i] == ')') {
+        for (int i = 0; s[i] != '\0'; i++)
+        {
+            if (s[i] == '(')
+                left_bracket.push(i);
+            else if (s[i] == ')')
+            {
                 int left = left_bracket.top(), right = i;
                 left_bracket.pop();
                 int mid = (left + right) >> 1;
                 char tmp = 0;
                 /* 交换 */
-                for (int j = 1; j <= mid - left; j++) {
+                for (int j = 1; j <= mid - left; j++)
+                {
                     tmp = s[left + j];
                     s[left + j] = s[right - j];
                     s[right - j] = tmp;
                 }
-            } else continue;
+            }
+            else
+                continue;
         };
         s.erase(remove(s.begin(), s.end(), '('), s.end());
         s.erase(remove(s.begin(), s.end(), ')'), s.end());

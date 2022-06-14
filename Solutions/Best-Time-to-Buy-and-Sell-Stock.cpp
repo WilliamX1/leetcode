@@ -1,6 +1,8 @@
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
+class Solution
+{
+  public:
+    int maxProfit(vector<int> &prices)
+    {
         int ans = 0, prev_min = 0x7fffffff;
         for (auto price : prices)
         {

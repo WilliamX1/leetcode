@@ -1,11 +1,13 @@
-#include <vector>
 #include <memory.h>
+#include <vector>
 
 using namespace std;
 
-class Solution {
-public:
-    int getXORSum(vector<int>& arr1, vector<int>& arr2) {
+class Solution
+{
+  public:
+    int getXORSum(vector<int> &arr1, vector<int> &arr2)
+    {
         const int _size1 = arr1.size(), _size2 = arr2.size();
         bool array1[32], array2[32];
         memset(array1, 0, sizeof(array1));

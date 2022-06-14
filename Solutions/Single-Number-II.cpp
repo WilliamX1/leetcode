@@ -1,12 +1,14 @@
-#include <vector>
 #include <memory.h>
 #include <stdio.h>
+#include <vector>
 
 using namespace std;
 
-class Solution {
-public:
-    int singleNumber(vector<int>& nums) {
+class Solution
+{
+  public:
+    int singleNumber(vector<int> &nums)
+    {
         int bits[32], tmp, size = nums.size();
         memset(bits, 0, sizeof(bits));
 
@@ -29,7 +31,7 @@ public:
 int main()
 {
     Solution S;
-    vector<int> v = {2,2,3,2};
+    vector<int> v = {2, 2, 3, 2};
     printf("%d", S.singleNumber(v));
     return 0;
 }

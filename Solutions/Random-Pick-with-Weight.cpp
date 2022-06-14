@@ -1,7 +1,9 @@
-class Solution {
-public:
+class Solution
+{
+  public:
     vector<double> v;
-    Solution(vector<int>& w) {
+    Solution(vector<int> &w)
+    {
         srand((unsigned)time(0));
         double sum = accumulate(w.begin(), w.end(), 0);
         for (auto ele : w)
@@ -14,8 +16,9 @@ public:
             v[i] += v[i - 1];
         return;
     };
-    
-    int pickIndex() {
+
+    int pickIndex()
+    {
         double cur = rand() / double(RAND_MAX);
         return lower_bound(v.begin(), v.end(), cur) - v.begin();
     };

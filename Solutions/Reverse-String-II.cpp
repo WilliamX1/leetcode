@@ -2,9 +2,11 @@
 
 using namespace std;
 
-class Solution {
-public:
-    string reverseStr(string s, int k) {
+class Solution
+{
+  public:
+    string reverseStr(string s, int k)
+    {
         string res = "";
         int len = s.size(), idx = 0;
         while (idx < len)

@@ -1,12 +1,14 @@
+#include <iostream>
 #include <stdio.h>
 #include <vector>
-#include <iostream>
 
 using namespace std;
 
-class Solution {
-public:
-    int nthUglyNumber(int n) {
+class Solution
+{
+  public:
+    int nthUglyNumber(int n)
+    {
         /*暴力遍历*/
         // vector<long long> res;
         // long long size = 0;
@@ -26,21 +28,24 @@ public:
         // return res.back();
         /*动态规划*/
         int p2 = 1, p3 = 1, p5 = 1; //数组下标指针
-        int* dp = new int[n + 1];
+        int *dp = new int[n + 1];
         dp[1] = 1;
 
-        for (int i = 2; i <= n; i++) 
+        for (int i = 2; i <= n; i++)
         {
             int num2 = 2 * dp[p2], num3 = 3 * dp[p3], num5 = 5 * dp[p5];
-            if (num2 <= num3 && num2 <= num5) {
+            if (num2 <= num3 && num2 <= num5)
+            {
                 p2++;
                 dp[i] = num2;
             };
-            if (num3 <= num2 && num3 <= num5) {
+            if (num3 <= num2 && num3 <= num5)
+            {
                 p3++;
                 dp[i] = num3;
             };
-            if (num5 <= num2 && num5 <= num3) {
+            if (num5 <= num2 && num5 <= num3)
+            {
                 p5++;
                 dp[i] = num5;
             }

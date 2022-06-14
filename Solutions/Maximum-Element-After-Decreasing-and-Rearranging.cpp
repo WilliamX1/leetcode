@@ -1,6 +1,8 @@
-class Solution {
-public:
-    int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
+class Solution
+{
+  public:
+    int maximumElementAfterDecrementingAndRearranging(vector<int> &arr)
+    {
         sort(arr.begin(), arr.end());
         int len = arr.size();
 

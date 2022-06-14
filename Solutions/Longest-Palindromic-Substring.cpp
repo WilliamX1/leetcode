@@ -2,16 +2,18 @@
 
 using namespace std;
 
-class Solution {
-public:
-    string longestPalindrome(string s) {
+class Solution
+{
+  public:
+    string longestPalindrome(string s)
+    {
         /*动态规划*/
         // const int len = s.length();
         // bool dp[len][len]; memset(dp, 0, sizeof(dp));
         // for (int i = 0; i < len; i++)
         //     for (int j = 0; j <= i; j++)
         //         dp[i][j] = true;
-        
+
         // int left_idx = 0, right_idx = 0;
         // for (int k = 1; k < len; k++)
         //     for (int i = 0; i + k < len; i++)
@@ -26,11 +28,13 @@ public:
         int left_idx = 0, right_idx = 0;
         /*奇数子字符串时*/
         for (int i = 0; i < _size; i++)
-        {   
+        {
             int j = 1;
             for (; 0 <= i - j && i + j < _size; j++)
-                if (s[i - j] != s[i + j]) break;
-            if (2 * (j - 1) > right_idx - left_idx) {
+                if (s[i - j] != s[i + j])
+                    break;
+            if (2 * (j - 1) > right_idx - left_idx)
+            {
                 left_idx = i - j + 1;
                 right_idx = i + j - 1;
             };
@@ -40,8 +44,10 @@ public:
         {
             int j = 1;
             for (; 0 <= i - j && i + j - 1 < _size; j++)
-                if (s[i - j] != s[i + j - 1]) break;
-            if (2 * (j - 1) > right_idx - left_idx) {
+                if (s[i - j] != s[i + j - 1])
+                    break;
+            if (2 * (j - 1) > right_idx - left_idx)
+            {
                 left_idx = i - j + 1;
                 right_idx = i + j - 2;
             };

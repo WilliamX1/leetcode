@@ -2,14 +2,18 @@
 
 using namespace std;
 
-class Solution {
-public:
-    vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
+class Solution
+{
+  public:
+    vector<int> xorQueries(vector<int> &arr, vector<vector<int>> &queries)
+    {
         // 前缀异或
         int n = arr.size();
         vector<int> prefix(n, 0);
-        if (n > 0) prefix[0] = arr[0];
-        for (int i = 1; i < n; i++) prefix[i] = arr[i] ^ prefix[i - 1];
+        if (n > 0)
+            prefix[0] = arr[0];
+        for (int i = 1; i < n; i++)
+            prefix[i] = arr[i] ^ prefix[i - 1];
 
         int m = queries.size();
         int limit = m - 1;
@@ -31,7 +35,7 @@ public:
 int main()
 {
     vector<int> arr = {16};
-    vector<vector<int>> queries = {{0,0}, {0,0}, {0,0}};
+    vector<vector<int>> queries = {{0, 0}, {0, 0}, {0, 0}};
     Solution S;
     S.xorQueries(arr, queries);
 

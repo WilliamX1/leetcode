@@ -1,16 +1,21 @@
-class Solution {
-public:
-    int countDistinct(vector<int>& nums, int k, int p) {
+class Solution
+{
+  public:
+    int countDistinct(vector<int> &nums, int k, int p)
+    {
         int n = nums.size();
         set<vector<int>> ans;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+        {
             vector<int> v;
             int cnt = 0;
-            for (int j = i; j < n; j++) {
+            for (int j = i; j < n; j++)
+            {
                 cnt += !(nums[j] % p);
-                
-                if (cnt > k) break;
-                
+
+                if (cnt > k)
+                    break;
+
                 v.push_back(nums[j]);
                 ans.insert(v);
             };
@@ -41,7 +46,7 @@ public:
         //         };
         //     };
         // };
-        
+
         // unordered_map<int, unordered_map<int, vector<int>>> cc;
         // for (int i = 0; i < n; i++) {
         //     vector<int> v;

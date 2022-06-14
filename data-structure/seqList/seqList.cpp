@@ -2,30 +2,25 @@
 #include <iostream>
 using namespace std;
 
-template <class elemType>
-seqList <elemType>::seqList(int initSize)
+template <class elemType> seqList<elemType>::seqList(int initSize)
 {
     data = new elemType[initSize];
     maxSize = initSize;
     currentLength = 0;
 }
-template <class elemType>
-seqList <elemType>::~seqList()
+template <class elemType> seqList<elemType>::~seqList()
 {
     delete[] data;
 }
-template <class elemType>
-void seqList <elemType>::clear()
+template <class elemType> void seqList<elemType>::clear()
 {
     currentLength = 0;
 }
-template <class elemType>
-int seqList <elemType>::length()const
+template <class elemType> int seqList<elemType>::length() const
 {
     return currentLength;
 }
-template <class elemType>
-void seqList <elemType>::insert(int i, const elemType& x)
+template <class elemType> void seqList<elemType>::insert(int i, const elemType &x)
 {
     if (currentLength >= maxSize)
         doubleSpace();
@@ -34,8 +29,7 @@ void seqList <elemType>::insert(int i, const elemType& x)
     data[i] = x;
     ++currentLength;
 }
-template <class elemType>
-void seqList <elemType>::remove(int i)
+template <class elemType> void seqList<elemType>::remove(int i)
 {
     if (i >= currentLength)
         cout << "Cannot find the element!";
@@ -43,30 +37,26 @@ void seqList <elemType>::remove(int i)
         data[j] = data[j + 1];
     --currentLength;
 }
-template <class elemType>
-int seqList <elemType>::search(const elemType& x)const
+template <class elemType> int seqList<elemType>::search(const elemType &x) const
 {
     for (int i = 0; i < currentLength; ++i)
         if (data[i] == x)
             return i;
     return -1;
 }
-template <class elemType>
-elemType seqList <elemType>::visit(int i)const
+template <class elemType> elemType seqList<elemType>::visit(int i) const
 {
     return i < currentLength ? data[i] : -1;
 }
-template <class elemType>
-void seqList <elemType>::traverse()const
+template <class elemType> void seqList<elemType>::traverse() const
 {
     cout << endl;
     for (int i = 0; i < currentLength; ++i)
         cout << data[i] << ' ';
 }
-template <class elemType>
-void seqList <elemType>::doubleSpace()
+template <class elemType> void seqList<elemType>::doubleSpace()
 {
-    elemType* tmp = data;
+    elemType *tmp = data;
     maxSize *= 2;
     data = new elemType[maxSize];
     for (int i = 0; i < currentLength; ++i)

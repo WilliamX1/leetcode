@@ -9,16 +9,21 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
-    int _isBalanced(TreeNode* root, bool& ans) {
-        if (root == nullptr) return 0;
+class Solution
+{
+  public:
+    int _isBalanced(TreeNode *root, bool &ans)
+    {
+        if (root == nullptr)
+            return 0;
 
         int left = _isBalanced(root->left, ans), right = _isBalanced(root->right, ans);
-        if (abs(left - right) > 1) ans = false;
+        if (abs(left - right) > 1)
+            ans = false;
         return max(left, right) + 1;
     };
-    bool isBalanced(TreeNode* root) {
+    bool isBalanced(TreeNode *root)
+    {
         bool ans = true;
         _isBalanced(root, ans);
         return ans;

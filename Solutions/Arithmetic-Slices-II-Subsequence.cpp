@@ -2,9 +2,11 @@
 
 using namespace std;
 
-class Solution {
-public:
-    int numberOfArithmeticSlices(vector<int>& nums) {
+class Solution
+{
+  public:
+    int numberOfArithmeticSlices(vector<int> &nums)
+    {
         unordered_map<int, int> origin;
         int len = nums.size(), ans = 0;
 

@@ -1,9 +1,12 @@
-class Solution {
-public:
-    bool canPartition(vector<int>& nums) {
+class Solution
+{
+  public:
+    bool canPartition(vector<int> &nums)
+    {
         int n = nums.size(), m = n * 100;
         int tot = accumulate(nums.begin(), nums.end(), 0);
-        if (tot & 1) return false;
+        if (tot & 1)
+            return false;
 
         vector<vector<bool>> dp(n, vector<bool>(m + 1, false));
         dp[0][nums[0]] = true;

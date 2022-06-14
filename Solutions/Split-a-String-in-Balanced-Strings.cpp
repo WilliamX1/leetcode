@@ -1,12 +1,18 @@
-class Solution {
-public:
-    int balancedStringSplit(string s) {
+class Solution
+{
+  public:
+    int balancedStringSplit(string s)
+    {
         int cnt = 0, res = 0;
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == 'R') cnt++;
-            else cnt--;
+        for (int i = 0; i < s.size(); i++)
+        {
+            if (s[i] == 'R')
+                cnt++;
+            else
+                cnt--;
 
-            if (cnt == 0) res++;
+            if (cnt == 0)
+                res++;
         };
         return res;
     }

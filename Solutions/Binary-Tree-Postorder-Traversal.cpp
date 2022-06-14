@@ -9,10 +9,13 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
-    vector<int> postorderTraversal(TreeNode* root) {
-        if (root == nullptr) return vector<int>();
+class Solution
+{
+  public:
+    vector<int> postorderTraversal(TreeNode *root)
+    {
+        if (root == nullptr)
+            return vector<int>();
 
         vector<int> v;
         vector<int> left = postorderTraversal(root->left);

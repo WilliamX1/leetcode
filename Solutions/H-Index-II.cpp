@@ -1,6 +1,8 @@
-class Solution {
-public:
-    int hIndex(vector<int>& citations) {
+class Solution
+{
+  public:
+    int hIndex(vector<int> &citations)
+    {
         int len = citations.size();
         int ans = 0;
         for (int i = 0; i < len; i++)

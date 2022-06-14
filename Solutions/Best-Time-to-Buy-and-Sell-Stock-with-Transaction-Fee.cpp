@@ -1,8 +1,10 @@
-class Solution {
-public:
-    int maxProfit(vector<int>& prices, int fee) {
+class Solution
+{
+  public:
+    int maxProfit(vector<int> &prices, int fee)
+    {
         /*  dp[i][0] 代表不持有股票
-            dp[i][1] 代表持有股票 
+            dp[i][1] 代表持有股票
         */
         int len = prices.size();
         vector<vector<int>> dp(len, vector<int>(2, 0));

@@ -1,51 +1,63 @@
-class Bitset {
-public:
+class Bitset
+{
+  public:
     vector<bool> v;
     int flag, cnt1;
-    Bitset(int size) {
+    Bitset(int size)
+    {
         v.assign(size, 0);
         flag = false;
         cnt1 = 0;
     };
-    
-    void fix(int idx) {
-        if (!flag && v[idx] == 0
-            || flag && v[idx] == 1) {
-                v[idx] = !v[idx];
-                cnt1++;
-            };
+
+    void fix(int idx)
+    {
+        if (!flag && v[idx] == 0 || flag && v[idx] == 1)
+        {
+            v[idx] = !v[idx];
+            cnt1++;
+        };
     }
-    
-    void unfix(int idx) {
-        if (!flag && v[idx] == 1
-        || flag && v[idx] == 0) {
+
+    void unfix(int idx)
+    {
+        if (!flag && v[idx] == 1 || flag && v[idx] == 0)
+        {
             v[idx] = !v[idx];
             cnt1--;
         };
     }
-    
-    void flip() {
+
+    void flip()
+    {
         flag = !flag;
         cnt1 = v.size() - cnt1;
     }
-    
-    bool all() {
+
+    bool all()
+    {
         return cnt1 == v.size();
     }
-    
-    bool one() {
+
+    bool one()
+    {
         return cnt1 > 0;
     }
-    
-    int count() {
+
+    int count()
+    {
         return cnt1;
     }
-    
-    string toString() {
+
+    string toString()
+    {
         string str = "";
-        for (auto num : v) {
-            if (flag ^ num) str += "1";
-            else str += "0";
+        for (auto num : v)
+        {
+            if (flag ^ num)
+                str += "1";
+            else
+                str += "0";
         };
         return str;
     }

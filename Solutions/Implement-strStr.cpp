@@ -3,8 +3,9 @@
 
 using namespace std;
 
-class Solution {
-public:
+class Solution
+{
+  public:
     void getNext(string needle, int next[])
     {
         int i = 0, k = -1;
@@ -15,11 +16,13 @@ public:
             {
                 next[++i] = ++k;
             }
-            else k = next[k];
+            else
+                k = next[k];
         };
         return;
     }
-    int strStr(string haystack, string needle) {
+    int strStr(string haystack, string needle)
+    {
         const int len = needle.length();
         int next[len + 1];
         getNext(needle, next);
@@ -27,12 +30,17 @@ public:
         int i = 0, k = 0;
         while (i < haystack.length() && k < len)
         {
-            if (k == -1 || haystack[i] == needle[k]){
+            if (k == -1 || haystack[i] == needle[k])
+            {
                 i++, k++;
-            } else k = next[k];
+            }
+            else
+                k = next[k];
         };
-        if (k == needle.length()) return i - k;
-        else return -1;
+        if (k == needle.length())
+            return i - k;
+        else
+            return -1;
     }
 };
 

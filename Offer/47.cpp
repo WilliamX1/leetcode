@@ -1,6 +1,8 @@
-class Solution {
-public:
-    int maxValue(vector<vector<int>>& grid) {
+class Solution
+{
+  public:
+    int maxValue(vector<vector<int>> &grid)
+    {
         int m = grid.size(), n = grid[0].size();
         vector<vector<int>> dp(m, vector<int>(n, 0));
         for (int i = 0; i < m; i++)

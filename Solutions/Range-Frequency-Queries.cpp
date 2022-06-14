@@ -1,15 +1,18 @@
-class RangeFreqQuery {
-public:
+class RangeFreqQuery
+{
+  public:
     vector<int> arr;
     unordered_map<int, vector<int>> umap;
-    RangeFreqQuery(vector<int>& arr) {
+    RangeFreqQuery(vector<int> &arr)
+    {
         this->arr = arr;
         for (int i = 0; i < arr.size(); i++)
             umap[arr[i]].push_back(i);
     };
-    
-    int query(int left, int right, int value) {
-        const vector<int>& v = umap[value];
+
+    int query(int left, int right, int value)
+    {
+        const vector<int> &v = umap[value];
         return upper_bound(v.begin(), v.end(), right) - lower_bound(v.begin(), v.end(), left);
     }
 };

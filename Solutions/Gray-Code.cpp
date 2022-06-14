@@ -1,6 +1,8 @@
-class Solution {
-public:
-    vector<int> grayCode(int n) {
+class Solution
+{
+  public:
+    vector<int> grayCode(int n)
+    {
         vector<int> ans;
         ans.push_back(0);
         int start = 0, end = 0;

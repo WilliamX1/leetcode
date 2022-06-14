@@ -1,10 +1,13 @@
-class Solution {
-public:
-    int triangleNumber(vector<int>& nums) {
+class Solution
+{
+  public:
+    int triangleNumber(vector<int> &nums)
+    {
         sort(nums.begin(), nums.end());
         int len = nums.size(), tmp = 0;
-        for (int i = 0; i < len; i++) nums[i] *= nums[i];
-        
+        for (int i = 0; i < len; i++)
+            nums[i] *= nums[i];
+
         int ans = 0;
         for (int i = 0; i < len; i++)
             for (int j = i + 1; j < len; j++)

@@ -1,19 +1,23 @@
-#include <vector>
 #include <bits/stdc++.h>
+#include <vector>
 
 using namespace std;
 
-class Solution {
-public:
-    int minSideJumps(vector<int>& obstacles) {
+class Solution
+{
+  public:
+    int minSideJumps(vector<int> &obstacles)
+    {
         const int len = obstacles.size();
         const int track_num = 3;
         const int MAX = 2147483647 - 10;
         int dp[len][track_num];
         memset(dp, 0, sizeof(dp));
 
-        dp[0][1] = 0; dp[0][0] = dp[0][2] = 1;
-        for (int i = 1; i < len; i++) {
+        dp[0][1] = 0;
+        dp[0][0] = dp[0][2] = 1;
+        for (int i = 1; i < len; i++)
+        {
             switch (obstacles[i] - 1)
             {
             case 0:
@@ -96,7 +100,7 @@ public:
 int main()
 {
     Solution S;
-    vector<int> v = {0,0,2,0};
+    vector<int> v = {0, 0, 2, 0};
     printf("%d", S.minSideJumps(v));
     return 0;
 }

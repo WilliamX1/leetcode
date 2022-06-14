@@ -1,6 +1,8 @@
-class Solution {
-public:
-    int sumSubseqWidths(vector<int>& nums) {
+class Solution
+{
+  public:
+    int sumSubseqWidths(vector<int> &nums)
+    {
         sort(nums.begin(), nums.end());
         int64_t mod = 1e9 + 7, n = nums.size();
         vector<int64_t> pow(n, 1);

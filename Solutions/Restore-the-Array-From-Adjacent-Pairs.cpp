@@ -2,9 +2,11 @@
 
 using namespace std;
 
-class Solution {
-public:
-    vector<int> restoreArray(vector<vector<int>>& adjacentPairs) {
+class Solution
+{
+  public:
+    vector<int> restoreArray(vector<vector<int>> &adjacentPairs)
+    {
         unordered_map<int, vector<int>> mp;
         for (auto ele : adjacentPairs)
         {
@@ -14,7 +16,8 @@ public:
 
         int n = adjacentPairs.size() + 1, begin = 0;
         for (auto ele : mp)
-            if ((ele.second).size() == 1) {
+            if ((ele.second).size() == 1)
+            {
                 begin = ele.first;
                 break;
             };

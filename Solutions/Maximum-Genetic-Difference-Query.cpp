@@ -1,6 +1,8 @@
-class Solution {
-public:
-    vector<int> maxGeneticDifference(vector<int>& parents, vector<vector<int>>& queries) {
+class Solution
+{
+  public:
+    vector<int> maxGeneticDifference(vector<int> &parents, vector<vector<int>> &queries)
+    {
         int len = queries.size();
         vector<int> ans(len, 0);
         for (int i = 0; i < len; i++)

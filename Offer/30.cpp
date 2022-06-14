@@ -1,27 +1,36 @@
-class MinStack {
-private:
+class MinStack
+{
+  private:
     stack<int> A;
     stack<int> B;
-public:
+
+  public:
     /** initialize your data structure here. */
-    MinStack() {
+    MinStack()
+    {
     }
-    
-    void push(int x) {
-        if (B.empty() || B.top() >= x) B.push(x);
+
+    void push(int x)
+    {
+        if (B.empty() || B.top() >= x)
+            B.push(x);
         A.push(x);
     }
-    
-    void pop() {
-        if (B.top() == A.top()) B.pop();
+
+    void pop()
+    {
+        if (B.top() == A.top())
+            B.pop();
         A.pop();
     }
-    
-    int top() {
+
+    int top()
+    {
         return A.top();
     }
-    
-    int min() {
+
+    int min()
+    {
         return B.top();
     }
 };

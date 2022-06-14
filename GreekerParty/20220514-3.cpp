@@ -3,24 +3,27 @@
     copyright: Bintao Yu
     DO NOT distribute this code without my permission.
 **************************************************************/
-    /********* Begin **********/
-#include <iostream>
-#include <cstring>
-#include <vector>
+/********* Begin **********/
 #include <algorithm>
+#include <cstring>
+#include <iostream>
+#include <vector>
 
 using namespace std;
 
 int main()
 {
-    int n, m; cin >> n >> m;
-    int * nums = new int[m];
+    int n, m;
+    cin >> n >> m;
+    int *nums = new int[m];
 
-    while (n-- > 0) {
+    while (n-- > 0)
+    {
         memset(nums, 0, sizeof(nums));
 
         vector<int> pre, post(m);
-        for (int i = 0; i < m; i++) {
+        for (int i = 0; i < m; i++)
+        {
             cin >> nums[i];
             post[i] = nums[i];
         };
@@ -29,15 +32,18 @@ int main()
 
         int count = 0;
 
-        for (int i = 0; i < m; i++) {
+        for (int i = 0; i < m; i++)
+        {
             post.erase(lower_bound(post.begin(), post.end(), nums[i]));
 
             auto pre_iter = lower_bound(pre.begin(), pre.end(), nums[i]);
-            if (pre_iter != pre.begin()) {
+            if (pre_iter != pre.begin())
+            {
                 --pre_iter;
                 int left = *pre_iter;
                 auto post_iter = lower_bound(post.begin(), post.end(), left);
-                if (post_iter != post.begin()) {
+                if (post_iter != post.begin())
+                {
                     ++count;
                 };
             };
@@ -50,5 +56,5 @@ int main()
 
     return 0;
 }
-    /********** End **********/
+/********** End **********/
 // DO NOT USE THE STL LIBRARY.

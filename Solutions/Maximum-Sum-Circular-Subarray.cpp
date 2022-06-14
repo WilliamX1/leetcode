@@ -2,10 +2,12 @@
 
 using namespace std;
 
-class Solution {
-public:
+class Solution
+{
+  public:
     const int MIN = -100000000;
-    int find(vector<int>& nums) {
+    int find(vector<int> &nums)
+    {
         int len = nums.size();
         int prev = 0, cur = 0, ans = MIN;
         for (int i = 0; i < len; i++)
@@ -16,11 +18,12 @@ public:
         }
         return ans;
     };
-    int findPreAndPost(vector<int>& nums) {
+    int findPreAndPost(vector<int> &nums)
+    {
         int len = nums.size();
         vector<int> normal_prefix(len, 0), reverse_prefix(len, 0);
         vector<int> normal_max(len, 0), reverse_max(len, 0);
-        
+
         normal_prefix[0] = normal_max[0] = nums[0];
         for (int i = 1; i < len; i++)
         {
@@ -40,7 +43,8 @@ public:
             ans = max(ans, normal_max[i] + reverse_max[i + 1]);
         return ans;
     };
-    int maxSubarraySumCircular(vector<int>& nums) {
+    int maxSubarraySumCircular(vector<int> &nums)
+    {
         int ans = find(nums);
         ans = max(ans, findPreAndPost(nums));
         return ans;

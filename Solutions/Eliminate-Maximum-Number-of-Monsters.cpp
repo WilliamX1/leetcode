@@ -1,6 +1,8 @@
-class Solution {
-public:
-    int eliminateMaximum(vector<int>& dist, vector<int>& speed) {
+class Solution
+{
+  public:
+    int eliminateMaximum(vector<int> &dist, vector<int> &speed)
+    {
         int len = dist.size();
         vector<int> time(len);
         for (int i = 0; i < len; i++)
@@ -9,7 +11,8 @@ public:
         sort(time.begin(), time.end(), less<int>());
 
         for (int i = 0; i < len; i++)
-            if (i >= time[i]) return i;
+            if (i >= time[i])
+                return i;
         return len;
     }
 };

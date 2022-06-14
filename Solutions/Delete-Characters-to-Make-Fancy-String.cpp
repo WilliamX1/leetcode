@@ -1,6 +1,8 @@
-class Solution {
-public:
-    string makeFancyString(string s) {
+class Solution
+{
+  public:
+    string makeFancyString(string s)
+    {
         int cur_num = 0;
         char cur_ch = '/';
         string ans = "";
@@ -12,7 +14,9 @@ public:
                     cur_num++;
                     ans += ch;
                 }
-            } else {
+            }
+            else
+            {
                 cur_ch = ch;
                 cur_num = 1;
                 ans += ch;

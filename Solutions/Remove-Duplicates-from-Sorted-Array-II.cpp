@@ -1,27 +1,37 @@
-#include <vector>
 #include <stdio.h>
+#include <vector>
 
 using namespace std;
 
-class Solution {
-public:
-    int removeDuplicates(vector<int>& nums) {
+class Solution
+{
+  public:
+    int removeDuplicates(vector<int> &nums)
+    {
         /*如果数组为空，则直接返回*/
-        if (nums.size() == 0) return 0;
+        if (nums.size() == 0)
+            return 0;
 
         int prev = nums.front();
         int cnt = 0;
         vector<int>::iterator iter = nums.begin();
-        while (iter != nums.end()) {
+        while (iter != nums.end())
+        {
             /*如果当前元素与上一个元素相等*/
-            if (*iter == prev) {
-                if (cnt <= 1) {
+            if (*iter == prev)
+            {
+                if (cnt <= 1)
+                {
                     cnt++;
                     iter++;
-                } else {
+                }
+                else
+                {
                     nums.erase(iter);
                 }
-            } else {
+            }
+            else
+            {
                 prev = *iter;
                 cnt = 1;
                 iter++;

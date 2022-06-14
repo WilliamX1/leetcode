@@ -2,9 +2,11 @@
 
 using namespace std;
 
-class Solution {
-public:
-    int minimumDifference(vector<int>& nums, int k) {
+class Solution
+{
+  public:
+    int minimumDifference(vector<int> &nums, int k)
+    {
         sort(nums.begin(), nums.end());
         int ans = 0x7fffffff;
         int len = nums.size();

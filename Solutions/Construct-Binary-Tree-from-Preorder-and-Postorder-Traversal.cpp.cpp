@@ -9,19 +9,25 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
-    TreeNode* _constructFromPrePost(const vector<int>& preorder, const int& preL, const int& preR, 
-                                    const vector<int>& postorder, const int& postL, const int& postR) {
-        if (preL > preR) return nullptr;
-        else if (preL == preR) return new TreeNode(preorder[preL]);
-        else {
+class Solution
+{
+  public:
+    TreeNode *_constructFromPrePost(const vector<int> &preorder, const int &preL, const int &preR,
+                                    const vector<int> &postorder, const int &postL, const int &postR)
+    {
+        if (preL > preR)
+            return nullptr;
+        else if (preL == preR)
+            return new TreeNode(preorder[preL]);
+        else
+        {
             // cout << preL << " " << preR << " " << postL << " " << postR << endl;
             assert(preR - preL == postR - postL && preorder[preL] == postorder[postR]);
-            TreeNode* root = new TreeNode(preorder[preL]);
+            TreeNode *root = new TreeNode(preorder[preL]);
             int preM = preL + 1, postM = postL;
             unordered_map<int, int> count;
-            while (preM <= preR && postM < postR) {
+            while (preM <= preR && postM < postR)
+            {
                 // cout << preM << " " << postM << " " << endl;
                 count[preorder[preM]]++;
                 count[postorder[postM]]++;
@@ -30,8 +36,10 @@ public:
                 for (const auto iter : count)
                     if (iter.second & 1)
                         flag = false;
-                if (flag) break;
-                else {
+                if (flag)
+                    break;
+                else
+                {
                     preM++;
                     postM++;
                 };
@@ -42,7 +50,8 @@ public:
             return root;
         };
     };
-    TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
+    TreeNode *constructFromPrePost(vector<int> &preorder, vector<int> &postorder)
+    {
         return _constructFromPrePost(preorder, 0, postorder.size() - 1, postorder, 0, postorder.size() - 1);
     }
 };

@@ -2,11 +2,13 @@
 
 using namespace std;
 
-class Solution {
-public:
-    void get(vector<int>& nums, int idx, int cnt, int xo, int& ans)
+class Solution
+{
+  public:
+    void get(vector<int> &nums, int idx, int cnt, int xo, int &ans)
     {
-        if (cnt == 0) {
+        if (cnt == 0)
+        {
             ans += xo;
             return;
         }
@@ -14,7 +16,8 @@ public:
             get(nums, i + 1, cnt - 1, xo ^ nums[i], ans);
         return;
     }
-    int subsetXORSum(vector<int>& nums) {
+    int subsetXORSum(vector<int> &nums)
+    {
         int ans = 0;
         for (int i = 1; i <= nums.size(); i++)
             get(nums, 0, i, 0, ans);
@@ -24,7 +27,7 @@ public:
 int main()
 {
     Solution S;
-    vector<int> v = {1,3};
+    vector<int> v = {1, 3};
     S.subsetXORSum(v);
     return 0;
 }

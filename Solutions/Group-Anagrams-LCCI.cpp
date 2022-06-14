@@ -2,9 +2,11 @@
 
 using namespace std;
 
-class Solution {
-public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+class Solution
+{
+  public:
+    vector<vector<string>> groupAnagrams(vector<string> &strs)
+    {
         map<vector<int>, vector<int>> m;
         int len = strs.size();
         for (int i = 0; i < len; i++)
@@ -13,8 +15,10 @@ public:
             for (auto ch : strs[i])
                 key[ch - 'a']++;
             auto iter = m.find(key);
-            if (iter != m.end()) iter->second.push_back(i);
-            else {
+            if (iter != m.end())
+                iter->second.push_back(i);
+            else
+            {
                 vector<int> v = {i};
                 m.insert(make_pair(key, v));
             };

@@ -9,11 +9,14 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
-    vector<int> preorderTraversal(TreeNode* root) {
+class Solution
+{
+  public:
+    vector<int> preorderTraversal(TreeNode *root)
+    {
         vector<int> ans;
-        if (root != nullptr) {
+        if (root != nullptr)
+        {
             ans.push_back(root->val);
             vector<int> left = preorderTraversal(root->left), right = preorderTraversal(root->right);
             ans.insert(ans.end(), left.begin(), left.end());

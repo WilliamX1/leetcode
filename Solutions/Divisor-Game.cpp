@@ -1,6 +1,8 @@
-class Solution {
-public:
-    bool divisorGame(int n) {
+class Solution
+{
+  public:
+    bool divisorGame(int n)
+    {
         return !(n & 1);
     }
 };

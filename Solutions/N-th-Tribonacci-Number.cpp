@@ -1,6 +1,8 @@
-class Solution {
-public:
-    int tribonacci(int n) {
+class Solution
+{
+  public:
+    int tribonacci(int n)
+    {
         int m = max(n + 1, 4);
         vector<int> dp(m);
         dp[0] = 0, dp[1] = dp[2] = 1;

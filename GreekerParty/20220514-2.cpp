@@ -3,34 +3,44 @@
     copyright: Bintao Yu
     DO NOT distribute this code without my permission.
 **************************************************************/
-    /********* Begin **********/
-#include <iostream>
+/********* Begin **********/
 #include <cstring>
+#include <iostream>
 
 using namespace std;
 
 int main()
 {
-    int n, m; cin >> n >> m;
-    int* nums = new int[m];
+    int n, m;
+    cin >> n >> m;
+    int *nums = new int[m];
 
-    while (n-- > 0) {
+    while (n-- > 0)
+    {
         memset(nums, 0, sizeof(nums));
         for (int i = 0; i < m; i++)
             cin >> nums[i];
         int numi = nums[0], numj, idx = 1;
-        while (idx < m && nums[idx] <= nums[idx - 1]) idx++;
+        while (idx < m && nums[idx] <= nums[idx - 1])
+            idx++;
         bool flag = false;
-        if (idx < m) {
+        if (idx < m)
+        {
             numj = nums[idx];
-            while (++idx < m) {
-                if (nums[idx] > numj) {
+            while (++idx < m)
+            {
+                if (nums[idx] > numj)
+                {
                     numi = numj;
                     numj = nums[idx];
-                } else if (nums[idx] < numi) {
+                }
+                else if (nums[idx] < numi)
+                {
                     flag = true;
                     break;
-                } else continue;
+                }
+                else
+                    continue;
             };
         };
         cout << (flag ? "True" : "False") << ' ';
@@ -38,5 +48,5 @@ int main()
 
     return 0;
 }
-    /********** End **********/
+/********** End **********/
 // DO NOT USE THE STL LIBRARY.

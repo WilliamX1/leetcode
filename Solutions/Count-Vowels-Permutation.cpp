@@ -1,11 +1,14 @@
-class Solution {
-public:
-    int countVowelPermutation(int n) {
+class Solution
+{
+  public:
+    int countVowelPermutation(int n)
+    {
         int mod = 1e9 + 7;
         vector<vector<int>> dp(n, vector<int>(5, 0));
         //      a              e              i              o              u
-           dp[n - 1][0] = dp[n - 1][1] = dp[n - 1][2] = dp[n - 1][3] = dp[n - 1][4] = 1;
-        for (int i = n - 2; i >= 0; i--) {
+        dp[n - 1][0] = dp[n - 1][1] = dp[n - 1][2] = dp[n - 1][3] = dp[n - 1][4] = 1;
+        for (int i = n - 2; i >= 0; i--)
+        {
             dp[i][0] = dp[i + 1][1];
             dp[i][1] = (dp[i + 1][0] + dp[i + 1][2]) % mod;
             dp[i][2] = ((dp[i + 1][0] + dp[i + 1][1]) % mod + (dp[i + 1][3] + dp[i + 1][4]) % mod) % mod;

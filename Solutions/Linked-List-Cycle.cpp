@@ -10,14 +10,19 @@
 
 using namespace std;
 
-class Solution {
-public:
-    bool hasCycle(ListNode *head) {
-        set<ListNode*> m;
-        ListNode* p = head;
-        while (p != NULL) {
-            if (m.find(p) != m.end()) return true;
-            else m.insert(p);
+class Solution
+{
+  public:
+    bool hasCycle(ListNode *head)
+    {
+        set<ListNode *> m;
+        ListNode *p = head;
+        while (p != NULL)
+        {
+            if (m.find(p) != m.end())
+                return true;
+            else
+                m.insert(p);
             p = p->next;
         };
         return false;

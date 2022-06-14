@@ -18,13 +18,17 @@ public:
 };
 */
 
-class Solution {
-public:
-    vector<int> postorder(Node* root) {
+class Solution
+{
+  public:
+    vector<int> postorder(Node *root)
+    {
         vector<int> res;
 
-        if (root == nullptr) return res;
-        for (Node* node: root->children) {
+        if (root == nullptr)
+            return res;
+        for (Node *node : root->children)
+        {
             vector<int> tmp = postorder(node);
             res.insert(res.end(), tmp.begin(), tmp.end());
         };

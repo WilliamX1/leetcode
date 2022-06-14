@@ -1,35 +1,50 @@
-class Bank {
-public:
+class Bank
+{
+  public:
     vector<long long> blc;
     int count;
-    Bank(vector<long long>& balance) {
+    Bank(vector<long long> &balance)
+    {
         this->blc = balance;
         count = balance.size();
     };
-    
-    bool transfer(int account1, int account2, long long money) {
-        if (account1 > count || account2 > count) return false;
-        else if (blc[account1 - 1] >= money) {
+
+    bool transfer(int account1, int account2, long long money)
+    {
+        if (account1 > count || account2 > count)
+            return false;
+        else if (blc[account1 - 1] >= money)
+        {
             blc[account1 - 1] -= money;
             blc[account2 - 1] += money;
             return true;
-        } else return false;
+        }
+        else
+            return false;
     }
-    
-    bool deposit(int account, long long money) {
-        if (account > count) return false;
-        else {
+
+    bool deposit(int account, long long money)
+    {
+        if (account > count)
+            return false;
+        else
+        {
             blc[account - 1] += money;
             return true;
         };
     }
-    
-    bool withdraw(int account, long long money) {
-        if (account > count) return false;
-        else if (blc[account - 1] >= money) {
+
+    bool withdraw(int account, long long money)
+    {
+        if (account > count)
+            return false;
+        else if (blc[account - 1] >= money)
+        {
             blc[account - 1] -= money;
             return true;
-        } else return false;
+        }
+        else
+            return false;
     }
 };
 

@@ -1,7 +1,10 @@
-class Solution {
-public:
-    vector<int> constructArr(vector<int>& a) {
-        if (a.empty()) return vector<int>();
+class Solution
+{
+  public:
+    vector<int> constructArr(vector<int> &a)
+    {
+        if (a.empty())
+            return vector<int>();
 
         int len = a.size();
         vector<int> v1(len + 1, 0), v2(len + 1, 0);

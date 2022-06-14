@@ -9,22 +9,26 @@ using namespace std;
  * int param_2 = obj->calculateMKAverage();
  */
 
-class MKAverage {
-public:
+class MKAverage
+{
+  public:
     vector<int> vec;
     int _m;
     int _k;
-    MKAverage(int m, int k) {
+    MKAverage(int m, int k)
+    {
         _m = m;
         _k = k;
     }
-    
-    void addElement(int num) {
+
+    void addElement(int num)
+    {
         vec.push_back(num);
         return;
     }
-    
-    int calculateMKAverage() {
+
+    int calculateMKAverage()
+    {
         vector<int> tmp(vec.begin() + _k, vec.end() - _k);
         /*直接排序*/
         sort(tmp.begin(), tmp.end());

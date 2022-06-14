@@ -1,12 +1,14 @@
-#include <vector>
-#include <set>
 #include <algorithm>
+#include <set>
+#include <vector>
 
 using namespace std;
 
-class Solution {
-public:
-    vector<int> luckyNumbers (vector<vector<int>>& matrix) {
+class Solution
+{
+  public:
+    vector<int> luckyNumbers(vector<vector<int>> &matrix)
+    {
         int m = matrix.size(), n = matrix[0].size();
         vector<int> row_min(m, 0x7fffffff);
         vector<int> col_max(n, 0);
@@ -19,7 +21,7 @@ public:
         vector<int> ans;
         for (int i = 0; i < m; i++)
             for (int j = 0; j < n; j++)
-                if (row_min[i] == matrix[i][j] && col_max[j] == matrix[i][j]) 
+                if (row_min[i] == matrix[i][j] && col_max[j] == matrix[i][j])
                     ans.push_back(matrix[i][j]);
         return ans;
     }

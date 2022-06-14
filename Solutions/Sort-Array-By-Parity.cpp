@@ -6,18 +6,22 @@
 
 using namespace std;
 
-class Solution {
-public:
-  vector<int> sortArrayByParity(vector<int>& nums) {
-    vector<int> odds, evens, ans;
-    /* odds = {1, 3} evens = {2, 4} */
-    for (auto& num : nums)
-      if (num & 1) odds.push_back(num);
-      else evens.push_back(num);
-    for (auto &num : evens)
-      ans.push_back(num); // ans = {2, 4}
-    for (auto &num : odds)
-      ans.push_back(num); // ans = {2, 4, 1, 3}
-    return ans; 
-  };
+class Solution
+{
+  public:
+    vector<int> sortArrayByParity(vector<int> &nums)
+    {
+        vector<int> odds, evens, ans;
+        /* odds = {1, 3} evens = {2, 4} */
+        for (auto &num : nums)
+            if (num & 1)
+                odds.push_back(num);
+            else
+                evens.push_back(num);
+        for (auto &num : evens)
+            ans.push_back(num); // ans = {2, 4}
+        for (auto &num : odds)
+            ans.push_back(num); // ans = {2, 4, 1, 3}
+        return ans;
+    };
 };

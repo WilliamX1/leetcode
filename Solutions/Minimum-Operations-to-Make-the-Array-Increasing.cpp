@@ -2,16 +2,21 @@
 
 using namespace std;
 
-class Solution {
-public:
-    int minOperations(vector<int>& nums) {
+class Solution
+{
+  public:
+    int minOperations(vector<int> &nums)
+    {
         int tmp = nums.front();
         int res = 0;
         for (int i = 1; i < nums.size(); i++)
-            if (nums[i] <= tmp) {
+            if (nums[i] <= tmp)
+            {
                 res += tmp - nums[i] + 1;
                 tmp++;
-            } else tmp = nums[i];
+            }
+            else
+                tmp = nums[i];
         return res;
     }
 };

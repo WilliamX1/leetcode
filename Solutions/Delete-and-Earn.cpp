@@ -1,12 +1,14 @@
-#include <vector>
 #include <algorithm>
 #include <stdio.h>
+#include <vector>
 
 using namespace std;
 
-class Solution {
-public:
-    int deleteAndEarn(vector<int>& nums) {
+class Solution
+{
+  public:
+    int deleteAndEarn(vector<int> &nums)
+    {
         sort(nums.begin(), nums.end());
 
         const int n = *max_element(nums.begin(), nums.end()) + 1;
@@ -27,7 +29,7 @@ public:
 int main()
 {
     Solution S;
-    vector<int> v = {2,2,3,3,3,4};
+    vector<int> v = {2, 2, 3, 3, 3, 4};
     printf("%d", S.deleteAndEarn(v));
     return 0;
 }

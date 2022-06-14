@@ -1,8 +1,11 @@
-class Solution {
-public:
+class Solution
+{
+  public:
     int ans = 0;
-    void dfs(int idx, int n, vector<bool> flag) {
-        if (idx > n) {
+    void dfs(int idx, int n, vector<bool> flag)
+    {
+        if (idx > n)
+        {
             ans++;
             return;
         };
@@ -15,7 +18,8 @@ public:
             };
         return;
     };
-    int countArrangement(int n) {
+    int countArrangement(int n)
+    {
         vector<bool> flag(n + 1, false);
         dfs(1, n, flag);
         return ans;

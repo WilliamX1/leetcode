@@ -1,30 +1,38 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
-class MaxQueue {
-private:
+class MaxQueue
+{
+  private:
     deque<int> q1, q2;
-public:
-    MaxQueue() {
 
+  public:
+    MaxQueue()
+    {
     }
-    
-    int max_value() {
+
+    int max_value()
+    {
         return q2.empty() ? -1 : q2.front();
     }
-    
-    void push_back(int value) {
-        while (!q2.empty() && q2.back() < value) {
+
+    void push_back(int value)
+    {
+        while (!q2.empty() && q2.back() < value)
+        {
             q2.pop_back();
         };
         q2.push_back(value);
         q1.push_back(value);
     }
-    
-    int pop_front() {
-        if (q1.empty()) return -1;
+
+    int pop_front()
+    {
+        if (q1.empty())
+            return -1;
         int ans = q1.front();
-        if (ans == q2.front()) q2.pop_front();
+        if (ans == q2.front())
+            q2.pop_front();
         q1.pop_front();
         return ans;
     }

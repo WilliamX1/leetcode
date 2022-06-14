@@ -1,15 +1,24 @@
-class Solution {
-public:
-    int maxDepth(string s) {
+class Solution
+{
+  public:
+    int maxDepth(string s)
+    {
         stack<char> stk;
         int ans = 0;
-        for (const char& ch : s) {
-            if (ch == '(') {
+        for (const char &ch : s)
+        {
+            if (ch == '(')
+            {
                 stk.push(ch);
-                ans = max(ans, (int) stk.size());
-            } else if (ch == ')') {
+                ans = max(ans, (int)stk.size());
+            }
+            else if (ch == ')')
+            {
                 stk.pop();
-            } else {};
+            }
+            else
+            {
+            };
         };
         return ans;
     }

@@ -6,16 +6,22 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {
-public:
-    ListNode *detectCycle(ListNode *head) {
-        if (!head) return NULL;
+class Solution
+{
+  public:
+    ListNode *detectCycle(ListNode *head)
+    {
+        if (!head)
+            return NULL;
         ListNode *p = head, *pre = head, *next = head;
-        while (pre->next && next->next && next->next->next) {
+        while (pre->next && next->next && next->next->next)
+        {
             pre = pre->next;
             next = next->next->next;
-            if (pre == next) {
-                while (p != pre) {
+            if (pre == next)
+            {
+                while (p != pre)
+                {
                     p = p->next;
                     pre = pre->next;
                 };

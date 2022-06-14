@@ -1,6 +1,8 @@
-class Solution {
-public:
-    bool isPerfectSquare(int num) {
+class Solution
+{
+  public:
+    bool isPerfectSquare(int num)
+    {
         int t = sqrt(num);
         return t * t == num;
     }

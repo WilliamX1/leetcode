@@ -1,14 +1,17 @@
-#include <vector>
-#include <memory.h>
 #include <algorithm>
+#include <memory.h>
 #include <stdio.h>
+#include <vector>
 using namespace std;
 
-class Solution {
-public:
-    int rob(vector<int>& nums) {
+class Solution
+{
+  public:
+    int rob(vector<int> &nums)
+    {
         /*如果nums为空则返回*/
-        if (nums.empty()) return 0;
+        if (nums.empty())
+            return 0;
         /*动态规划*/
         const int _size = nums.size();
         int dp[_size][2][2]; //第一维代表第几项，第二维为0代表不含该项，第三维代表是否含有第一项
@@ -17,7 +20,8 @@ public:
         dp[0][0][0] = 0;
         dp[0][1][1] = nums[0];
 
-        for (int i = 1; i < _size; i++) {
+        for (int i = 1; i < _size; i++)
+        {
             dp[i][0][0] = max(dp[i - 1][0][0], dp[i - 1][1][0]);
             dp[i][0][1] = max(dp[i - 1][0][1], dp[i - 1][1][1]);
             dp[i][1][0] = dp[i - 1][0][0] + nums[i];

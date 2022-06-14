@@ -1,18 +1,23 @@
-class MedianFinder {
-private:
+class MedianFinder
+{
+  private:
     vector<int> arr;
-public:
+
+  public:
     /** initialize your data structure here. */
-    MedianFinder() {
+    MedianFinder()
+    {
         arr = vector<int>();
     }
-    
-    void addNum(int num) {
+
+    void addNum(int num)
+    {
         auto iter = lower_bound(arr.begin(), arr.end(), num);
         arr.insert(iter, num);
     }
-    
-    double findMedian() {
+
+    double findMedian()
+    {
         int len = arr.size();
         return len & 1 ? double(arr[len >> 1]) : (double(arr[(len >> 1) - 1]) + double(arr[len >> 1])) / 2;
     }

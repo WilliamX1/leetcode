@@ -1,17 +1,21 @@
-class BookMyShow {
-public:
+class BookMyShow
+{
+  public:
     vector<int64_t> counts;
     int n, m, line = 0;
-    BookMyShow(int n, int m) {
+    BookMyShow(int n, int m)
+    {
         this->n = n;
         this->m = m;
         counts = vector<int64_t>(n, m);
     }
-    
-    vector<int> gather(int k, int maxRow) {
+
+    vector<int> gather(int k, int maxRow)
+    {
         vector<int> v;
         for (int i = line; i <= maxRow; i++)
-            if (counts[i] >= k) {
+            if (counts[i] >= k)
+            {
                 v.push_back(i);
                 v.push_back(m - counts[i]);
                 counts[i] -= k;
@@ -19,28 +23,36 @@ public:
             };
         return v;
     }
-    
-    bool scatter(int k, int maxRow) {
+
+    bool scatter(int k, int maxRow)
+    {
         int64_t tot = 0;
-        for (int i = line; i <= maxRow; i++) 
+        for (int i = line; i <= maxRow; i++)
             tot += counts[i];
-        
+
         // cout << tot << endl;
-        if (tot >= (int64_t) k) {
-            for (int i = 0; i <= maxRow; i++) {
-                if (counts[i] < k) {
+        if (tot >= (int64_t)k)
+        {
+            for (int i = 0; i <= maxRow; i++)
+            {
+                if (counts[i] < k)
+                {
                     k -= counts[i];
                     counts[i] = 0;
-                } else {
+                }
+                else
+                {
                     counts[i] -= k;
                     line = max(line, i);
-                    if (counts[i] == 0) 
+                    if (counts[i] == 0)
                         line++;
                     break;
                 };
             };
             return true;
-        } else return false;
+        }
+        else
+            return false;
     }
 };
 

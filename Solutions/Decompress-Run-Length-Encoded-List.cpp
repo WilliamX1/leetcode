@@ -6,16 +6,20 @@
 
 using namespace std;
 
-class Solution{
-public:
-  vector<int> decompressRLElist(vector<int>& nums){
-    vector<int> ans;
-    int len = nums.size();
-    for (int i = 0; i < len; i += 2) {
-      for (int j = 0; j < nums[i]; j++) {
-          ans.push_back(nums[i + 1]);
-      };
+class Solution
+{
+  public:
+    vector<int> decompressRLElist(vector<int> &nums)
+    {
+        vector<int> ans;
+        int len = nums.size();
+        for (int i = 0; i < len; i += 2)
+        {
+            for (int j = 0; j < nums[i]; j++)
+            {
+                ans.push_back(nums[i + 1]);
+            };
+        };
+        return ans;
     };
-    return ans;
-  };
 };

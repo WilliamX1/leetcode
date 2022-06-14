@@ -1,18 +1,23 @@
-class CountIntervals {
+class CountIntervals
+{
     typedef pair<int, int> pii;
 
     int ans = 0;
     set<pii> st;
 
-public:
-    CountIntervals() {
+  public:
+    CountIntervals()
+    {
     }
-    
-    void add(int left, int right) {
+
+    void add(int left, int right)
+    {
         int L = left, R = right;
         auto it = st.lower_bound(pii(left - 1, -2e9));
-        while (it != st.end()) {
-            if (it->second > right + 1) break;
+        while (it != st.end())
+        {
+            if (it->second > right + 1)
+                break;
             L = min(L, it->second);
             R = max(R, it->first);
             ans -= it->first - it->second + 1;
@@ -21,8 +26,9 @@ public:
         ans += R - L + 1;
         st.insert(pii(R, L));
     }
-    
-    int count() {
+
+    int count()
+    {
         return ans;
     }
 };

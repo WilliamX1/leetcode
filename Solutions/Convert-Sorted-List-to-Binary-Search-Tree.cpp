@@ -19,18 +19,24 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-private:
-    TreeNode* _sortedListToBST(vector<int> arr, int l, int r) {
-        if (l > r) return nullptr;
+class Solution
+{
+  private:
+    TreeNode *_sortedListToBST(vector<int> arr, int l, int r)
+    {
+        if (l > r)
+            return nullptr;
         int m = (l + r) >> 1;
         return new TreeNode(arr[m], _sortedListToBST(arr, l, m - 1), _sortedListToBST(arr, m + 1, r));
     };
-public:
-    TreeNode* sortedListToBST(ListNode* head) {
-        ListNode* ptr = head;
+
+  public:
+    TreeNode *sortedListToBST(ListNode *head)
+    {
+        ListNode *ptr = head;
         vector<int> arr;
-        while (ptr) {
+        while (ptr)
+        {
             arr.push_back(ptr->val);
             ptr = ptr->next;
         };

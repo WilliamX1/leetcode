@@ -9,25 +9,31 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class CBTInserter {
-public:
-    TreeNode* rt;
-    CBTInserter(TreeNode* root) {
+class CBTInserter
+{
+  public:
+    TreeNode *rt;
+    CBTInserter(TreeNode *root)
+    {
         rt = root;
     };
-    
-    int insert(int val) {
-        deque<TreeNode*> dq;
+
+    int insert(int val)
+    {
+        deque<TreeNode *> dq;
         dq.push_back(rt);
 
-        while (!dq.empty()) {
-            TreeNode* front = dq.front();
+        while (!dq.empty())
+        {
+            TreeNode *front = dq.front();
             dq.pop_front();
-            if (front->left == nullptr) {
+            if (front->left == nullptr)
+            {
                 front->left = new TreeNode(val);
                 return front->val;
             };
-            if (front->right == nullptr) {
+            if (front->right == nullptr)
+            {
                 front->right = new TreeNode(val);
                 return front->val;
             };
@@ -36,8 +42,9 @@ public:
         };
         return -1;
     };
-    
-    TreeNode* get_root() {
+
+    TreeNode *get_root()
+    {
         return rt;
     }
 };

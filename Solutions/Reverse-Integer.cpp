@@ -2,17 +2,21 @@
 
 using namespace std;
 
-class Solution {
-public:
-    int reverse(int x) {
-        if (!x) return 0;
+class Solution
+{
+  public:
+    int reverse(int x)
+    {
+        if (!x)
+            return 0;
 
         int sign = x >= 0 ? 1 : -1;
         string num = "";
 
         x = abs(x);
-        while (x > 0) {
-            num = num + char (x % 10 + '0');
+        while (x > 0)
+        {
+            num = num + char(x % 10 + '0');
             x /= 10;
         };
 

@@ -1,12 +1,14 @@
-#include <vector>
-#include <set>
 #include <algorithm>
+#include <set>
+#include <vector>
 
 using namespace std;
 
-class Solution {
-public:
-    int removeDuplicates(vector<int>& nums) {
+class Solution
+{
+  public:
+    int removeDuplicates(vector<int> &nums)
+    {
         /*简单移除每一个重复元素*/
         // if (!nums.empty()) {
         //     int prev = nums.front();
@@ -43,11 +45,15 @@ public:
         // return nums.size();
         /*双指针*/
         int _size = nums.size();
-        if (_size == 0) return 0;
-        else {
+        if (_size == 0)
+            return 0;
+        else
+        {
             int fast = 1, slow = 1;
-            while (fast < _size) {
-                if (nums[fast] != nums[fast - 1]) {
+            while (fast < _size)
+            {
+                if (nums[fast] != nums[fast - 1])
+                {
                     nums[slow] = nums[fast];
                     ++slow;
                 }

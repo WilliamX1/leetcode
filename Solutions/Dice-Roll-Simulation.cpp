@@ -2,9 +2,11 @@
 
 using namespace std;
 
-class Solution {
-public:
-    int dieSimulator(int n, vector<int>& rollMax) {
+class Solution
+{
+  public:
+    int dieSimulator(int n, vector<int> &rollMax)
+    {
         int64_t mod = 1e9 + 7;
         int up = *max_element(rollMax.begin(), rollMax.end());
         vector<vector<vector<int64_t>>> dp(n, vector<vector<int64_t>>(7, vector<int64_t>(up + 1, 0)));
@@ -17,9 +19,11 @@ public:
                 for (int k = 1; k <= rollMax[j - 1]; k++)
                 {
                     dp[i][j][k] = dp[i - 1][j][k - 1];
-                    if (k == 1) {
+                    if (k == 1)
+                    {
                         for (int s = 1; s <= 6; s++)
-                            if (s != j) {
+                            if (s != j)
+                            {
                                 for (int m = 1; m <= up; m++)
                                     dp[i][j][k] = (dp[i][j][k] + dp[i - 1][s][m]) % mod;
                             };
@@ -35,7 +39,7 @@ public:
             };
             cout << endl;
         };
-                
+
         return ans;
     }
 };

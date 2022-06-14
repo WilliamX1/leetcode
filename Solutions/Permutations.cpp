@@ -2,14 +2,18 @@
 
 using namespace std;
 
-class Solution {
-public:
+class Solution
+{
+  public:
     vector<vector<int>> res;
-    void get(vector<int> cur, set<int> wait) {
-        if (wait.empty()) {
+    void get(vector<int> cur, set<int> wait)
+    {
+        if (wait.empty())
+        {
             res.push_back(cur);
         }
-        for (auto wait_element : wait) {
+        for (auto wait_element : wait)
+        {
             vector<int> next_cur = cur;
             next_cur.push_back(wait_element);
             set<int> wait_cur = wait;
@@ -17,10 +21,12 @@ public:
             get(next_cur, wait_cur);
         }
     }
-    vector<vector<int>> permute(vector<int>& nums) {
+    vector<vector<int>> permute(vector<int> &nums)
+    {
         vector<int> cur;
         set<int> wait;
-        for (auto nums_element : nums) {
+        for (auto nums_element : nums)
+        {
             wait.insert(nums_element);
         };
         get(cur, wait);

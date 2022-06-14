@@ -2,9 +2,11 @@
 
 using namespace std;
 
-class Solution {
-public:
-    int candy(vector<int>& ratings) {
+class Solution
+{
+  public:
+    int candy(vector<int> &ratings)
+    {
         int n = ratings.size();
         vector<int> dpleft(n, 0), dpright(n, 0);
         dpleft[0] = dpright[n - 1] = 1;

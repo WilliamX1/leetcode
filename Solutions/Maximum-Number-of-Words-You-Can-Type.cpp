@@ -1,8 +1,11 @@
-class Solution {
-public:
-    int canBeTypedWords(string text, string brokenLetters) {
+class Solution
+{
+  public:
+    int canBeTypedWords(string text, string brokenLetters)
+    {
         vector<bool> flag(26, 1);
-        for (auto ch : brokenLetters) flag[ch - 'a'] = false;
+        for (auto ch : brokenLetters)
+            flag[ch - 'a'] = false;
 
         int ans = 0;
         text = text + ' ';
@@ -10,10 +13,10 @@ public:
         {
             string word = text.substr(0, text.find_first_of(' '));
             bool f = true;
-            for (auto ch : word) 
+            for (auto ch : word)
                 if (!flag[ch - 'a'])
                 {
-                    f = false; 
+                    f = false;
                     break;
                 };
 
