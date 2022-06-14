@@ -836,6 +836,15 @@
 | 736 | [网格中的最小路径代价 - Minimum Path Cost in a Grid](https://leetcode.cn/problems/minimum-path-cost-in-a-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Path-Cost-in-a-Grid.cpp) | Middle | 2022.6.12 |
 | 737 | [公平分发饼干 - Fair Distribution of Cookies](https://leetcode.cn/problems/fair-distribution-of-cookies/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Fair-Distribution-of-Cookies.cpp) | Middle | 2022.6.12 |
 | 738 | [公司命名 - Naming a Company](https://leetcode.cn/problems/naming-a-company/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Naming-a-Company.cpp) | Hard | 2022.6.12 |
+| 739 | [分割字符串的最大得分 - Maximum Score After Splitting a String](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Score-After-Splitting-a-String.cpp) | Easy | 2022.6.14 |
+| 740 | [可获得的最大点数 - Maximum Points You Can Obtain from Cards](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Points-You-Can-Obtain-from-Cards.cpp) | Middle | 2022.6.14 |
+| 741 | [对角线遍历 II - Diagonal Traverse II](https://leetcode.cn/problems/diagonal-traverse-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Diagonal-Traverse-II.cpp) | Middle | 2022.6.14 |
+| 742 | [带限制的子序列和 - Constrained Subsequence Sum](https://leetcode.cn/problems/constrained-subsequence-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Constrained-Subsequence-Sum.cpp) | Hard | 2022.6.14 |
+
+
+
+
+
 
 
 
