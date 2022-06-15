@@ -840,6 +840,11 @@
 | 740 | [可获得的最大点数 - Maximum Points You Can Obtain from Cards](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Points-You-Can-Obtain-from-Cards.cpp) | Middle | 2022.6.14 |
 | 741 | [对角线遍历 II - Diagonal Traverse II](https://leetcode.cn/problems/diagonal-traverse-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Diagonal-Traverse-II.cpp) | Middle | 2022.6.14 |
 | 742 | [带限制的子序列和 - Constrained Subsequence Sum](https://leetcode.cn/problems/constrained-subsequence-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Constrained-Subsequence-Sum.cpp) | Hard | 2022.6.14 |
+| 743 | [缀点成线 - Check If It Is a Straight Line](https://leetcode.cn/problems/check-if-it-is-a-straight-line/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-If-It-Is-a-Straight-Line.cpp) | Easy | 2022.6.15 |
+| 744 | [删除子文件夹 - Remove Sub-Folders from the Filesystem](https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Sub-Folders-from-the-Filesystem.cpp) | Middle | 2022.6.15 |
+| 745 | [替换子串得到平衡字符串 - Replace the Substring for Balanced String](https://leetcode.cn/problems/replace-the-substring-for-balanced-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-the-Substring-for-Balanced-String.cpp) | Middle | 2022.6.15 |
+| 746 | [规划兼职工作 - Maximum Profit in Job Scheduling](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Profit-in-Job-Scheduling.cpp) | Hard | 2022.6.15 |
+
 
 
 
