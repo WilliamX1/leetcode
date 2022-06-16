@@ -844,6 +844,9 @@
 | 744 | [删除子文件夹 - Remove Sub-Folders from the Filesystem](https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Sub-Folders-from-the-Filesystem.cpp) | Middle | 2022.6.15 |
 | 745 | [替换子串得到平衡字符串 - Replace the Substring for Balanced String](https://leetcode.cn/problems/replace-the-substring-for-balanced-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-the-Substring-for-Balanced-String.cpp) | Middle | 2022.6.15 |
 | 746 | [规划兼职工作 - Maximum Profit in Job Scheduling](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Profit-in-Job-Scheduling.cpp) | Hard | 2022.6.15 |
+| 747 | [句子中的有效单词数 - Number of Valid Words in a Sentence](https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Valid-Words-in-a-Sentence.cpp) | Easy | 2022.6.16 |
+| 748 | [下一个更大的数值平衡数 - Next Greater Numerically Balanced Number](https://leetcode.cn/problems/next-greater-numerically-balanced-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Next-Greater-Numerically-Balanced-Number.cpp) | Middle | 2022.6.16 |
+| 749 | [并行课程 III - Parallel Courses III](https://leetcode.cn/problems/parallel-courses-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Parallel-Courses-III.cpp) | Hard | 2022.6.16 |
 
 
 
