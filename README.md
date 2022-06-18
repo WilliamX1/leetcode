@@ -849,6 +849,8 @@
 | 749 | [并行课程 III - Parallel Courses III](https://leetcode.cn/problems/parallel-courses-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Parallel-Courses-III.cpp) | Hard | 2022.6.16 |
 | 750 | [矩形重叠 - Rectangle Overlap](https://leetcode.cn/problems/rectangle-overlap/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Rectangle-Overlap.cpp) | Easy | 2022.6.17 |
 | 751 | [直线上最多的点数 - Max Points on a Line](https://leetcode.cn/problems/max-points-on-a-line/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Max-Points-on-a-Line.cpp) | Hard | 2022.6.17 |
+| 752 | [统计子岛屿 - Count Sub Islands](https://leetcode.cn/problems/count-sub-islands/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Sub-Islands.cpp) | Middle | 2022.6.17 |
+| 753 | [考试的最大困扰度 - Maximize the Confusion of an Exam](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximize-the-Confusion-of-an-Exam.cpp) | Middle | 2022.6.17 |
 
 
 
