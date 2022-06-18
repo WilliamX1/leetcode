@@ -855,7 +855,10 @@
 | 755 | [两棵二叉搜索树中的所有元素 - All Elements in Two Binary Search Trees](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/All-Elements-in-Two-Binary-Search-Trees.cpp) | Middle | 2022.6.18 |
 | 756 | [跳跃游戏 III - Jump Game III 显示](https://leetcode.cn/problems/jump-game-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Jump-Game-III.cpp) | Middle | 2022.6.18 |
 | 757 | [口算难题 - Verbal Arithmetic Puzzle](https://leetcode.cn/problems/verbal-arithmetic-puzzle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Verbal-Arithmetic-Puzzle.cpp) | Hard | 2022.6.18 |
-
+| 758 | [找出到每个位置为止最长的有效障碍赛跑路线 - Find the Longest Valid Obstacle Course at Each Position](https://leetcode.cn/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Longest-Valid-Obstacle-Course-at-Each-Position.cpp) | Hard | 2022.6.18 |
+| 759 | [切棍子的最小成本 - Minimum Cost to Cut a Stick](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Cut-a-Stick.cpp) | Hard | 2022.6.18 |
+| 760 | [到达角落需要移除障碍物的最小数目 - Minimum Obstacle Removal to Reach Corner](https://leetcode.cn/problems/minimum-obstacle-removal-to-reach-corner/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Obstacle-Removal-to-Reach-Corner.cpp) | Hard | 2022.6.18 |
+| 761 | [规定时间内到达终点的最小花费 - Minimum Cost to Reach Destination in Time](https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Reach-Destination-in-Time.cpp) | Hard | 2022.6.18 |
 
 
 
