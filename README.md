@@ -863,7 +863,11 @@
 | 763 | [个位数字为 K 的整数之和 - Sum of Numbers With Units Digit K](https://leetcode.cn/problems/sum-of-numbers-with-units-digit-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Numbers-With-Units-Digit-K.cpp) | Middle | 2022.6.19 |
 | 764 | [小于等于 K 的最长二进制子序列 - Longest Binary Subsequence Less Than or Equal to K](https://leetcode.cn/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Binary-Subsequence-Less-Than-or-Equal-to-K.cpp) | Middle | 2022.6.19 |
 | 765 | [卖木头块 - Selling Pieces of Wood](https://leetcode.cn/problems/selling-pieces-of-wood/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Selling-Pieces-of-Wood.cpp) | Hard | 2022.6.19 |
-
+| 766 | [顺丰01. 顺丰鄂州枢纽运转中心环线检测](https://leetcode.cn/contest/sf-tech/problems/EUpcmh/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/顺丰01-顺丰鄂州枢纽运转中心环线检测.py) | Middle | 2022.6.19 |
+| 767 | [顺丰02. 小哥派件装载问题](https://leetcode.cn/contest/sf-tech/problems/cINqyA/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/顺丰02-小哥派件装载问题.cpp) | Middle | 2022.6.19 |
+| 768 | [顺丰03. 收件节节高](https://leetcode.cn/contest/sf-tech/problems/8oimK4/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/顺丰03-收件节节高.cpp) | Easy | 2022.6.19 |
+| 769 | [顺丰04. 顺丰中转场车辆入场识别-电子围栏](https://leetcode.cn/contest/sf-tech/problems/uWWzsv/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/顺丰04-顺丰中转场车辆入场识别-电子围栏.cpp) | Middle | 2022.6.19 |
+| 770 | [顺丰05. 慧眼神瞳](https://leetcode.cn/contest/sf-tech/problems/BN8jAm/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/顺丰05-慧眼神瞳.cpp) | Middle | 2022.6.19 |
 
 
 
