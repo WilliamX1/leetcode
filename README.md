@@ -859,7 +859,10 @@
 | 759 | [切棍子的最小成本 - Minimum Cost to Cut a Stick](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Cut-a-Stick.cpp) | Hard | 2022.6.18 |
 | 760 | [到达角落需要移除障碍物的最小数目 - Minimum Obstacle Removal to Reach Corner](https://leetcode.cn/problems/minimum-obstacle-removal-to-reach-corner/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Obstacle-Removal-to-Reach-Corner.cpp) | Hard | 2022.6.18 |
 | 761 | [规定时间内到达终点的最小花费 - Minimum Cost to Reach Destination in Time](https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Reach-Destination-in-Time.cpp) | Hard | 2022.6.18 |
-
+| 762 | [兼具大小写的最好英文字母 - Greatest English Letter in Upper and Lower Case](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Greatest-English-Letter-in-Upper-and-Lower-Case.cpp) | Easy | 2022.6.19 |
+| 763 | [个位数字为 K 的整数之和 - Sum of Numbers With Units Digit K](https://leetcode.cn/problems/sum-of-numbers-with-units-digit-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Numbers-With-Units-Digit-K.cpp) | Middle | 2022.6.19 |
+| 764 | [小于等于 K 的最长二进制子序列 - Longest Binary Subsequence Less Than or Equal to K](https://leetcode.cn/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Binary-Subsequence-Less-Than-or-Equal-to-K.cpp) | Middle | 2022.6.19 |
+| 765 | [卖木头块 - Selling Pieces of Wood](https://leetcode.cn/problems/selling-pieces-of-wood/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Selling-Pieces-of-Wood.cpp) | Hard | 2022.6.19 |
 
 
 
