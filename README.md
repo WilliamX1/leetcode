@@ -871,6 +871,9 @@
 | 771 | [石子游戏 II - Stone Game II](https://leetcode.cn/problems/stone-game-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Stone-Game-II.cpp) | Middle | 2022.6.20 |
 | 772 | [字母板上的路径 - Alphabet Board Path](https://leetcode.cn/problems/alphabet-board-path/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Alphabet-Board-Path.cpp) | Middle | 2022.6.20 |
 | 773 | [最大的以 1 为边界的正方形 - Largest 1-Bordered Square](https://leetcode.cn/problems/largest-1-bordered-square/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-1-Bordered-Square.cpp) | Middle | 2022.6.20 |
+| 774 | [不含 AAA 或 BBB 的字符串 - String Without AAA or BBB](https://leetcode.cn/problems/string-without-aaa-or-bbb/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/String-Without-AAA-or-BBB.cpp) | Middle | 2022.6.22 |
+
+
 
 
 
