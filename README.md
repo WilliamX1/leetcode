@@ -876,6 +876,7 @@
 | 776 | [任意子数组和的绝对值的最大值 - Maximum Absolute Sum of Any Subarray](https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Absolute-Sum-of-Any-Subarray.cpp) | Middle | 2022.6.23 |
 | 777 | [删除字符串两端相同字符后的最短长度 - Minimum Length of String After Deleting Similar Ends](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Length-of-String-After-Deleting-Similar-Ends.cpp) | Middle | 2022.6.23 |
 | 778 | [最多可以参加的会议数目 II - Maximum Number of Events That Can Be Attended II](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Events-That-Can-Be-Attended-II.cpp) | Hard | 2022.6.23 |
+| 779 | [串联所有单词的子串 - Substring with Concatenation of All Words](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Substring-with-Concatenation-of-All-Words.cpp) | Hard | 2022.6.23 |
 
 
 
