@@ -872,6 +872,14 @@
 | 772 | [字母板上的路径 - Alphabet Board Path](https://leetcode.cn/problems/alphabet-board-path/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Alphabet-Board-Path.cpp) | Middle | 2022.6.20 |
 | 773 | [最大的以 1 为边界的正方形 - Largest 1-Bordered Square](https://leetcode.cn/problems/largest-1-bordered-square/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-1-Bordered-Square.cpp) | Middle | 2022.6.20 |
 | 774 | [不含 AAA 或 BBB 的字符串 - String Without AAA or BBB](https://leetcode.cn/problems/string-without-aaa-or-bbb/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/String-Without-AAA-or-BBB.cpp) | Middle | 2022.6.22 |
+| 775 | [唯一元素的和 - Sum of Unique Elements](https://leetcode.cn/problems/sum-of-unique-elements/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Unique-Elements.cpp) | Easy | 2022.6.23 |
+| 776 | [任意子数组和的绝对值的最大值 - Maximum Absolute Sum of Any Subarray](https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Absolute-Sum-of-Any-Subarray.cpp) | Middle | 2022.6.23 |
+| 777 | [删除字符串两端相同字符后的最短长度 - Minimum Length of String After Deleting Similar Ends](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Length-of-String-After-Deleting-Similar-Ends.cpp) | Middle | 2022.6.23 |
+| 778 | [最多可以参加的会议数目 II - Maximum Number of Events That Can Be Attended II](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Events-That-Can-Be-Attended-II.cpp) | Hard | 2022.6.23 |
+
+
+
+
 
 
 
