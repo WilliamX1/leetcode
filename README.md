@@ -882,6 +882,12 @@
 | 782 | [将字符串翻转到单调递增 - Flip String to Monotone Increasing](https://leetcode.cn/problems/flip-string-to-monotone-increasing/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Flip-String-to-Monotone-Increasing.cpp) | Middle | 2022.6.25 |
 | 783 | [三等分 - Three Equal Parts](https://leetcode.cn/problems/three-equal-parts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Three-Equal-Parts.cpp) | Hard | 2022.6.25 |
 | 784 | [尽量减少恶意软件的传播 II - Minimize Malware Spread II](https://leetcode.cn/problems/minimize-malware-spread-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-Malware-Spread-II.cpp) | Hard | 2022.6.25 |
+| 785 | [找到最高海拔 - Find the Highest Altitude](https://leetcode.cn/problems/find-the-highest-altitude/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Highest-Altitude.cpp) | Easy | 2022.6.25 |
+| 786 | [需要教语言的最少人数 - Minimum Number of People to Teach](https://leetcode.cn/problems/minimum-number-of-people-to-teach/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-People-to-Teach.cpp) | Middle | 2022.6.25 |
+
+
+
+
 
 
 

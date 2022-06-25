@@ -22,11 +22,3 @@ class Solution
         return perm;
     }
 };
-
-int main()
-{
-    Solution S;
-    vector<int> v = {6, 5, 4, 6};
-    S.decode(v);
-    return 0;
-}
