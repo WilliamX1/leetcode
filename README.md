@@ -884,6 +884,10 @@
 | 784 | [尽量减少恶意软件的传播 II - Minimize Malware Spread II](https://leetcode.cn/problems/minimize-malware-spread-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-Malware-Spread-II.cpp) | Hard | 2022.6.25 |
 | 785 | [找到最高海拔 - Find the Highest Altitude](https://leetcode.cn/problems/find-the-highest-altitude/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Highest-Altitude.cpp) | Easy | 2022.6.25 |
 | 786 | [需要教语言的最少人数 - Minimum Number of People to Teach](https://leetcode.cn/problems/minimum-number-of-people-to-teach/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-People-to-Teach.cpp) | Middle | 2022.6.25 |
+| 787 | [统计星号 - Count Asterisks](https://leetcode.cn/problems/count-asterisks/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Asterisks.cpp) | Easy | 2022.6.25 |
+| 788 | [统计无向图中无法互相到达点对数 - Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.cpp) | Middle | 2022.6.25 |
+| 789 | [操作后的最大异或和 - Maximum XOR After Operations](https://leetcode.cn/problems/maximum-xor-after-operations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-XOR-After-Operations.cpp) | Middle | 2022.6.25 |
+| 790 | [不同骰子序列的数目 - Number of Distinct Roll Sequences](https://leetcode.cn/problems/number-of-distinct-roll-sequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Distinct-Roll-Sequences.cpp) | Hard | 2022.6.25 |
 
 
 
