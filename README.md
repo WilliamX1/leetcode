@@ -878,6 +878,10 @@
 | 778 | [最多可以参加的会议数目 II - Maximum Number of Events That Can Be Attended II](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Events-That-Can-Be-Attended-II.cpp) | Hard | 2022.6.23 |
 | 779 | [串联所有单词的子串 - Substring with Concatenation of All Words](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Substring-with-Concatenation-of-All-Words.cpp) | Hard | 2022.6.23 |
 | 780 | [将字符串拆分为递减的连续值 - Splitting a String Into Descending Consecutive Values](https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Splitting-a-String-Into-Descending-Consecutive-Values.cpp) | Middle | 2022.6.23 |
+| 781 | [长按键入 - Long Pressed Name](https://leetcode.cn/problems/long-pressed-name/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Long-Pressed-Name.cpp) | Easy | 2022.6.25 |
+| 782 | [将字符串翻转到单调递增 - Flip String to Monotone Increasing](https://leetcode.cn/problems/flip-string-to-monotone-increasing/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Flip-String-to-Monotone-Increasing.cpp) | Middle | 2022.6.25 |
+| 783 | [三等分 - Three Equal Parts](https://leetcode.cn/problems/three-equal-parts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Three-Equal-Parts.cpp) | Hard | 2022.6.25 |
+| 784 | [尽量减少恶意软件的传播 II - Minimize Malware Spread II](https://leetcode.cn/problems/minimize-malware-spread-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-Malware-Spread-II.cpp) | Hard | 2022.6.25 |
 
 
 
