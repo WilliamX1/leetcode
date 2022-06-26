@@ -888,6 +888,10 @@
 | 788 | [统计无向图中无法互相到达点对数 - Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.cpp) | Middle | 2022.6.25 |
 | 789 | [操作后的最大异或和 - Maximum XOR After Operations](https://leetcode.cn/problems/maximum-xor-after-operations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-XOR-After-Operations.cpp) | Middle | 2022.6.25 |
 | 790 | [不同骰子序列的数目 - Number of Distinct Roll Sequences](https://leetcode.cn/problems/number-of-distinct-roll-sequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Distinct-Roll-Sequences.cpp) | Hard | 2022.6.25 |
+| 791 | [判断矩阵是否是一个 X 矩阵 - Check if Matrix Is X-Matrix](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Matrix-Is-X-Matrix.cpp) | Easy | 2022.6.26 |
+| 792 | [统计放置房子的方式数 - Count Number of Ways to Place Houses](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Ways-to-Place-Houses.cpp) | Middle | 2022.6.26 |
+| 793 | [拼接数组的最大分数 - Maximum Score Of Spliced Array](https://leetcode.cn/problems/maximum-score-of-spliced-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Score-Of-Spliced-Array.cpp) | Hard | 2022.6.26 |
+| 794 | [从树中删除边的最小分数 - Minimum Score After Removals on a Tree](https://leetcode.cn/problems/minimum-score-after-removals-on-a-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Score-After-Removals-on-a-Tree.cpp) | Hard | 2022.6.26 |
 
 
 
