@@ -892,6 +892,10 @@
 | 792 | [统计放置房子的方式数 - Count Number of Ways to Place Houses](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Ways-to-Place-Houses.cpp) | Middle | 2022.6.26 |
 | 793 | [拼接数组的最大分数 - Maximum Score Of Spliced Array](https://leetcode.cn/problems/maximum-score-of-spliced-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Score-Of-Spliced-Array.cpp) | Hard | 2022.6.26 |
 | 794 | [从树中删除边的最小分数 - Minimum Score After Removals on a Tree](https://leetcode.cn/problems/minimum-score-after-removals-on-a-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Score-After-Removals-on-a-Tree.cpp) | Hard | 2022.6.26 |
+| 795 | [机器人大冒险 - Programmable Robot](https://leetcode.cn/problems/programmable-robot/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Programmable-Robot.cpp) | Middle | 2022.6.27 |
+| 796 | [覆盖 - Broken Board Dominoes](https://leetcode.cn/problems/broken-board-dominoes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Broken-Board-Dominoes.cpp) | Hard | 2022.6.27 |
+| 797 | [统计参与通信的服务器 - Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Servers-that-Communicate.cpp) | Middle | 2022.6.27 |
+| 798 | [搜索推荐系统 - Search Suggestions System](https://leetcode.cn/problems/search-suggestions-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Search-Suggestions-System.cpp) | Middle | 2022.6.27 |
 
 
 

@@ -14,10 +14,17 @@ class Solution
             edge_cnts[e[0]][e[1]]++;
         };
 
-        vector<int> v;
+        map<int, int> v;
         for (auto iter : counts)
-            v.push_back(iter.second);
-        sort(v.begin(), v.end());
+            v[iter.second]++;
+
+        unordered_map<int, int> countcount;
+        int last = 0;
+        for (auto iter : v)
+        {
+            countcount[iter.first] = last;
+            last += iter.second;
+        };
 
         vector<int> answer(queries.size());
         unordered_map<int, int> ans;
@@ -30,12 +37,12 @@ class Solution
                 continue;
             };
 
-            for (int i = 0; i < v.size(); i++)
+            for (auto iter : v)
             {
-                if (v[i] > cnt)
-                    answer[k] += 2 * (n - v.size());
-                int j = v.size() - (upper_bound(v.begin(), v.end(), cnt - v[i]) - v.begin());
-                answer[k] += j - (2 * v[i] > cnt);
+                if (iter.first > cnt)
+                    answer[k] += (2 * (n - v.size())) * iter.second;
+                int j = v.size() - (countcount[v.upper_bound(cnt - iter.first)->first]);
+                answer[k] += (j - (2 * iter.first > cnt)) * iter.second;
             };
             answer[k] >>= 1;
 
