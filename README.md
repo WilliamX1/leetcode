@@ -896,6 +896,10 @@
 | 796 | [覆盖 - Broken Board Dominoes](https://leetcode.cn/problems/broken-board-dominoes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Broken-Board-Dominoes.cpp) | Hard | 2022.6.27 |
 | 797 | [统计参与通信的服务器 - Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Servers-that-Communicate.cpp) | Middle | 2022.6.27 |
 | 798 | [搜索推荐系统 - Search Suggestions System](https://leetcode.cn/problems/search-suggestions-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Search-Suggestions-System.cpp) | Middle | 2022.6.27 |
+| 799 | [三维形体的表面积 - Surface Area of 3D Shapes](https://leetcode.cn/problems/surface-area-of-3d-shapes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Surface-Area-of-3D-Shapes.cpp) | Easy | 2022.6.28 |
+| 800 | [特殊等价字符串组 - Groups of Special-Equivalent Strings](https://leetcode.cn/problems/groups-of-special-equivalent-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Groups-of-Special-Equivalent-Strings.cpp) | Middle | 2022.6.28 |
+| 801 | [所有可能的满二叉树 - All Possible Full Binary Trees](https://leetcode.cn/problems/all-possible-full-binary-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/All-Possible-Full-Binary-Trees.cpp) | Middle | 2022.6.28 |
+| 802 | [最大频率栈 - Maximum Frequency Stack](https://leetcode.cn/problems/all-possible-full-binary-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Frequency-Stack.cpp) | Hard | 2022.6.28 |
 
 
 
