@@ -900,6 +900,12 @@
 | 800 | [特殊等价字符串组 - Groups of Special-Equivalent Strings](https://leetcode.cn/problems/groups-of-special-equivalent-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Groups-of-Special-Equivalent-Strings.cpp) | Middle | 2022.6.28 |
 | 801 | [所有可能的满二叉树 - All Possible Full Binary Trees](https://leetcode.cn/problems/all-possible-full-binary-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/All-Possible-Full-Binary-Trees.cpp) | Middle | 2022.6.28 |
 | 802 | [最大频率栈 - Maximum Frequency Stack](https://leetcode.cn/problems/all-possible-full-binary-trees/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Frequency-Stack.cpp) | Hard | 2022.6.28 |
+| 803 | [统计字符串中的元音子字符串 - Count Vowel Substrings of a String](https://leetcode.cn/problems/count-vowel-substrings-of-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Vowel-Substrings-of-a-String.cpp) | Easy | 2022.6.29 |
+| 804 | [所有子字符串中的元音 - Vowels of All Substrings](https://leetcode.cn/problems/vowels-of-all-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Vowels-of-All-Substrings.cpp) | Middle | 2022.6.29 |
+| 805 | [分配给商店的最多商品的最小值 - Minimized Maximum of Products Distributed to Any Store](https://leetcode.cn/problems/minimized-maximum-of-products-distributed-to-any-store/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimized-Maximum-of-Products-Distributed-to-Any-Store.cpp) | Middle | 2022.6.29 |
+| 806 | [最大化一张图中的路径价值 - Maximum Path Quality of a Graph](https://leetcode.cn/problems/maximum-path-quality-of-a-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Path-Quality-of-a-Graph.cpp) | Hard | 2022.6.29 |
+
+
 
 
 
