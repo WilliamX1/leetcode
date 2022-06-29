@@ -904,6 +904,10 @@
 | 804 | [所有子字符串中的元音 - Vowels of All Substrings](https://leetcode.cn/problems/vowels-of-all-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Vowels-of-All-Substrings.cpp) | Middle | 2022.6.29 |
 | 805 | [分配给商店的最多商品的最小值 - Minimized Maximum of Products Distributed to Any Store](https://leetcode.cn/problems/minimized-maximum-of-products-distributed-to-any-store/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimized-Maximum-of-Products-Distributed-to-Any-Store.cpp) | Middle | 2022.6.29 |
 | 806 | [最大化一张图中的路径价值 - Maximum Path Quality of a Graph](https://leetcode.cn/problems/maximum-path-quality-of-a-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Path-Quality-of-a-Graph.cpp) | Hard | 2022.6.29 |
+| 807 | [找出数组排序后的目标下标 - Find Target Indices After Sorting Array](https://leetcode.cn/problems/find-target-indices-after-sorting-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Target-Indices-After-Sorting-Array.cpp) | Easy | 2022.6.29 |
+| 808 | [半径为 k 的子数组平均值 - K Radius Subarray Averages](https://leetcode.cn/problems/k-radius-subarray-averages/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/K-Radius-Subarray-Averages.cpp) | Middle | 2022.6.29 |
+| 809 | [从数组中移除最大值和最小值 - Removing Minimum and Maximum From Array](https://leetcode.cn/problems/removing-minimum-and-maximum-from-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Removing-Minimum-and-Maximum-From-Array.cpp) | Middle | 2022.6.29 |
+| 810 | [找出知晓秘密的所有专家 - Find All People With Secret](https://leetcode.cn/problems/find-all-people-with-secret/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-All-People-With-Secret.cpp) | Hard | 2022.6.29 |
 
 
 
