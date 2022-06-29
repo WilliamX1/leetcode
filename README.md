@@ -908,6 +908,9 @@
 | 808 | [半径为 k 的子数组平均值 - K Radius Subarray Averages](https://leetcode.cn/problems/k-radius-subarray-averages/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/K-Radius-Subarray-Averages.cpp) | Middle | 2022.6.29 |
 | 809 | [从数组中移除最大值和最小值 - Removing Minimum and Maximum From Array](https://leetcode.cn/problems/removing-minimum-and-maximum-from-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Removing-Minimum-and-Maximum-From-Array.cpp) | Middle | 2022.6.29 |
 | 810 | [找出知晓秘密的所有专家 - Find All People With Secret](https://leetcode.cn/problems/find-all-people-with-secret/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-All-People-With-Secret.cpp) | Hard | 2022.6.29 |
+| 811 | [卡车上的最大单元数 - Maximum Units on a Truck](https://leetcode.cn/problems/maximum-units-on-a-truck/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Units-on-a-Truck.cpp) | Easy | 2022.6.29 |
+| 812 | [将数组分成三个子数组的方案数 - Ways to Split Array Into Three Subarrays](https://leetcode.cn/problems/ways-to-split-array-into-three-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Ways-to-Split-Array-Into-Three-Subarrays.cpp) | Middle | 2022.6.29 |
+| 813 | [得到子序列的最少操作次数 - Minimum Operations to Make a Subsequence](https://leetcode.cn/problems/minimum-operations-to-make-a-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Make-a-Subsequence.cpp) | Hard | 2022.6.29 |
 
 
 
