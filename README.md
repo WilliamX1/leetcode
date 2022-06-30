@@ -911,6 +911,10 @@
 | 811 | [卡车上的最大单元数 - Maximum Units on a Truck](https://leetcode.cn/problems/maximum-units-on-a-truck/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Units-on-a-Truck.cpp) | Easy | 2022.6.29 |
 | 812 | [将数组分成三个子数组的方案数 - Ways to Split Array Into Three Subarrays](https://leetcode.cn/problems/ways-to-split-array-into-three-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Ways-to-Split-Array-Into-Three-Subarrays.cpp) | Middle | 2022.6.29 |
 | 813 | [得到子序列的最少操作次数 - Minimum Operations to Make a Subsequence](https://leetcode.cn/problems/minimum-operations-to-make-a-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Operations-to-Make-a-Subsequence.cpp) | Hard | 2022.6.29 |
+| 814 | [两数相除 - Divide Two Integers](https://leetcode.cn/problems/divide-two-integers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Divide-Two-Integers.cpp) | Middle | 2022.6.30 |
+| 815 | [丑数 III - Ugly Number III](https://leetcode.cn/problems/ugly-number-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Ugly-Number-III.cpp) | Middle | 2022.6.30 |
+| 816 | [最大相等频率 - Maximum Equal Frequency](https://leetcode.cn/problems/maximum-equal-frequency/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Equal-Frequency.cpp) | Hard | 2022.6.30 |
+
 
 
 
