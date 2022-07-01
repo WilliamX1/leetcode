@@ -914,7 +914,12 @@
 | 814 | [两数相除 - Divide Two Integers](https://leetcode.cn/problems/divide-two-integers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Divide-Two-Integers.cpp) | Middle | 2022.6.30 |
 | 815 | [丑数 III - Ugly Number III](https://leetcode.cn/problems/ugly-number-iii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Ugly-Number-III.cpp) | Middle | 2022.6.30 |
 | 816 | [最大相等频率 - Maximum Equal Frequency](https://leetcode.cn/problems/maximum-equal-frequency/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Equal-Frequency.cpp) | Hard | 2022.6.30 |
-
+| 817 | [合并若干三元组以形成目标三元组 - Merge Triplets to Form Target Triplet](https://leetcode.cn/problems/merge-triplets-to-form-target-triplet/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-Triplets-to-Form-Target-Triplet.cpp) | Middle | 2022.7.1 |
+| 818 | [可移除字符的最大数目 - Maximum Number of Removable Characters](https://leetcode.cn/problems/maximum-number-of-removable-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Removable-Characters.cpp) | Middle | 2022.7.1 |
+| 819 | [准时抵达会议现场的最小跳过休息次数 - Minimum Skips to Arrive at Meeting On Time](https://leetcode.cn/problems/minimum-skips-to-arrive-at-meeting-on-time/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Skips-to-Arrive-at-Meeting-On-Time.cpp) | Hard | 2022.7.1 |
+| 820 | [从第一个节点出发到最后一个节点的受限路径数 - Number of Restricted Paths From First to Last Node](https://leetcode.cn/problems/number-of-restricted-paths-from-first-to-last-node/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Restricted-Paths-From-First-to-Last-Node.cpp) | Middle | 2022.7.1 |
+| 821 | [构成特定和需要添加的最少元素 - Minimum Elements to Add to Form a Given Sum](https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Elements-to-Add-to-Form-a-Given-Sum.cpp) | Middle | 2022.7.1 |
+| 822 | [检查二进制字符串字段 - Check if Binary String Has at Most One Segment of Ones](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.cpp) | Easy | 2022.7.1 |
 
 
 
