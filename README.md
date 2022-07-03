@@ -920,6 +920,12 @@
 | 820 | [从第一个节点出发到最后一个节点的受限路径数 - Number of Restricted Paths From First to Last Node](https://leetcode.cn/problems/number-of-restricted-paths-from-first-to-last-node/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Restricted-Paths-From-First-to-Last-Node.cpp) | Middle | 2022.7.1 |
 | 821 | [构成特定和需要添加的最少元素 - Minimum Elements to Add to Form a Given Sum](https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Elements-to-Add-to-Form-a-Given-Sum.cpp) | Middle | 2022.7.1 |
 | 822 | [检查二进制字符串字段 - Check if Binary String Has at Most One Segment of Ones](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.cpp) | Easy | 2022.7.1 |
+| 823 | [最低加油次数 - Minimum Number of Refueling Stops](https://leetcode.cn/problems/minimum-number-of-refueling-stops/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Refueling-Stops.cpp) | Hard | 2022.7.2 |
+| 824 | [解密消息 - Decode the Message](https://leetcode.cn/problems/decode-the-message/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Decode-the-Message.cpp) | Easy | 2022.7.3 |
+| 825 | [螺旋矩阵 IV - Spiral Matrix IV](https://leetcode.cn/problems/spiral-matrix-iv/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Spiral-Matrix-IV.cpp) | Middle | 2022.7.3 |
+| 826 | [知道秘密的人数 - Number of People Aware of a Secret](https://leetcode.cn/problems/number-of-people-aware-of-a-secret/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-People-Aware-of-a-Secret.cpp) | Middle | 2022.7.3 |
+| 827 | [网格图中递增路径的数目 - Number of Increasing Paths in a Grid](https://leetcode.cn/problems/number-of-increasing-paths-in-a-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Increasing-Paths-in-a-Grid.cpp) | Hard | 2022.7.3 |
+
 
 
 
