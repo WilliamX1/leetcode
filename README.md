@@ -1,5 +1,9 @@
 # Leetcode
 
+`2022-07-01`：guardian 成就达成。
+
+![leetcode](./README/leetcode.png)
+
 ## 剑指Offer
 
 | Cnt | Problem | Solution | Difficulty | date |
@@ -925,7 +929,6 @@
 | 825 | [螺旋矩阵 IV - Spiral Matrix IV](https://leetcode.cn/problems/spiral-matrix-iv/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Spiral-Matrix-IV.cpp) | Middle | 2022.7.3 |
 | 826 | [知道秘密的人数 - Number of People Aware of a Secret](https://leetcode.cn/problems/number-of-people-aware-of-a-secret/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-People-Aware-of-a-Secret.cpp) | Middle | 2022.7.3 |
 | 827 | [网格图中递增路径的数目 - Number of Increasing Paths in a Grid](https://leetcode.cn/problems/number-of-increasing-paths-in-a-grid/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Increasing-Paths-in-a-Grid.cpp) | Hard | 2022.7.3 |
-
 
 
 
