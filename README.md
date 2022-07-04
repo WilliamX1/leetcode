@@ -943,6 +943,7 @@
 | 835 | [删除排序链表中的重复元素 II - Remove Duplicates from Sorted List II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Duplicates-from-Sorted-List-II.cpp) | Middle | 2022.7.4 |
 | 836 | [二叉树的右视图 - Binary Tree Right Side View](https://leetcode.cn/problems/binary-tree-right-side-view/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Binary-Tree-Right-Side-View.cpp) | Middle | 2022.7.4 |
 | 837 | [组合 - Combinations](https://leetcode.cn/problems/combinations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Combinations.cpp) | Middle | 2022.7.4 |
+| 838 | [排列序列 - Permutation Sequence](https://leetcode.cn/problems/permutation-sequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Permutation-Sequence.cpp) | Hard | 2022.7.4 |
 
 
 
