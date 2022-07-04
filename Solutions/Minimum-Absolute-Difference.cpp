@@ -3,18 +3,42 @@ class Solution
   public:
     vector<vector<int>> minimumAbsDifference(vector<int> &arr)
     {
-        int n = arr.size();
-        sort(arr.begin(), arr.end());
+        int base = 1e6;
+        vector<bool> nums(2 * base + 1, false);
 
-        int x = 0x7fffffff;
-        for (int i = 0; i < n - 1; i++)
-            x = min(x, arr[i + 1] - arr[i]);
+        for (const int &num : arr)
+            nums[num + base] = true;
 
-        vector<vector<int>> ans;
-        for (int i = 0; i < n - 1; i++)
-            if (arr[i + 1] - arr[i] == x)
-                ans.push_back({arr[i], arr[i + 1]});
-        sort(ans.begin(), ans.end(), [](const vector<int> &A, const vector<int> &B) { return A[0] < B[0]; });
-        return ans;
+        vector<vector<int>> answer;
+
+        int left = 0, right, gap;
+        while (left < nums.size() && !nums[left])
+            left++;
+        right = left + 1;
+        while (right < nums.size() && !nums[right])
+            right++;
+
+        gap = right - left;
+        answer.push_back({left - base, right - base});
+
+        while (true)
+        {
+            left = right++;
+            while (right < nums.size() && !nums[right])
+                right++;
+            if (right >= nums.size())
+                break;
+            else if (right - left < gap)
+            {
+                gap = right - left;
+                answer.clear();
+                answer.push_back({left - base, right - base});
+            }
+            else if (right - left == gap)
+                answer.push_back({left - base, right - base});
+            else
+                continue;
+        };
+        return answer;
     }
 };
