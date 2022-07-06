@@ -962,6 +962,9 @@
 | 854 | [等式方程的可满足性 - Satisfiability of Equality Equations](https://leetcode.cn/problems/satisfiability-of-equality-equations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Satisfiability-of-Equality-Equations.cpp) | Middle | 2022.7.6 |
 | 855 | [坏了的计算器 - Broken Calculator](https://leetcode.cn/problems/broken-calculator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Broken-Calculator.cpp) | Middle | 2022.7.6 |
 | 856 | [K 个不同整数的子数组 - Subarrays with K Different Integers](https://leetcode.cn/problems/subarrays-with-k-different-integers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Subarrays-with-K-Different-Integers.cpp) | Hard | 2022.7.6 |
+| 857 | [查找共用字符 - Find Common Characters](https://leetcode.cn/problems/find-common-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Common-Characters.cpp) | Easy | 2022.7.6 |
+| 858 | [检查替换后的词是否有效 - Check If Word Is Valid After Substitutions](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-If-Word-Is-Valid-After-Substitutions.cpp) | Middle | 2022.7.6 |
+| 859 | [最大连续1的个数 III - Max Consecutive Ones III](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Max-Consecutive-Ones-III.cpp) | Middle | 2022.7.6 |
 
 
 
