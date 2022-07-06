@@ -952,6 +952,16 @@
 | 844 | [子集 II - Subsets II](https://leetcode.cn/problems/subsets-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Subsets-II.cpp) | Middle | 2022.7.6 |
 | 845 | [复原 IP 地址 - Restore IP Addresses](https://leetcode.cn/problems/restore-ip-addresses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Restore-IP-Addresses.cpp) | Middle | 2022.7.6 |
 | 846 | [不同的二叉搜索树 II - Unique Binary Search Trees II](https://leetcode.cn/problems/unique-binary-search-trees-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Unique-Binary-Search-Trees-II.cpp) | Middle | 2022.7.6 |
+| 847 | [找到小镇的法官 - Find the Town Judge](https://leetcode.cn/problems/find-the-town-judge/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-Town-Judge.cpp) | Easy | 2022.7.6 |
+| 848 | [可以被一步捕获的棋子数 - Available Captures for Rook](https://leetcode.cn/problems/available-captures-for-rook/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Available-Captures-for-Rook.cpp) | Easy | 2022.7.6 |
+| 849 | [最大二叉树 II - Maximum Binary Tree II](https://leetcode.cn/problems/maximum-binary-tree-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Binary-Tree-II.cpp) | Middle | 2022.7.6 |
+| 850 | [腐烂的橘子 - Rotting Oranges](https://leetcode.cn/problems/rotting-oranges/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Rotting-Oranges.cpp) | Middle | 2022.7.6 |
+| 851 | [K 连续位的最小翻转次数 - Minimum Number of K Consecutive Bit Flips](https://leetcode.cn/problems/minimum-number-of-k-consecutive-bit-flips/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-K-Consecutive-Bit-Flips.cpp) | Hard | 2022.7.6 |
+| 852 | [正方形数组的数目 - Number of Squareful Arrays](https://leetcode.cn/problems/number-of-squareful-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Squareful-Arrays.cpp) | Hard | 2022.7.6 |
+| 853 | [数组形式的整数加法 - Add to Array-Form of Integer](https://leetcode.cn/problems/add-to-array-form-of-integer/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-to-Array-Form-of-Integer.cpp) | Easy | 2022.7.6 |
+| 854 | [等式方程的可满足性 - Satisfiability of Equality Equations](https://leetcode.cn/problems/satisfiability-of-equality-equations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Satisfiability-of-Equality-Equations.cpp) | Middle | 2022.7.6 |
+| 855 | [坏了的计算器 - Broken Calculator](https://leetcode.cn/problems/broken-calculator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Broken-Calculator.cpp) | Middle | 2022.7.6 |
+| 856 | [K 个不同整数的子数组 - Subarrays with K Different Integers](https://leetcode.cn/problems/subarrays-with-k-different-integers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Subarrays-with-K-Different-Integers.cpp) | Hard | 2022.7.6 |
 
 
 
