@@ -946,6 +946,13 @@
 | 838 | [排列序列 - Permutation Sequence](https://leetcode.cn/problems/permutation-sequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Permutation-Sequence.cpp) | Hard | 2022.7.4 |
 | 839 | [插入区间 - Insert Interval](https://leetcode.cn/problems/insert-interval/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Insert-Interval.cpp) | Middle | 2022.7.4 |
 | 840 | [Pow(x, n) - Pow(x, n)](https://leetcode.cn/problems/powx-n/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Powx-n.cpp) | Middle | 2022.7.4 |
+| 841 | [简化路径 - Simplify Path](https://leetcode.cn/problems/simplify-path/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Simplify-Path.cpp) | Middle | 2022.7.6 |
+| 842 | [矩阵置零 - Set Matrix Zeroes](https://leetcode.cn/problems/set-matrix-zeroes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Set-Matrix-Zeroes.cpp) | Middle | 2022.7.6 |
+| 843 | [分隔链表 - Partition List](https://leetcode.cn/problems/partition-list/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-List.cpp) | Middle | 2022.7.6 |
+| 844 | [子集 II - Subsets II](https://leetcode.cn/problems/subsets-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Subsets-II.cpp) | Middle | 2022.7.6 |
+| 845 | [复原 IP 地址 - Restore IP Addresses](https://leetcode.cn/problems/restore-ip-addresses/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Restore-IP-Addresses.cpp) | Middle | 2022.7.6 |
+| 846 | [不同的二叉搜索树 II - Unique Binary Search Trees II](https://leetcode.cn/problems/unique-binary-search-trees-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Unique-Binary-Search-Trees-II.cpp) | Middle | 2022.7.6 |
+
 
 
 
