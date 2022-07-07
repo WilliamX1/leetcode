@@ -971,6 +971,13 @@
 | 863 | [单词替换 - Replace Words](https://leetcode.cn/problems/replace-words/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-Words.cpp) | Middle | 2022.7.7 |
 | 864 | [按字典序排在最后的子串 - Last Substring in Lexicographical Order](https://leetcode.cn/problems/last-substring-in-lexicographical-order/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Substring-in-Lexicographical-Order.cpp) | Hard | 2022.7.7 |
 | 865 | [地图分析 - As Far from Land as Possible](https://leetcode.cn/problems/as-far-from-land-as-possible/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/As-Far-from-Land-as-Possible.cpp) | Middle | 2022.7.7 |
+| 866 | [反转单词前缀 - Reverse Prefix of Word](https://leetcode.cn/problems/reverse-prefix-of-word/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-Prefix-of-Word.cpp) | Easy | 2022.7.7 |
+| 867 | [可互换矩形的组数 - Number of Pairs of Interchangeable Rectangles](https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Pairs-of-Interchangeable-Rectangles.cpp) | Middle | 2022.7.7 |
+| 868 | [两个回文子序列长度的最大乘积 - Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.cn/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences.cpp) | Middle | 2022.7.7 |
+| 869 | [每棵子树内缺失的最小基因值 - Smallest Missing Genetic Value in Each Subtree](https://leetcode.cn/problems/smallest-missing-genetic-value-in-each-subtree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Smallest-Missing-Genetic-Value-in-Each-Subtree.cpp) | Hard | 2022.7.7 |
+| 870 | [K 进制表示下的各位数字总和 - Sum of Digits in Base K](https://leetcode.cn/problems/sum-of-digits-in-base-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Digits-in-Base-K.cpp) | Easy | 2022.7.7 |
+| 871 | [最高频元素的频数 - Frequency of the Most Frequent Element](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frequency-of-the-Most-Frequent-Element.cpp) | Middle | 2022.7.7 |
+| 872 | [所有元音按顺序排布的最长子字符串 - Longest Substring Of All Vowels in Order](https://leetcode.cn/problems/longest-substring-of-all-vowels-in-order/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Substring-Of-All-Vowels-in-Order.cpp) | Middle | 2022.7.7 |
 
 
 

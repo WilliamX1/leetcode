@@ -3,29 +3,27 @@ class Solution
   public:
     int maxBuilding(int n, vector<vector<int>> &restrictions)
     {
-        restrictions.insert(restrictions.begin(), {1, 0});
-        restrictions.insert(restrictions.end(), {n, n - 1});
-
+        restrictions.push_back({1, 0});
         sort(restrictions.begin(), restrictions.end(),
              [](const vector<int> &a, const vector<int> &b) { return a[0] < b[0]; });
-
-        for (int i = 0; i < (int)restrictions.size() - 1; i++)
-        {
-            restrictions[i + 1][1] =
-                min(restrictions[i + 1][1], restrictions[i][1] + (restrictions[i + 1][0] - restrictions[i][0]));
-        };
-
-        for (int i = (int)restrictions.size() - 2; i >= 0; i--)
+        if (restrictions.back()[0] != n)
+            restrictions.push_back({n, n - 1});
+        int ans = 0, size = restrictions.size();
+        for (int i = 1; i < size; i++)
         {
             restrictions[i][1] =
-                min(restrictions[i][1], restrictions[i + 1][1] + (restrictions[i + 1][0] - restrictions[i][0]));
+                min(restrictions[i][1], restrictions[i - 1][1] + restrictions[i][0] - restrictions[i - 1][0]);
         };
 
-        int ans = 0;
-        for (int i = 0; i < (int)restrictions.size() - 1; i++)
+        for (int i = size - 2; i >= 0; i--)
+            restrictions[i][1] =
+                min(restrictions[i][1], restrictions[i + 1][1] + restrictions[i + 1][0] - restrictions[i][0]);
+
+        for (int i = 1; i < size; i++)
         {
-            ans = max(ans,
-                      (restrictions[i + 1][1] + restrictions[i][1] + restrictions[i + 1][0] - restrictions[i][0]) >> 1);
+            int cnt =
+                ((restrictions[i][0] - restrictions[i - 1][0]) - abs(restrictions[i][1] - restrictions[i - 1][1])) / 2;
+            ans = max(ans, max(restrictions[i - 1][1], restrictions[i][1]) + cnt);
         };
         return ans;
     }
