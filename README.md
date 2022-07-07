@@ -965,7 +965,12 @@
 | 857 | [查找共用字符 - Find Common Characters](https://leetcode.cn/problems/find-common-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Common-Characters.cpp) | Easy | 2022.7.6 |
 | 858 | [检查替换后的词是否有效 - Check If Word Is Valid After Substitutions](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-If-Word-Is-Valid-After-Substitutions.cpp) | Middle | 2022.7.6 |
 | 859 | [最大连续1的个数 III - Max Consecutive Ones III](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Max-Consecutive-Ones-III.cpp) | Middle | 2022.7.6 |
-
+| 860 | [被围绕的区域 - Surrounded Regions](https://leetcode.cn/problems/surrounded-regions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Surrounded-Regions.cpp) | Middle | 2022.7.7 |
+| 861 | [拼写单词 - Find Words That Can Be Formed by Characters](https://leetcode.cn/problems/find-words-that-can-be-formed-by-characters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Words-That-Can-Be-Formed-by-Characters.cpp) | Easy | 2022.7.7 |
+| 862 | [最大层内元素和 - Maximum Level Sum of a Binary Tree](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Level-Sum-of-a-Binary-Tree.cpp) | Middle | 2022.7.7 |
+| 863 | [单词替换 - Replace Words](https://leetcode.cn/problems/replace-words/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Replace-Words.cpp) | Middle | 2022.7.7 |
+| 864 | [按字典序排在最后的子串 - Last Substring in Lexicographical Order](https://leetcode.cn/problems/last-substring-in-lexicographical-order/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Last-Substring-in-Lexicographical-Order.cpp) | Hard | 2022.7.7 |
+| 865 | [地图分析 - As Far from Land as Possible](https://leetcode.cn/problems/as-far-from-land-as-possible/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/As-Far-from-Land-as-Possible.cpp) | Middle | 2022.7.7 |
 
 
 
