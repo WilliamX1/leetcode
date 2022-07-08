@@ -978,6 +978,10 @@
 | 870 | [K 进制表示下的各位数字总和 - Sum of Digits in Base K](https://leetcode.cn/problems/sum-of-digits-in-base-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Digits-in-Base-K.cpp) | Easy | 2022.7.7 |
 | 871 | [最高频元素的频数 - Frequency of the Most Frequent Element](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frequency-of-the-Most-Frequent-Element.cpp) | Middle | 2022.7.7 |
 | 872 | [所有元音按顺序排布的最长子字符串 - Longest Substring Of All Vowels in Order](https://leetcode.cn/problems/longest-substring-of-all-vowels-in-order/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Substring-Of-All-Vowels-in-Order.cpp) | Middle | 2022.7.7 |
+| 873 | [zj-future01. 信号接收](https://leetcode.cn/contest/zj-future2022/problems/WYKGLO/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/信号接收.cpp) | Easy | 2022.7.8 |
+| 874 | [zj-future02. 黑白棋游戏](https://leetcode.cn/contest/zj-future2022/problems/GVbKaI/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/黑白棋游戏.cpp) | Middle | 2022.7.8 |
+| 875 | [zj-future03. 快递中转站选址](https://leetcode.cn/contest/zj-future2022/problems/kflZMc/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/快递中转站选址.cpp) | Middle | 2022.7.8 |
+| 876 | [zj-future04. 门店商品调配](https://leetcode.cn/contest/zj-future2022/problems/NBCXIp/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/门店商品调配.cpp) | Hard | 2022.7.8 |
 
 
 
