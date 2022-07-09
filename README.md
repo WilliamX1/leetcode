@@ -982,6 +982,10 @@
 | 874 | [zj-future02. 黑白棋游戏](https://leetcode.cn/contest/zj-future2022/problems/GVbKaI/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/黑白棋游戏.cpp) | Middle | 2022.7.8 |
 | 875 | [zj-future03. 快递中转站选址](https://leetcode.cn/contest/zj-future2022/problems/kflZMc/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/快递中转站选址.cpp) | Middle | 2022.7.8 |
 | 876 | [zj-future04. 门店商品调配](https://leetcode.cn/contest/zj-future2022/problems/NBCXIp/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/门店商品调配.cpp) | Hard | 2022.7.8 |
+| 877 | [计算布尔二叉树的值 - Evaluate Boolean Binary Tree](https://leetcode.cn/problems/evaluate-boolean-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Evaluate-Boolean-Binary-Tree.cpp) | Easy | 2022.7.9 |
+| 878 | [坐上公交的最晚时间 - The Latest Time to Catch a Bus](https://leetcode.cn/problems/the-latest-time-to-catch-a-bus/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-Latest-Time-to-Catch-a-Bus.cpp) | Middle | 2022.7.9 |
+| 879 | [最小差值平方和 - Minimum Sum of Squared Difference](https://leetcode.cn/problems/minimum-sum-of-squared-difference/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Sum-of-Squared-Difference.cpp) | Middle | 2022.7.9 |
+| 880 | [元素值大于变化阈值的子数组 - Subarray With Elements Greater Than Varying Threshold](https://leetcode.cn/problems/subarray-with-elements-greater-than-varying-threshold/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Subarray-With-Elements-Greater-Than-Varying-Threshold.cpp) | Hard | 2022.7.9 |
 
 
 
