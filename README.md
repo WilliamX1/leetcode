@@ -986,6 +986,10 @@
 | 878 | [坐上公交的最晚时间 - The Latest Time to Catch a Bus](https://leetcode.cn/problems/the-latest-time-to-catch-a-bus/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-Latest-Time-to-Catch-a-Bus.cpp) | Middle | 2022.7.9 |
 | 879 | [最小差值平方和 - Minimum Sum of Squared Difference](https://leetcode.cn/problems/minimum-sum-of-squared-difference/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Sum-of-Squared-Difference.cpp) | Middle | 2022.7.9 |
 | 880 | [元素值大于变化阈值的子数组 - Subarray With Elements Greater Than Varying Threshold](https://leetcode.cn/problems/subarray-with-elements-greater-than-varying-threshold/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Subarray-With-Elements-Greater-Than-Varying-Threshold.cpp) | Hard | 2022.7.9 |
+| 881 | [装满杯子需要的最短总时长 - Minimum Amount of Time to Fill Cups](https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Amount-of-Time-to-Fill-Cups.cpp) | Easy | 2022.7.10 |
+| 882 | [无限集中的最小数字 - Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Smallest-Number-in-Infinite-Set.cpp) | Middle | 2022.7.10 |
+| 883 | [移动片段得到字符串 - Move Pieces to Obtain a String](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Move-Pieces-to-Obtain-a-String.cpp) | Middle | 2022.7.10 |
+| 884 | [统计理想数组的数目 - Count the Number of Ideal Arrays](https://leetcode.cn/problems/count-the-number-of-ideal-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-the-Number-of-Ideal-Arrays.cpp) | Hard | 2022.7.10 |
 
 
 

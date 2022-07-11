@@ -6,9 +6,9 @@ class Solution
         sort(buses.begin(), buses.end());
         sort(passengers.begin(), passengers.end());
 
-        unordered_map<int, int> flags;
+        unordered_map<int, int> passengers_time;
         for (const int &pass : passengers)
-            flags[pass] = true;
+            passengers_time[pass] = true;
 
         int bus_num = buses.size(), pass_num = passengers.size(), pass_idx = 0;
         vector<vector<int>> v(bus_num);
@@ -21,7 +21,7 @@ class Solution
         };
 
         int ans = v.back().size() < capacity ? buses.back() : v.back().back();
-        while (flags[ans])
+        while (passengers_time[ans])
             ans--;
 
         return ans;

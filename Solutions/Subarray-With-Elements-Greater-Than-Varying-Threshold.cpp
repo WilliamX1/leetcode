@@ -23,8 +23,7 @@ class Solution
         {
             int fa_x = find(x), fa_y = find(y);
             if (fa_x == fa_y)
-            {
-            }
+                return;
             else if (ranks[fa_x] >= ranks[fa_y])
             {
                 fathers[fa_y] = fa_x;
@@ -50,11 +49,7 @@ class Solution
 
         vector<vector<int>> v;
         for (int i = 0; i < n; i++)
-        {
             v.push_back({threshold / nums[i] + 1, i});
-            // cout << threshold / nums[i] + 1 << ' ';
-        };
-        // cout << endl;
 
         sort(v.begin(), v.end(), [](const vector<int> &a, const vector<int> &b) { return a[0] < b[0]; });
 

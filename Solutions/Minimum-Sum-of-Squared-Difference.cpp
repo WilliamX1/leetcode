@@ -23,11 +23,11 @@ class Solution
                 left = mid + 1;
         };
 
-        int64_t tt = 0;
+        int64_t tt = 0, upper = left;
         for (int64_t &num : v)
         {
-            tt += max(0L, num - left);
-            num = min(num, left);
+            tt += max(0L, num - upper);
+            num = min(num, upper);
         };
 
         tt = k - tt;
@@ -35,7 +35,7 @@ class Solution
         {
             if (tt == 0)
                 break;
-            else if (num && num == left)
+            else if (num && num == upper)
             {
                 num--;
                 tt--;
