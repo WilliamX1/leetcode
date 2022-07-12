@@ -990,6 +990,10 @@
 | 882 | [无限集中的最小数字 - Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Smallest-Number-in-Infinite-Set.cpp) | Middle | 2022.7.10 |
 | 883 | [移动片段得到字符串 - Move Pieces to Obtain a String](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Move-Pieces-to-Obtain-a-String.cpp) | Middle | 2022.7.10 |
 | 884 | [统计理想数组的数目 - Count the Number of Ideal Arrays](https://leetcode.cn/problems/count-the-number-of-ideal-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-the-Number-of-Ideal-Arrays.cpp) | Hard | 2022.7.10 |
+| 885 | [能否连接形成数组 - Check Array Formation Through Concatenation](https://leetcode.cn/problems/check-array-formation-through-concatenation/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-Array-Formation-Through-Concatenation.cpp) | Easy | 2022.7.12 |
+| 886 | [统计字典序元音字符串的数目 - Count Sorted Vowel Strings](https://leetcode.cn/problems/count-sorted-vowel-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Sorted-Vowel-Strings.cpp) | Middle | 2022.7.12 |
+| 887 | [可以到达的最远建筑 - Furthest Building You Can Reach](https://leetcode.cn/problems/furthest-building-you-can-reach/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Furthest-Building-You-Can-Reach.cpp) | Middle | 2022.7.12 |
+| 888 | [第 K 条最小指令 - Kth Smallest Instructions](https://leetcode.cn/problems/kth-smallest-instructions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Kth-Smallest-Instructions.cpp) | Hard | 2022.7.12 |
 
 
 
