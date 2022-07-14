@@ -994,6 +994,10 @@
 | 886 | [统计字典序元音字符串的数目 - Count Sorted Vowel Strings](https://leetcode.cn/problems/count-sorted-vowel-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Sorted-Vowel-Strings.cpp) | Middle | 2022.7.12 |
 | 887 | [可以到达的最远建筑 - Furthest Building You Can Reach](https://leetcode.cn/problems/furthest-building-you-can-reach/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Furthest-Building-You-Can-Reach.cpp) | Middle | 2022.7.12 |
 | 888 | [第 K 条最小指令 - Kth Smallest Instructions](https://leetcode.cn/problems/kth-smallest-instructions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Kth-Smallest-Instructions.cpp) | Hard | 2022.7.12 |
+| 889 | [使数组唯一的最小增量 - Minimum Increment to Make Array Unique](https://leetcode.cn/problems/minimum-increment-to-make-array-unique/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Increment-to-Make-Array-Unique.cpp) | Middle | 2022.7.14 |
+| 890 | [验证栈序列 - Validate Stack Sequences](https://leetcode.cn/problems/validate-stack-sequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Validate-Stack-Sequences.cpp) | Middle | 2022.7.14 |
+| 891 | [移除最多的同行或同列石头 - Most Stones Removed with Same Row or Column](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Stones-Removed-with-Same-Row-or-Column.cpp) | Middle | 2022.7.14 |
+| 892 | [令牌放置 - Bag of Tokens](https://leetcode.cn/problems/bag-of-tokens/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Bag-of-Tokens.cpp) | Middle | 2022.7.14 |
 
 
 
