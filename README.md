@@ -998,6 +998,8 @@
 | 890 | [验证栈序列 - Validate Stack Sequences](https://leetcode.cn/problems/validate-stack-sequences/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Validate-Stack-Sequences.cpp) | Middle | 2022.7.14 |
 | 891 | [移除最多的同行或同列石头 - Most Stones Removed with Same Row or Column](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Stones-Removed-with-Same-Row-or-Column.cpp) | Middle | 2022.7.14 |
 | 892 | [令牌放置 - Bag of Tokens](https://leetcode.cn/problems/bag-of-tokens/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Bag-of-Tokens.cpp) | Middle | 2022.7.14 |
+| 893 | [剑指 Offer II 041. 滑动窗口的平均值](https://leetcode.cn/problems/qIsx9U/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/剑指-Offer-II-041.滑动窗口的平均值.cpp) | Easy | 2022.7.16 |
+| 894 | [RLE Iterator - RLE 迭代器](https://leetcode.cn/problems/rle-iterator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/RLE-Iterator.cpp) | Middle | 2022.7.16 |
 
 
 
