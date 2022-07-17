@@ -999,7 +999,11 @@
 | 891 | [移除最多的同行或同列石头 - Most Stones Removed with Same Row or Column](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Stones-Removed-with-Same-Row-or-Column.cpp) | Middle | 2022.7.14 |
 | 892 | [令牌放置 - Bag of Tokens](https://leetcode.cn/problems/bag-of-tokens/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Bag-of-Tokens.cpp) | Middle | 2022.7.14 |
 | 893 | [剑指 Offer II 041. 滑动窗口的平均值](https://leetcode.cn/problems/qIsx9U/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/剑指-Offer-II-041.滑动窗口的平均值.cpp) | Easy | 2022.7.16 |
-| 894 | [RLE Iterator - RLE 迭代器](https://leetcode.cn/problems/rle-iterator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/RLE-Iterator.cpp) | Middle | 2022.7.16 |
+| 894 | [RLE 迭代器 - RLE Iterator](https://leetcode.cn/problems/rle-iterator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/RLE-Iterator.cpp) | Middle | 2022.7.16 |
+| 895 | [数组能形成多少数对 - Maximum Number of Pairs in Array](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Pairs-in-Array.cpp) | Easy | 2022.7.17 |
+| 896 | [数位和相等数对的最大和 - Max Sum of a Pair With Equal Sum of Digits](https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits.cpp) | Middle | 2022.7.17 |
+| 897 | [裁剪数字后查询第 K 小的数字 - Query Kth Smallest Trimmed Number](https://leetcode.cn/problems/query-kth-smallest-trimmed-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Query-Kth-Smallest-Trimmed-Number.cpp) | Middle | 2022.7.17 |
+| 898 | [使数组可以被整除的最少删除次数 - Minimum Deletions to Make Array Divisible](https://leetcode.cn/problems/minimum-deletions-to-make-array-divisible/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Deletions-to-Make-Array-Divisible.cpp) | Hard | 2022.7.17 |
 
 
 
