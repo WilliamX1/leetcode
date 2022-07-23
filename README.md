@@ -1006,7 +1006,11 @@
 | 898 | [使数组可以被整除的最少删除次数 - Minimum Deletions to Make Array Divisible](https://leetcode.cn/problems/minimum-deletions-to-make-array-divisible/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Deletions-to-Make-Array-Divisible.cpp) | Hard | 2022.7.17 |
 | 899 | [质数排列 - Prime Arrangements](https://leetcode.cn/problems/prime-arrangements/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Prime-Arrangements.cpp) | Easy | 2022.7.23 |
 | 900 | [构建回文串检测 - Can Make Palindrome from Substring](https://leetcode.cn/problems/can-make-palindrome-from-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Can-Make-Palindrome-from-Substring.cpp) | Middle | 2022.7.23 |
-| 901 | [猜字谜 - Number of Valid Words for Each Puzzle](https://leetcode.cn/contest/weekly-contest-152/problems/number-of-valid-words-for-each-puzzle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Valid-Words-for-Each-Puzzle.cpp) | Hard | 2022.7.23 |
+| 901 | [猜字谜 - Number of Valid Words for Each Puzzle](https://leetcode.cn/problems/number-of-valid-words-for-each-puzzle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Valid-Words-for-Each-Puzzle.cpp) | Hard | 2022.7.23 |
+| 902 | [最好的扑克手牌 - Best Poker Hand](https://leetcode.cn/problems/best-poker-hand/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Best-Poker-Hand.cpp) | Easy | 2022.7.23 |
+| 903 | [全 0 子数组的数目 - Number of Zero-Filled Subarrays](https://leetcode.cn/problems/number-of-zero-filled-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Zero-Filled-Subarrays.cpp) | Middle | 2022.7.23 |
+| 904 | [设计数字容器系统 - Design a Number Container System](https://leetcode.cn/problems/design-a-number-container-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-a-Number-Container-System.cpp) | Middle | 2022.7.23 |
+| 905 | [不可能得到的最短骰子序列 - Shortest Impossible Sequence of Rolls](https://leetcode.cn/problems/shortest-impossible-sequence-of-rolls/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shortest-Impossible-Sequence-of-Rolls.cpp) | Hard | 2022.7.23 |
 
 
 
