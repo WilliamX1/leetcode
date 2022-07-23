@@ -1004,6 +1004,9 @@
 | 896 | [数位和相等数对的最大和 - Max Sum of a Pair With Equal Sum of Digits](https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits.cpp) | Middle | 2022.7.17 |
 | 897 | [裁剪数字后查询第 K 小的数字 - Query Kth Smallest Trimmed Number](https://leetcode.cn/problems/query-kth-smallest-trimmed-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Query-Kth-Smallest-Trimmed-Number.cpp) | Middle | 2022.7.17 |
 | 898 | [使数组可以被整除的最少删除次数 - Minimum Deletions to Make Array Divisible](https://leetcode.cn/problems/minimum-deletions-to-make-array-divisible/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Deletions-to-Make-Array-Divisible.cpp) | Hard | 2022.7.17 |
+| 899 | [质数排列 - Prime Arrangements](https://leetcode.cn/problems/prime-arrangements/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Prime-Arrangements.cpp) | Easy | 2022.7.23 |
+| 900 | [构建回文串检测 - Can Make Palindrome from Substring](https://leetcode.cn/problems/can-make-palindrome-from-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Can-Make-Palindrome-from-Substring.cpp) | Middle | 2022.7.23 |
+| 901 | [猜字谜 - Number of Valid Words for Each Puzzle](https://leetcode.cn/contest/weekly-contest-152/problems/number-of-valid-words-for-each-puzzle/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Valid-Words-for-Each-Puzzle.cpp) | Hard | 2022.7.23 |
 
 
 
