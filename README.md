@@ -1011,6 +1011,10 @@
 | 903 | [全 0 子数组的数目 - Number of Zero-Filled Subarrays](https://leetcode.cn/problems/number-of-zero-filled-subarrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Zero-Filled-Subarrays.cpp) | Middle | 2022.7.23 |
 | 904 | [设计数字容器系统 - Design a Number Container System](https://leetcode.cn/problems/design-a-number-container-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-a-Number-Container-System.cpp) | Middle | 2022.7.23 |
 | 905 | [不可能得到的最短骰子序列 - Shortest Impossible Sequence of Rolls](https://leetcode.cn/problems/shortest-impossible-sequence-of-rolls/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shortest-Impossible-Sequence-of-Rolls.cpp) | Hard | 2022.7.23 |
+| 906 | [第一个出现两次的字母 - First Letter to Appear Twice](https://leetcode.cn/problems/first-letter-to-appear-twice/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/First-Letter-to-Appear-Twice.cpp) | Easy | 2022.7.24 |
+| 907 | [相等行列对 - Equal Row and Column Pairs](https://leetcode.cn/problems/equal-row-and-column-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Equal-Row-and-Column-Pairs.cpp) | Middle | 2022.7.24 |
+| 908 | [设计食物评分系统 - Design a Food Rating System](https://leetcode.cn/problems/design-a-food-rating-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-a-Food-Rating-System.cpp) | Middle | 2022.7.24 |
+| 909 | [优质数对的数目 - Number of Excellent Pairs](https://leetcode.cn/problems/number-of-excellent-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Excellent-Pairs.cpp) | Hard | 2022.7.24 |
 
 
 
