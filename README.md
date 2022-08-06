@@ -1015,7 +1015,10 @@
 | 907 | [相等行列对 - Equal Row and Column Pairs](https://leetcode.cn/problems/equal-row-and-column-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Equal-Row-and-Column-Pairs.cpp) | Middle | 2022.7.24 |
 | 908 | [设计食物评分系统 - Design a Food Rating System](https://leetcode.cn/problems/design-a-food-rating-system/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-a-Food-Rating-System.cpp) | Middle | 2022.7.24 |
 | 909 | [优质数对的数目 - Number of Excellent Pairs](https://leetcode.cn/problems/number-of-excellent-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Excellent-Pairs.cpp) | Hard | 2022.7.24 |
-
+| 910 | [使数组中所有元素都等于零 - Make Array Zero by Subtracting Equal Amounts](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Make-Array-Zero-by-Subtracting-Equal-Amounts.cpp) | Easy | 2022.8.1 |
+| 911 | [分组的最大数量 - Maximum Number of Groups Entering a Competition](https://leetcode.cn/problems/maximum-number-of-groups-entering-a-competition/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Groups-Entering-a-Competition.cpp) | Middle | 2022.8.1 |
+| 912 | [找到离给定两个节点最近的节点 - Find Closest Node to Given Two Nodes](https://leetcode.cn/problems/find-closest-node-to-given-two-nodes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Closest-Node-to-Given-Two-Nodes.cpp) | Middle | 2022.8.1 |
+| 913 | [图中的最长环 - Longest Cycle in a Graph](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Cycle-in-a-Graph.cpp) | Hard | 2022.8.1 |
 
 
 
