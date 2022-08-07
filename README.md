@@ -1019,7 +1019,14 @@
 | 911 | [分组的最大数量 - Maximum Number of Groups Entering a Competition](https://leetcode.cn/problems/maximum-number-of-groups-entering-a-competition/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Groups-Entering-a-Competition.cpp) | Middle | 2022.8.1 |
 | 912 | [找到离给定两个节点最近的节点 - Find Closest Node to Given Two Nodes](https://leetcode.cn/problems/find-closest-node-to-given-two-nodes/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Closest-Node-to-Given-Two-Nodes.cpp) | Middle | 2022.8.1 |
 | 913 | [图中的最长环 - Longest Cycle in a Graph](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Cycle-in-a-Graph.cpp) | Hard | 2022.8.1 |
-
+| 914 | [合并相似的物品 - Merge Similar Items](https://leetcode.cn/problems/merge-similar-items/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Merge-Similar-Items.cpp) | Easy | 2022.8.6 |
+| 915 | [统计坏数对的数目 - Count Number of Bad Pairs](https://leetcode.cn/problems/count-number-of-bad-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Bad-Pairs.cpp) | Middle | 2022.8.6 |
+| 916 | [任务调度器 II - Task Scheduler II](https://leetcode.cn/problems/task-scheduler-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Task-Scheduler-II.cpp) | Middle | 2022.8.6 |
+| 917 | [将数组排序的最少替换次数 - Minimum Replacements to Sort the Array](https://leetcode.cn/problems/minimum-replacements-to-sort-the-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Replacements-to-Sort-the-Array.cpp) | Middle | 2022.8.6 |
+| 918 | [算术三元组的数目 - Number of Arithmetic Triplets](https://leetcode.cn/problems/number-of-arithmetic-triplets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Arithmetic-Triplets.cpp) | Easy | 2022.8.7 |
+| 919 | [受限条件下可到达节点的数目 - Reachable Nodes With Restrictions](https://leetcode.cn/problems/reachable-nodes-with-restrictions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reachable-Nodes-With-Restrictions.cpp) | Middle | 2022.8.7 |
+| 920 | [检查数组是否存在有效划分 - Check if There is a Valid Partition For The Array](https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-There-is-a-Valid-Partition-For-The-Array.cpp) | Middle | 2022.8.7 |
+| 921 | [最长理想子序列 - Longest Ideal Subsequence](https://leetcode.cn/problems/longest-ideal-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Ideal-Subsequence.cpp) | Middle | 2022.8.7 |
 
 
 
