@@ -1027,6 +1027,15 @@
 | 919 | [受限条件下可到达节点的数目 - Reachable Nodes With Restrictions](https://leetcode.cn/problems/reachable-nodes-with-restrictions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reachable-Nodes-With-Restrictions.cpp) | Middle | 2022.8.7 |
 | 920 | [检查数组是否存在有效划分 - Check if There is a Valid Partition For The Array](https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-if-There-is-a-Valid-Partition-For-The-Array.cpp) | Middle | 2022.8.7 |
 | 921 | [最长理想子序列 - Longest Ideal Subsequence](https://leetcode.cn/problems/longest-ideal-subsequence/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Ideal-Subsequence.cpp) | Middle | 2022.8.7 |
+| 922 | [1. 最小展台数量](https://leetcode.cn/contest/season/2022-fall/problems/600YaG/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/1.最小展台数量.cpp) | Easy | 2022.10.7 |
+| 923 | [2. 装饰树](https://leetcode.cn/contest/season/2022-fall/problems/KnLfVT/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/2.装饰树.cpp) | Middle | 2022.10.7 |
+| 924 | [3. 美观的花束](https://leetcode.cn/contest/season/2022-fall/problems/1GxJYY/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/3.美观的花束.cpp) | Middle | 2022.10.7 |
+| 925 | [5. 沙地治理](https://leetcode.cn/contest/season/2022-fall/problems/XxZZjK/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/5.沙地治理.cpp) | Hard | 2022.10.7 |
+| 926 | [根据模式串构造最小数字 - 2375. Construct Smallest Number From DI String](https://leetcode.cn/problems/construct-smallest-number-from-di-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Construct-Smallest-Number-From-DI-String.cpp) | Middle | 2022.10.7 |
+| 927 | [矩阵中的局部最大值 - Largest Local Values in a Matrix](https://leetcode.cn/problems/largest-local-values-in-a-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Local-Values-in-a-Matrix.cpp) | Easy | 2022.10.7 |
+| 928 | [边积分最高的节点 - Node With Highest Edge Score](https://leetcode.cn/problems/node-with-highest-edge-score/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Node-With-Highest-Edge-Score.cpp) | Middle | 2022.10.7 |
+
+
 
 
 
