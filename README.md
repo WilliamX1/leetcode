@@ -1034,6 +1034,10 @@
 | 926 | [根据模式串构造最小数字 - 2375. Construct Smallest Number From DI String](https://leetcode.cn/problems/construct-smallest-number-from-di-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Construct-Smallest-Number-From-DI-String.cpp) | Middle | 2022.10.7 |
 | 927 | [矩阵中的局部最大值 - Largest Local Values in a Matrix](https://leetcode.cn/problems/largest-local-values-in-a-matrix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Local-Values-in-a-Matrix.cpp) | Easy | 2022.10.7 |
 | 928 | [边积分最高的节点 - Node With Highest Edge Score](https://leetcode.cn/problems/node-with-highest-edge-score/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Node-With-Highest-Edge-Score.cpp) | Middle | 2022.10.7 |
+| 929 | [处理用时最长的那个任务的员工 - The Employee That Worked on the Longest Task](https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/The-Employee-That-Worked-on-the-Longest-Task.cpp) | Easy | 2022.10.9 |
+| 930 | [找出前缀异或的原始数组 - Find The Original Array of Prefix Xor](https://leetcode.cn/problems/find-the-original-array-of-prefix-xor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-The-Original-Array-of-Prefix-Xor.cpp) | Middle | 2022.10.9 |
+| 931 | [使用机器人打印字典序最小的字符串 - Using a Robot to Print the Lexicographically Smallest String](https://leetcode.cn/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Using-a-Robot-to-Print-the-Lexicographically-Smallest-String.cpp) | Middle | 2022.10.9 |
+| 932 | [矩阵中和能被 K 整除的路径 - Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.cn/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K.cpp) | Hard | 2022.10.9 |
 
 
 
