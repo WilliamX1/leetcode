@@ -1038,6 +1038,10 @@
 | 930 | [找出前缀异或的原始数组 - Find The Original Array of Prefix Xor](https://leetcode.cn/problems/find-the-original-array-of-prefix-xor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-The-Original-Array-of-Prefix-Xor.cpp) | Middle | 2022.10.9 |
 | 931 | [使用机器人打印字典序最小的字符串 - Using a Robot to Print the Lexicographically Smallest String](https://leetcode.cn/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Using-a-Robot-to-Print-the-Lexicographically-Smallest-String.cpp) | Middle | 2022.10.9 |
 | 932 | [矩阵中和能被 K 整除的路径 - Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.cn/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K.cpp) | Hard | 2022.10.9 |
+| 933 | [公因子的数目 - Number of Common Factors](https://leetcode.cn/problems/number-of-common-factors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Common-Factors.cpp) | Easy | 2022.10.10 |
+| 934 | [沙漏的最大总和 - Maximum Sum of an Hourglass](https://leetcode.cn/problems/maximum-sum-of-an-hourglass/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-of-an-Hourglass.cpp) | Middle | 2022.10.10 |
+| 935 | [最小 XOR - Minimize XOR](https://leetcode.cn/problems/minimize-xor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-XOR.cpp) | Middle | 2022.10.10 |
+| 936 | [对字母串可执行的最大删除数 - Maximum Deletions on a String](https://leetcode.cn/contest/weekly-contest-313/problems/maximum-deletions-on-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Deletions-on-a-String.cpp) | Hard | 2022.10.10 |
 
 
 
