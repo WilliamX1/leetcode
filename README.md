@@ -1042,6 +1042,7 @@
 | 934 | [沙漏的最大总和 - Maximum Sum of an Hourglass](https://leetcode.cn/problems/maximum-sum-of-an-hourglass/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-of-an-Hourglass.cpp) | Middle | 2022.10.10 |
 | 935 | [最小 XOR - Minimize XOR](https://leetcode.cn/problems/minimize-xor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-XOR.cpp) | Middle | 2022.10.10 |
 | 936 | [对字母串可执行的最大删除数 - Maximum Deletions on a String](https://leetcode.cn/contest/weekly-contest-313/problems/maximum-deletions-on-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Deletions-on-a-String.cpp) | Hard | 2022.10.10 |
+| 937 | [使序列递增的最小交换次数 - Minimum Swaps To Make Sequences Increasing](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Swaps-To-Make-Sequences-Increasing.cpp) | Hard | 2022.10.10 |
 
 
 
