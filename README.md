@@ -1043,6 +1043,9 @@
 | 935 | [最小 XOR - Minimize XOR](https://leetcode.cn/problems/minimize-xor/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-XOR.cpp) | Middle | 2022.10.10 |
 | 936 | [对字母串可执行的最大删除数 - Maximum Deletions on a String](https://leetcode.cn/contest/weekly-contest-313/problems/maximum-deletions-on-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Deletions-on-a-String.cpp) | Hard | 2022.10.10 |
 | 937 | [使序列递增的最小交换次数 - Minimum Swaps To Make Sequences Increasing](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Swaps-To-Make-Sequences-Increasing.cpp) | Hard | 2022.10.10 |
+| 938 | [删除字符使频率相同 - Remove Letter To Equalize Frequency](https://leetcode.cn/problems/remove-letter-to-equalize-frequency/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Letter-To-Equalize-Frequency.cpp) | Easy | 2022.10.11 |
+| 939 | [最长上传前缀 - Longest Uploaded Prefix](https://leetcode.cn/problems/longest-uploaded-prefix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Uploaded-Prefix.cpp) | Middle | 2022.10.11 |
+| 940 | [所有数对的异或和 - Bitwise XOR of All Pairings](https://leetcode.cn/problems/bitwise-xor-of-all-pairings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Bitwise-XOR-of-All-Pairings.cpp) | Middle | 2022.10.11 |
 
 
 
