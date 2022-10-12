@@ -1046,6 +1046,11 @@
 | 938 | [删除字符使频率相同 - Remove Letter To Equalize Frequency](https://leetcode.cn/problems/remove-letter-to-equalize-frequency/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Remove-Letter-To-Equalize-Frequency.cpp) | Easy | 2022.10.11 |
 | 939 | [最长上传前缀 - Longest Uploaded Prefix](https://leetcode.cn/problems/longest-uploaded-prefix/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Uploaded-Prefix.cpp) | Middle | 2022.10.11 |
 | 940 | [所有数对的异或和 - Bitwise XOR of All Pairings](https://leetcode.cn/problems/bitwise-xor-of-all-pairings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Bitwise-XOR-of-All-Pairings.cpp) | Middle | 2022.10.11 |
+| 941 | [题目-01 化学反应](https://leetcode.cn/contest/hhrc2022/problems/o0Ma2v/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/题目-01.化学反应.cpp) | Easy | 2022.10.12 |
+| 942 | [按身高排序 - Sort the People](https://leetcode.cn/problems/sort-the-people/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sort-the-People.cpp) | Easy | 2022.10.12 |
+| 943 | [按位与最大的最长子数组 - Longest Subarray With Maximum Bitwise AND](https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Subarray-With-Maximum-Bitwise-AND.cpp) | Middle | 2022.10.12 |
+| 944 | [找到所有好下标 - Find All Good Indices](https://leetcode.cn/problems/find-all-good-indices/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-All-Good-Indices.cpp) | Middle | 2022.10.12 |
+| 945 | [链表组件 - Linked List Components](https://leetcode.cn/problems/linked-list-components/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Components.cpp) | Middle | 2022.10.12 |
 
 
 
