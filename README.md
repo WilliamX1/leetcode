@@ -1051,6 +1051,14 @@
 | 943 | [按位与最大的最长子数组 - Longest Subarray With Maximum Bitwise AND](https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Subarray-With-Maximum-Bitwise-AND.cpp) | Middle | 2022.10.12 |
 | 944 | [找到所有好下标 - Find All Good Indices](https://leetcode.cn/problems/find-all-good-indices/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-All-Good-Indices.cpp) | Middle | 2022.10.12 |
 | 945 | [链表组件 - Linked List Components](https://leetcode.cn/problems/linked-list-components/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Linked-List-Components.cpp) | Middle | 2022.10.12 |
+| 946 | [有效时间的数目 - Number of Valid Clock Times](https://leetcode.cn/problems/number-of-valid-clock-times/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Valid-Clock-Times.cpp) | Easy | 2022.10.15 |
+| 947 | [二的幂数组中查询范围内的乘积 - Range Product Queries of Powers](https://leetcode.cn/problems/range-product-queries-of-powers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Range-Product-Queries-of-Powers.cpp) | Middle | 2022.10.15 |
+| 948 | [最小化数组中的最大值 - Minimize Maximum of Array](https://leetcode.cn/problems/minimize-maximum-of-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-Maximum-of-Array.cpp) | Middle | 2022.10.15 |
+| 949 | [创建价值相同的连通块 - Create Components With Same Value](https://leetcode.cn/problems/create-components-with-same-value/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Create-Components-With-Same-Value.cpp) | Hard | 2022.10.15 |
+| 950 | [与对应负数同时存在的最大正整数 - Largest Positive Integer That Exists With Its Negative](https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Positive-Integer-That-Exists-With-Its-Negative.cpp) | Easy | 2022.10.16 |
+| 951 | [反转之后不同整数的数目 - Count Number of Distinct Integers After Reverse Operations](https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Distinct-Integers-After-Reverse-Operations.cpp) | Middle | 2022.10.16 |
+| 952 | [反转之后的数字和 - Sum of Number and Its Reverse](https://leetcode.cn/problems/sum-of-number-and-its-reverse/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Number-and-Its-Reverse.cpp) | Middle | 2022.10.16 |
+| 953 | [统计定界子数组的数目 - Count Subarrays With Fixed Bounds](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Subarrays-With-Fixed-Bounds.cpp) | Hard | 2022.10.16 |
 
 
 
