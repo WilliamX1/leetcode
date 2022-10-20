@@ -1067,6 +1067,10 @@
 | 959 | [运动员和训练师的最大匹配数 - Maximum Matching of Players With Trainers](https://leetcode.cn/problems/maximum-matching-of-players-with-trainers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Matching-of-Players-With-Trainers.cpp) | Middle | 2022.10.19 |
 | 960 | [按位或最大的最小子数组长度 - Smallest Subarrays With Maximum Bitwise OR](https://leetcode.cn/problems/smallest-subarrays-with-maximum-bitwise-or/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Smallest-Subarrays-With-Maximum-Bitwise-OR.cpp) | Middle | 2022.10.19 |
 | 961 | [完成所有交易的初始最少钱数 - Minimum Money Required Before Transactions](https://leetcode.cn/problems/minimum-money-required-before-transactions/description/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Money-Required-Before-Transactions.cpp) | Hard | 2022.10.20 |
+| 962 | [银联-1. 重构链表](https://leetcode.cn/contest/cnunionpay2022/problems/VLNEbD/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-1.重构链表.cpp) | Easy | 2022.10.20 |
+| 963 | [银联-2. 勘探补给](https://leetcode.cn/contest/cnunionpay2022/problems/6olJmJ/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-2.勘探补给.cpp) | Middle | 2022.10.20 |
+| 964 | [银联-3. 风能发电](https://leetcode.cn/contest/cnunionpay2022/problems/wMGN0t/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-3.风能发电.cpp) | Middle | 2022.10.20 |
+| 965 | [第K个语法符号 - K-th Symbol in Grammar](https://leetcode.cn/problems/k-th-symbol-in-grammar/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/K-th-Symbol-in-Grammar.cpp) | Middle | 2022.10.20 |
 
 
 
