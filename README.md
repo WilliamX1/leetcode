@@ -1059,6 +1059,14 @@
 | 951 | [反转之后不同整数的数目 - Count Number of Distinct Integers After Reverse Operations](https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Number-of-Distinct-Integers-After-Reverse-Operations.cpp) | Middle | 2022.10.16 |
 | 952 | [反转之后的数字和 - Sum of Number and Its Reverse](https://leetcode.cn/problems/sum-of-number-and-its-reverse/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Number-and-Its-Reverse.cpp) | Middle | 2022.10.16 |
 | 953 | [统计定界子数组的数目 - Count Subarrays With Fixed Bounds](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Subarrays-With-Fixed-Bounds.cpp) | Hard | 2022.10.16 |
+| 954 | [最小偶倍数 - Smallest Even Multiple](https://leetcode.cn/problems/smallest-even-multiple/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Smallest-Even-Multiple.cpp) | Easy | 2022.10.18 |
+| 955 | [最长的字母序连续子字符串的长度 - Length of the Longest Alphabetical Continuous Substring](https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Length-of-the-Longest-Alphabetical-Continuous-Substring.cpp) | Middle | 2022.10.18 |
+| 956 | [反转二叉树的奇数层 - Reverse Odd Levels of Binary Tree](https://leetcode.cn/problems/reverse-odd-levels-of-binary-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reverse-Odd-Levels-of-Binary-Tree.cpp) | Middle | 2022.10.18 |
+| 957 | [字符串的前缀分数和 - Sum of Prefix Scores of Strings](https://leetcode.cn/problems/sum-of-prefix-scores-of-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Sum-of-Prefix-Scores-of-Strings.cpp) | Hard | 2022.10.18 |
+| 958 | [统计共同度过的日子数 - Count Days Spent Together](https://leetcode.cn/problems/count-days-spent-together/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Days-Spent-Together.cpp) | Easy | 2022.10.19 |
+| 959 | [运动员和训练师的最大匹配数 - Maximum Matching of Players With Trainers](https://leetcode.cn/problems/maximum-matching-of-players-with-trainers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Matching-of-Players-With-Trainers.cpp) | Middle | 2022.10.19 |
+| 960 | [按位或最大的最小子数组长度 - Smallest Subarrays With Maximum Bitwise OR](https://leetcode.cn/problems/smallest-subarrays-with-maximum-bitwise-or/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Smallest-Subarrays-With-Maximum-Bitwise-OR.cpp) | Middle | 2022.10.19 |
+| 961 | [完成所有交易的初始最少钱数 - Minimum Money Required Before Transactions](https://leetcode.cn/problems/minimum-money-required-before-transactions/description/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Money-Required-Before-Transactions.cpp) | Hard | 2022.10.20 |
 
 
 
