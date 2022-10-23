@@ -1071,6 +1071,10 @@
 | 963 | [银联-2. 勘探补给](https://leetcode.cn/contest/cnunionpay2022/problems/6olJmJ/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-2.勘探补给.cpp) | Middle | 2022.10.20 |
 | 964 | [银联-3. 风能发电](https://leetcode.cn/contest/cnunionpay2022/problems/wMGN0t/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/银联-3.风能发电.cpp) | Middle | 2022.10.20 |
 | 965 | [第K个语法符号 - K-th Symbol in Grammar](https://leetcode.cn/problems/k-th-symbol-in-grammar/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/K-th-Symbol-in-Grammar.cpp) | Middle | 2022.10.20 |
+| 966 | [判断两个事件是否存在冲突 - Determine if Two Events Have Conflict](https://leetcode.cn/problems/determine-if-two-events-have-conflict/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Determine-if-Two-Events-Have-Conflict.cpp) | Easy | 2022.10.23 |
+| 967 | [最大公因数等于 K 的子数组数目 - Number of Subarrays With GCD Equal to K](https://leetcode.cn/problems/number-of-subarrays-with-gcd-equal-to-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Subarrays-With-GCD-Equal-to-K.cpp) | Middle | 2022.10.23 |
+| 968 | [使数组相等的最小开销 - Minimum Cost to Make Array Equal](https://leetcode.cn/problems/minimum-cost-to-make-array-equal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Make-Array-Equal.cpp) | Hard | 2022.10.23 |
+| 969 | [使数组相似的最少操作次数 - Minimum Number of Operations to Make Arrays Similar](https://leetcode.cn/problems/minimum-number-of-operations-to-make-arrays-similar/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Make-Arrays-Similar.cpp) | Hard | 2022.10.23 |
 
 
 
