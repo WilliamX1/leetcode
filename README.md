@@ -1075,6 +1075,10 @@
 | 967 | [最大公因数等于 K 的子数组数目 - Number of Subarrays With GCD Equal to K](https://leetcode.cn/problems/number-of-subarrays-with-gcd-equal-to-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Subarrays-With-GCD-Equal-to-K.cpp) | Middle | 2022.10.23 |
 | 968 | [使数组相等的最小开销 - Minimum Cost to Make Array Equal](https://leetcode.cn/problems/minimum-cost-to-make-array-equal/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Cost-to-Make-Array-Equal.cpp) | Hard | 2022.10.23 |
 | 969 | [使数组相似的最少操作次数 - Minimum Number of Operations to Make Arrays Similar](https://leetcode.cn/problems/minimum-number-of-operations-to-make-arrays-similar/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Make-Arrays-Similar.cpp) | Hard | 2022.10.23 |
+| 970 | [分割数组 - Partition Array into Disjoint Intervals](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-Array-into-Disjoint-Intervals.cpp) | Middle | 2022.10.24 |
+| 971 | [出现最频繁的偶数元素 - Most Frequent Even Element](https://leetcode.cn/problems/most-frequent-even-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Frequent-Even-Element.cpp) | Easy | 2022.10.24 |
+| 972 | [子字符串的最优划分 - Optimal Partition of String](https://leetcode.cn/problems/optimal-partition-of-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Optimal-Partition-of-String.cpp) | Middle | 2022.10.24 |
+| 973 | [将区间分为最少组数 - Divide Intervals Into Minimum Number of Groups](https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Divide-Intervals-Into-Minimum-Number-of-Groups.cpp) | Middle | 2022.10.24 |
 
 
 
