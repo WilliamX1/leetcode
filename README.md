@@ -1079,6 +1079,9 @@
 | 971 | [出现最频繁的偶数元素 - Most Frequent Even Element](https://leetcode.cn/problems/most-frequent-even-element/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Frequent-Even-Element.cpp) | Easy | 2022.10.24 |
 | 972 | [子字符串的最优划分 - Optimal Partition of String](https://leetcode.cn/problems/optimal-partition-of-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Optimal-Partition-of-String.cpp) | Middle | 2022.10.24 |
 | 973 | [将区间分为最少组数 - Divide Intervals Into Minimum Number of Groups](https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Divide-Intervals-Into-Minimum-Number-of-Groups.cpp) | Middle | 2022.10.24 |
+| 974 | [检查相同字母间的距离 - Check Distances Between Same Letters](https://leetcode.cn/problems/check-distances-between-same-letters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-Distances-Between-Same-Letters.cpp) | Easy | 2022.10.26 |
+| 975 | [恰好移动 k 步到达某一位置的方法数目 - Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Reach-a-Position-After-Exactly-k-Steps.cpp) | Middle | 2022.10.26 |
+| 976 | [最长优雅子数组 - Longest Nice Subarray](https://leetcode.cn/problems/longest-nice-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Nice-Subarray.cpp) | Middle | 2022.10.26 |
 
 
 
