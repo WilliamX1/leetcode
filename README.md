@@ -1082,6 +1082,10 @@
 | 974 | [检查相同字母间的距离 - Check Distances Between Same Letters](https://leetcode.cn/problems/check-distances-between-same-letters/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Check-Distances-Between-Same-Letters.cpp) | Easy | 2022.10.26 |
 | 975 | [恰好移动 k 步到达某一位置的方法数目 - Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Ways-to-Reach-a-Position-After-Exactly-k-Steps.cpp) | Middle | 2022.10.26 |
 | 976 | [最长优雅子数组 - Longest Nice Subarray](https://leetcode.cn/problems/longest-nice-subarray/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Nice-Subarray.cpp) | Middle | 2022.10.26 |
+| 977 | [严格回文的数字 - Strictly Palindromic Number](https://leetcode.cn/problems/strictly-palindromic-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Strictly-Palindromic-Number.cpp) | Middle | 2022.10.27 |
+| 978 | [被列覆盖的最多行数 - Maximum Rows Covered by Columns](https://leetcode.cn/problems/maximum-rows-covered-by-columns/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Rows-Covered-by-Columns.cpp) | Middle | 2022.10.27 |
+| 979 | [预算内的最多机器人数目 - Maximum Number of Robots Within Budget](https://leetcode.cn/problems/maximum-number-of-robots-within-budget/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Robots-Within-Budget.cpp) | Hard | 2022.10.27 |
+| 980 | [和相等的子数组 - Find Subarrays With Equal Sum](https://leetcode.cn/problems/find-subarrays-with-equal-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Subarrays-With-Equal-Sum.cpp) | Easy | 2022.10.27 |
 
 
 
