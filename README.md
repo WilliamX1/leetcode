@@ -1089,6 +1089,9 @@
 | 981 | [和有限的最长子序列 - Longest Subsequence With Limited Sum](https://leetcode.cn/problems/longest-subsequence-with-limited-sum/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Subsequence-With-Limited-Sum.cpp) | Easy | 2022.10.28 |
 | 982 | [从字符串中移除星号 - Removing Stars From a String](https://leetcode.cn/problems/removing-stars-from-a-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Removing-Stars-From-a-String.cpp) | Middle | 2022.10.28 |
 | 983 | [收集垃圾的最少总时间 - Minimum Amount of Time to Collect Garbage](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Amount-of-Time-to-Collect-Garbage.cpp) | Middle | 2022.10.28 |
+| 984 | [九坤-01. 可以读通讯稿的组数](https://leetcode.cn/contest/ubiquant2022/problems/xdxykd/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/九坤-01.可以读通讯稿的组数.cpp) | Easy | 2022.10.29 |
+| 985 | [九坤-02. 池塘计数](https://leetcode.cn/contest/ubiquant2022/problems/3PHTGp/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/九坤-02.池塘计数.cpp) | Middle | 2022.10.29 |
+| 986 | [九坤-03. 数字默契考验](https://leetcode.cn/contest/ubiquant2022/problems/uGuf0v/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/九坤-03.数字默契考验.cpp) | Middle | 2022.10.29 |
 
 
 
