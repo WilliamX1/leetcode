@@ -1097,6 +1097,10 @@
 | 989 | [摧毁一系列目标 - Destroy Sequential Targets](https://leetcode.cn/problems/destroy-sequential-targets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Destroy-Sequential-Targets.cpp) | Middle | 2022.10.30 |
 | 990 | [下一个更大元素 IV - Next Greater Element IV](https://leetcode.cn/problems/next-greater-element-iv/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Next-Greater-Element-IV.cpp) | Hard | 2022.10.30 |
 | 991 | [字母大小写全排列 - Letter Case Permutation](https://leetcode.cn/problems/letter-case-permutation/description/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Letter-Case-Permutation.cpp) | Middle | 2022.10.30 |
+| 992 | [可被三整除的偶数的平均值 - Average Value of Even Numbers That Are Divisible by Three](https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.cpp) | Easy | 2022.10.30 |
+| 993 | [最流行的视频创作者 - Most Popular Video Creator](https://leetcode.cn/problems/most-popular-video-creator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Popular-Video-Creator.cpp) | Middle | 2022.10.30 |
+| 994 | [最流行的视频创作者 - Most Popular Video Creator](https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Addition-to-Make-Integer-Beautiful.cpp) | Middle | 2022.10.30 |
+| 995 | [移除子树后的二叉树高度 - Height of Binary Tree After Subtree Removal Queries](https://leetcode.cn/problems/height-of-binary-tree-after-subtree-removal-queries/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Height-of-Binary-Tree-After-Subtree-Removal-Queries.cpp) | Hard | 2022.10.30 |
 
 
 
