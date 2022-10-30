@@ -1092,6 +1092,11 @@
 | 984 | [九坤-01. 可以读通讯稿的组数](https://leetcode.cn/contest/ubiquant2022/problems/xdxykd/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/九坤-01.可以读通讯稿的组数.cpp) | Easy | 2022.10.29 |
 | 985 | [九坤-02. 池塘计数](https://leetcode.cn/contest/ubiquant2022/problems/3PHTGp/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/九坤-02.池塘计数.cpp) | Middle | 2022.10.29 |
 | 986 | [九坤-03. 数字默契考验](https://leetcode.cn/contest/ubiquant2022/problems/uGuf0v/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/九坤-03.数字默契考验.cpp) | Middle | 2022.10.29 |
+| 987 | [差值数组不同的字符串 - Odd String Difference](https://leetcode.cn/problems/odd-string-difference/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Odd-String-Difference.cpp) | Easy | 2022.10.29 |
+| 988 | [距离字典两次编辑以内的单词 - Words Within Two Edits of Dictionary](https://leetcode.cn/problems/words-within-two-edits-of-dictionary/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Words-Within-Two-Edits-of-Dictionary.cpp) | Middle | 2022.10.29 |
+| 989 | [摧毁一系列目标 - Destroy Sequential Targets](https://leetcode.cn/problems/destroy-sequential-targets/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Destroy-Sequential-Targets.cpp) | Middle | 2022.10.30 |
+| 990 | [下一个更大元素 IV - Next Greater Element IV](https://leetcode.cn/problems/next-greater-element-iv/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Next-Greater-Element-IV.cpp) | Hard | 2022.10.30 |
+| 991 | [字母大小写全排列 - Letter Case Permutation](https://leetcode.cn/problems/letter-case-permutation/description/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Letter-Case-Permutation.cpp) | Middle | 2022.10.30 |
 
 
 
