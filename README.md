@@ -1101,6 +1101,11 @@
 | 993 | [最流行的视频创作者 - Most Popular Video Creator](https://leetcode.cn/problems/most-popular-video-creator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Most-Popular-Video-Creator.cpp) | Middle | 2022.10.30 |
 | 994 | [最流行的视频创作者 - Most Popular Video Creator](https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Addition-to-Make-Integer-Beautiful.cpp) | Middle | 2022.10.30 |
 | 995 | [移除子树后的二叉树高度 - Height of Binary Tree After Subtree Removal Queries](https://leetcode.cn/problems/height-of-binary-tree-after-subtree-removal-queries/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Height-of-Binary-Tree-After-Subtree-Removal-Queries.cpp) | Hard | 2022.10.30 |
+| 996 | [对数组执行操作 - Apply Operations to an Array](https://leetcode.cn/problems/apply-operations-to-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Apply-Operations-to-an-Array.cpp) | Easy | 2022.11.6 |
+| 997 | [长度为 K 子数组中的最大和 - Maximum Sum of Distinct Subarrays With Length K](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-of-Distinct-Subarrays-With-Length-K.cpp) | Middle | 2022.11.6 |
+| 998 | [雇佣 K 位工人的总代价 - Total Cost to Hire K Workers](https://leetcode.cn/problems/total-cost-to-hire-k-workers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Total-Cost-to-Hire-K-Workers.cpp) | Middle | 2022.11.6 |
+| 999 | [最小移动总距离 - Minimum Total Distance Traveled](https://leetcode.cn/problems/minimum-total-distance-traveled/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Total-Distance-Traveled.cpp) | Hard | 2022.11.6 |
+
 
 
 
