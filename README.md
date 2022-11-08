@@ -1105,7 +1105,11 @@
 | 997 | [长度为 K 子数组中的最大和 - Maximum Sum of Distinct Subarrays With Length K](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Sum-of-Distinct-Subarrays-With-Length-K.cpp) | Middle | 2022.11.6 |
 | 998 | [雇佣 K 位工人的总代价 - Total Cost to Hire K Workers](https://leetcode.cn/problems/total-cost-to-hire-k-workers/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Total-Cost-to-Hire-K-Workers.cpp) | Middle | 2022.11.6 |
 | 999 | [最小移动总距离 - Minimum Total Distance Traveled](https://leetcode.cn/problems/minimum-total-distance-traveled/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Total-Distance-Traveled.cpp) | Hard | 2022.11.6 |
-
+| 1000 | [统计一致字符串的数目 - Count the Number of Consistent Strings](https://leetcode.cn/problems/count-the-number-of-consistent-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-the-Number-of-Consistent-Strings.cpp) | Easy | 2022.11.8 |
+| 1001 | [赢得比赛需要的最少训练时长 - Minimum Hours of Training to Win a Competition](https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Hours-of-Training-to-Win-a-Competition.cpp) | Easy | 2022.11.8 |
+| 1002 | [最大回文数字 - Largest Palindromic Number](https://leetcode.cn/problems/largest-palindromic-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Palindromic-Number.cpp) | Middle | 2022.11.8 |
+| 1003 | [感染二叉树需要的总时间 - Amount of Time for Binary Tree to Be Infected](https://leetcode.cn/problems/amount-of-time-for-binary-tree-to-be-infected/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Amount-of-Time-for-Binary-Tree-to-Be-Infected.cpp) | Middle | 2022.11.8 |
+| 1004 | [找出数组的第 K 大和 - Find the K-Sum of an Array](https://leetcode.cn/problems/find-the-k-sum-of-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-K-Sum-of-an-Array.cpp) | Hard | 2022.11.8 |
 
 
 
