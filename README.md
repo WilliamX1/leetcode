@@ -1110,6 +1110,11 @@
 | 1002 | [最大回文数字 - Largest Palindromic Number](https://leetcode.cn/problems/largest-palindromic-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Palindromic-Number.cpp) | Middle | 2022.11.8 |
 | 1003 | [感染二叉树需要的总时间 - Amount of Time for Binary Tree to Be Infected](https://leetcode.cn/problems/amount-of-time-for-binary-tree-to-be-infected/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Amount-of-Time-for-Binary-Tree-to-Be-Infected.cpp) | Middle | 2022.11.8 |
 | 1004 | [找出数组的第 K 大和 - Find the K-Sum of an Array](https://leetcode.cn/problems/find-the-k-sum-of-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-the-K-Sum-of-an-Array.cpp) | Hard | 2022.11.8 |
+| 1005 | [得到 K 个黑块的最少涂色次数 - Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks.cpp) | Easy | 2022.11.9 |
+| 1006 | [二进制字符串重新安排顺序需要的时间 - Time Needed to Rearrange a Binary String](https://leetcode.cn/problems/time-needed-to-rearrange-a-binary-string/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Time-Needed-to-Rearrange-a-Binary-String.cpp) | Middle | 2022.11.9 |
+| 1007 | [二进制字符串重新安排顺序需要的时间 - Time Needed to Rearrange a Binary String](https://leetcode.cn/problems/shifting-letters-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shifting-Letters-II.cpp) | Middle | 2022.11.9 |
+| 1008 | [删除操作后的最大子段和 - Maximum Segment Sum After Removals](https://leetcode.cn/problems/maximum-segment-sum-after-removals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Segment-Sum-After-Removals.cpp) | Hard | 2022.11.9 |
+| 1009 | [最大加号标志 - Largest Plus Sign](https://leetcode.cn/problems/largest-plus-sign/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Plus-Sign.cpp) | Middle | 2022.11.9 |
 
 
 
