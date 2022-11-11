@@ -1115,6 +1115,9 @@
 | 1007 | [二进制字符串重新安排顺序需要的时间 - Time Needed to Rearrange a Binary String](https://leetcode.cn/problems/shifting-letters-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Shifting-Letters-II.cpp) | Middle | 2022.11.9 |
 | 1008 | [删除操作后的最大子段和 - Maximum Segment Sum After Removals](https://leetcode.cn/problems/maximum-segment-sum-after-removals/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Segment-Sum-After-Removals.cpp) | Hard | 2022.11.9 |
 | 1009 | [最大加号标志 - Largest Plus Sign](https://leetcode.cn/problems/largest-plus-sign/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Largest-Plus-Sign.cpp) | Middle | 2022.11.9 |
+| 1010 | [好数对的数目 - Number of Good Pairs](https://leetcode.cn/problems/number-of-good-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Good-Pairs.cpp) | Easy | 2022.11.11 |
+| 1011 | [设计有序流 - Design an Ordered Stream](https://leetcode.cn/problems/design-an-ordered-stream/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-an-Ordered-Stream.cpp) | Easy | 2022.11.11 |
+| 1012 | [判断字符串的两半是否相似 - Determine if String Halves Are Alike](https://leetcode.cn/problems/determine-if-string-halves-are-alike/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Determine-if-String-Halves-Are-Alike.cpp) | Easy | 2022.11.11 |
 
 
 
