@@ -1118,6 +1118,12 @@
 | 1010 | [好数对的数目 - Number of Good Pairs](https://leetcode.cn/problems/number-of-good-pairs/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Good-Pairs.cpp) | Easy | 2022.11.11 |
 | 1011 | [设计有序流 - Design an Ordered Stream](https://leetcode.cn/problems/design-an-ordered-stream/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-an-Ordered-Stream.cpp) | Easy | 2022.11.11 |
 | 1012 | [判断字符串的两半是否相似 - Determine if String Halves Are Alike](https://leetcode.cn/problems/determine-if-string-halves-are-alike/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Determine-if-String-Halves-Are-Alike.cpp) | Easy | 2022.11.11 |
+| 1013 | [不同的平均值数目 - Number of Distinct Averages](https://leetcode.cn/problems/number-of-distinct-averages/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Distinct-Averages.cpp) | Easy | 2022.11.13 |
+| 1014 | [统计构造好字符串的方案数 - Count Ways To Build Good Strings](https://leetcode.cn/problems/count-ways-to-build-good-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Ways-To-Build-Good-Strings.cpp) | Middle | 2022.11.13 |
+| 1015 | [温度转换 - Convert the Temperature](https://leetcode.cn/problems/convert-the-temperature/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Convert-the-Temperature.cpp) | Easy | 2022.11.13 |
+| 1016 | [最小公倍数为 K 的子数组数目 - Number of Subarrays With LCM Equal to K](https://leetcode.cn/problems/convert-the-temperature/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Subarrays-With-LCM-Equal-to-K.cpp) | Middle | 2022.11.13 |
+| 1017 | [逐层排序二叉树所需的最少操作数目 - Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.cn/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level.cpp) | Middle | 2022.11.13 |
+| 1018 | [不重叠回文子字符串的最大数目 - Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.cn/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Non-overlapping-Palindrome-Substrings.cpp) | Hard | 2022.11.13 |
 
 
 
