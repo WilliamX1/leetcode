@@ -1124,6 +1124,13 @@
 | 1016 | [最小公倍数为 K 的子数组数目 - Number of Subarrays With LCM Equal to K](https://leetcode.cn/problems/convert-the-temperature/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Subarrays-With-LCM-Equal-to-K.cpp) | Middle | 2022.11.13 |
 | 1017 | [逐层排序二叉树所需的最少操作数目 - Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.cn/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level.cpp) | Middle | 2022.11.13 |
 | 1018 | [不重叠回文子字符串的最大数目 - Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.cn/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Number-of-Non-overlapping-Palindrome-Substrings.cpp) | Hard | 2022.11.13 |
+| 1019 | [统计相似字符串对的数目 - Count Pairs Of Similar Strings](https://leetcode.cn/problems/count-pairs-of-similar-strings/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Pairs-Of-Similar-Strings.cpp) | Easy | 2022.12.20 |
+| 1020 | [使用质因数之和替换后可以取到的最小值 - Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.cn/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Smallest-Value-After-Replacing-With-Sum-of-Prime-Factors.cpp) | Middle | 2022.12.20 |
+| 1021 | [添加边使所有节点度数都为偶数 - Add Edges to Make Degrees of All Nodes Even](https://leetcode.cn/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Add-Edges-to-Make-Degrees-of-All-Nodes-Even.cpp) | Hard | 2022.12.20 |
+| 1022 | [查询树中环的长度 - Cycle Length Queries in a Tree](https://leetcode.cn/problems/cycle-length-queries-in-a-tree/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Cycle-Length-Queries-in-a-Tree.cpp) | Hard | 2022.12.20 |
+| 1023 | [删除每行中的最大值 - Delete Greatest Value in Each Row](https://leetcode.cn/problems/delete-greatest-value-in-each-row/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Delete-Greatest-Value-in-Each-Row.cpp) | Easy | 2022.12.20 |
+| 1024 | [数组中最长的方波 - Longest Square Streak in an Array](https://leetcode.cn/problems/longest-square-streak-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Square-Streak-in-an-Array.cpp) | Middle | 2022.12.20 |
+| 1025 | [设计内存分配器 - Design Memory Allocator](https://leetcode.cn/problems/design-memory-allocator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-Memory-Allocator.cpp) | Middle | 2022.12.20 |
 
 
 
