@@ -1131,6 +1131,9 @@
 | 1023 | [删除每行中的最大值 - Delete Greatest Value in Each Row](https://leetcode.cn/problems/delete-greatest-value-in-each-row/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Delete-Greatest-Value-in-Each-Row.cpp) | Easy | 2022.12.20 |
 | 1024 | [数组中最长的方波 - Longest Square Streak in an Array](https://leetcode.cn/problems/longest-square-streak-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Longest-Square-Streak-in-an-Array.cpp) | Middle | 2022.12.20 |
 | 1025 | [设计内存分配器 - Design Memory Allocator](https://leetcode.cn/problems/design-memory-allocator/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Design-Memory-Allocator.cpp) | Middle | 2022.12.20 |
+| 1026 | [数组中字符串的最大值 - Maximum Value of a String in an Array](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Value-of-a-String-in-an-Array.cpp) | Easy | 2022.12.22 |
+| 1027 | [图中最大星和 - Maximum Star Sum of a Graph](https://leetcode.cn/problems/maximum-star-sum-of-a-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Star-Sum-of-a-Graph.cpp) | Middle | 2022.12.22 |
+| 1028 | [青蛙过河 II - Frog Jump II](https://leetcode.cn/problems/frog-jump-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frog-Jump-II.cpp) | Middle | 2022.12.22 |
 
 
 
