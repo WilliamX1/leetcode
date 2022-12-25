@@ -1134,6 +1134,14 @@
 | 1026 | [数组中字符串的最大值 - Maximum Value of a String in an Array](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Value-of-a-String-in-an-Array.cpp) | Easy | 2022.12.22 |
 | 1027 | [图中最大星和 - Maximum Star Sum of a Graph](https://leetcode.cn/problems/maximum-star-sum-of-a-graph/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Star-Sum-of-a-Graph.cpp) | Middle | 2022.12.22 |
 | 1028 | [青蛙过河 II - Frog Jump II](https://leetcode.cn/problems/frog-jump-ii/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Frog-Jump-II.cpp) | Middle | 2022.12.22 |
+| 1029 | [最多可以摧毁的敌人城堡数目 - Maximum Enemy Forts That Can Be Captured](https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Enemy-Forts-That-Can-Be-Captured.cpp) | Easy | 2022.12.25 |
+| 1030 | [奖励最顶尖的 K 名学生 - Reward Top K Students](https://leetcode.cn/problems/reward-top-k-students/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Reward-Top-K-Students.cpp) | Middle | 2022.12.25 |
+| 1031 | [最小化两个数组中的最大值 - Minimize the Maximum of Two Arrays](https://leetcode.cn/problems/minimize-the-maximum-of-two-arrays/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Minimize-the-Maximum-of-Two-Arrays.cpp) | Middle | 2022.12.25 |
+| 1032 | [统计同位异构字符串数目 - Count Anagrams](https://leetcode.cn/problems/count-anagrams/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-Anagrams.cpp) | Hard | 2022.12.25 |
+| 1033 | [到目标字符串的最短距离 - Shortest Distance to Target String in a Circular Array](https://leetcode.cn/problems/shortest-distance-to-target-string-in-a-circular-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Take-K-of-Each-Character-From-Left-and-Right.cpp) | Easy | 2022.12.25 |
+| 1034 | [每种字符至少取 K 个 - Take K of Each Character From Left and Right](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Take-K-of-Each-Character-From-Left-and-Right.cpp) | Middle | 2022.12.25 |
+| 1035 | [礼盒的最大甜蜜度 - Maximum Tastiness of Candy Basket](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Tastiness-of-Candy-Basket) | Middle | 2022.12.25 |
+| 1036 | [好分区的数目 - Number of Great Partitions](https://leetcode.cn/problems/number-of-great-partitions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Great-Partitions.cpp) | Hard | 2022.12.25 |
 
 
 
