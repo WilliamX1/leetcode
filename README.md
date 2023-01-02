@@ -1142,6 +1142,10 @@
 | 1034 | [每种字符至少取 K 个 - Take K of Each Character From Left and Right](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Take-K-of-Each-Character-From-Left-and-Right.cpp) | Middle | 2022.12.25 |
 | 1035 | [礼盒的最大甜蜜度 - Maximum Tastiness of Candy Basket](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximum-Tastiness-of-Candy-Basket) | Middle | 2022.12.25 |
 | 1036 | [好分区的数目 - Number of Great Partitions](https://leetcode.cn/problems/number-of-great-partitions/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Number-of-Great-Partitions.cpp) | Hard | 2022.12.25 |
+| 1037 | [统计能整除数字的位数 - Count the Digits That Divide a Number](https://leetcode.cn/problems/count-the-digits-that-divide-a-number/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Count-the-Digits-That-Divide-a-Number.cpp) | Easy | 2023.1.2 |
+| 1038 | [数组乘积中的不同质因数数目 - Distinct Prime Factors of Product of Array](https://leetcode.cn/problems/distinct-prime-factors-of-product-of-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distinct-Prime-Factors-of-Product-of-Array.cpp) | Middle | 2023.1.2 |
+| 1039 | [将字符串分割成值不超过 K 的子字符串 - Partition String Into Substrings With Values at Most K](https://leetcode.cn/problems/partition-string-into-substrings-with-values-at-most-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-String-Into-Substrings-With-Values-at-Most-K.cpp) | Middle | 2023.1.2 |
+| 1040 | [范围内最接近的两个质数 - Closest Prime Numbers in Range](https://leetcode.cn/problems/closest-prime-numbers-in-range/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Closest-Prime-Numbers-in-Range.cpp) | Middle | 2023.1.2 |
 
 
 
