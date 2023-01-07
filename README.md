@@ -1146,6 +1146,10 @@
 | 1038 | [数组乘积中的不同质因数数目 - Distinct Prime Factors of Product of Array](https://leetcode.cn/problems/distinct-prime-factors-of-product-of-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Distinct-Prime-Factors-of-Product-of-Array.cpp) | Middle | 2023.1.2 |
 | 1039 | [将字符串分割成值不超过 K 的子字符串 - Partition String Into Substrings With Values at Most K](https://leetcode.cn/problems/partition-string-into-substrings-with-values-at-most-k/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Partition-String-Into-Substrings-With-Values-at-Most-K.cpp) | Middle | 2023.1.2 |
 | 1040 | [范围内最接近的两个质数 - Closest Prime Numbers in Range](https://leetcode.cn/problems/closest-prime-numbers-in-range/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Closest-Prime-Numbers-in-Range.cpp) | Middle | 2023.1.2 |
+| 1041 | [根据规则将箱子分类 - Categorize Box According to Criteria](https://leetcode.cn/problems/categorize-box-according-to-criteria/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Categorize-Box-According-to-Criteria.cpp) | Easy | 2023.1.7 |
+| 1042 | [找到数据流中的连续整数 - Find Consecutive Integers from a Data Stream](https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Consecutive-Integers-from-a-Data-Stream.cpp) | Middle | 2023.1.7 |
+| 1043 | [查询数组 Xor 美丽值 - Find Xor-Beauty of Array](https://leetcode.cn/problems/find-xor-beauty-of-array/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Find-Xor-Beauty-of-Array.cpp) | Middle | 2023.1.7 |
+| 1044 | [最大化城市的最小供电站数目 - Maximize the Minimum Powered City](https://leetcode.cn/problems/maximize-the-minimum-powered-city/) | [C++](https://github.com/WilliamX1/leetcode/blob/main/Solutions/Maximize-the-Minimum-Powered-City.cpp) | Hard | 2023.1.7 |
 
 
 
